@@ -1,0 +1,578 @@
+Scott G. Stephenson Verisk Analytics, Inc. - Chairman, President & CEO
+CONFERENCE CALL PARTICIPANTS
+ 
+Scott G. Stephenson Verisk Analytics, Inc. - Chairman, President & CEO
+Thanks, Lee. Good morning, everybody. The first quarter was another example of our team achieving a high level of organic revenue
+growth, which remains the most important measure of our vitality as an organization. This growth was a product of our traditional
+multilevel growth plan, including: first, the development of new customers for existing solutions, such as was seen in our claims analytics
+platform; secondly, the cross-selling of our existing solutions to existing customers as seen in our imagery solutions and upstream oil
+and gas analytics; and thirdly, new products, including insurance data hosting.
+Over the last  days, I was particularly impressed by the quality of our engagement with many large leading customers, resulting in
+real-time business wins and opportunities into the future. We continue to enjoy visits from the most senior leaders of some of our biggest
+customers, who are looking to get closer to our pipeline of innovations. We held the largest gathering in our history for customers of our
+catastrophe analytics solutions and were impressed again with the level of engagement and input from our clients. Our results in the
+energy vertical in terms of renewals exceeded our expectations.
+Scott G. Stephenson Verisk Analytics, Inc. - Chairman, President & CEO
+Yes. So we're always thinking about how to present our products to our customers. And in general, you should understand our pricing to
+be value-based pricing. So we're trying to understand the ROIs that customers generate based on using our solutions and then
+essentially determine what fraction of that we can sustainably hold on to in terms of how we price into the customers. And so really it's a
+function of how much value the next data set, the next software solution is generating, and it's on that basis that we put the price out
+there. There's always a price effect in everything that we do. It's seen across all the verticals. And anything which is a multiyear
+subscription, it's generally the case that those contracts will have price escalation year-over-year. So pricing is a part of our overall
+organic rate of revenue growth. It's not the greatest part. It's a contributor, but it's well below 50% of what's going on in terms of our
+organic revenue growth.
+ 
+Scott G. Stephenson Verisk Analytics, Inc. - Chairman, President & CEO
+Yes, so -- and Mark, please feel free to jump in if you have any additional thoughts. I'm going to broaden out your question just a little bit.
+It's true across essentially all of our customers that one of the options that they have, of course, and they usually take advantage of the
+Scott G. Stephenson Verisk Analytics, Inc. - Chairman, President & CEO
+It has to be, I don't know, mid-single-digits probably, 5-ish to 6-ish.
+ 
+Scott G. Stephenson Verisk Analytics, Inc. - Chairman, President & CEO
+Yes. So maybe in reverse order, Tim. We're kind of right in the middle of it right now, so I think we're sort of at the investment level that is
+required. It has both effects that you were talking about. So first of all, there's a, as you would imagine, a massive amount of data that's a
+part of what Wood Mackenzie does. But one of the things that a modern data analytic company can do is actually more highly automate
+data extraction, data cleansing and then data integration so that all of the data sets come together in a way that they're easily presented
+to the analytic layer, you can build new products. And so there is an efficiency effect there, which we expect to enjoy as we move through
+this 2.0 migration. But then the other part of it is that, and I'm now alluding back to what I said in my comments, one of the big things
+that's happened in the energy space is that everything has sped up. If what you're trying to do is to harness competitive intelligence and
+make your investments and run your operations, everything has just sped up, and that's largely the effect of the United States. Basically,
+sort of the old form was an offshore big development, which would have hundreds of millions of dollars of investment and  to 10-year
+planning and execution cycles to get into business. Now in the unconventionals in the lower 48, you can basically move a rig and  days
+later have a 1,500-foot well. And so planning cycles in a world like that are measured in weeks. And so one of the things that is necessary
+in that world, if you're going to stay on top of competitive intelligence and have really fresh and relevant solutions, is you've just got to
+speed up. And that's one of -- that will be one of the major effects of WoodMac 2.0. The other one is actually interacting even more
+deeply with customers' own decisioning platforms, more melding of their data with our data with other forms of data that we don't even
+use today. And so the kind of the overall point, which is to help our customers make better decisions faster, that's always been the point
+and will continue to be the point. But by degrees, what we put out there will actually look different and be more valuable because of data
+integration plus the deeper connectivity between our data sets and the customers' data sets.
+Scott G. Stephenson Verisk Analytics, Inc. - Chairman, President & CEO
+Right. So Lisa is not here, but I feel comfortable answering on her behalf. We, as you would imagine, spend a lot of time together talking
+about all this. The path to growth is going to be the same as it has been. I called out in my remarks that  of the streams -- revenue
+streams at Argus that will be particularly meaningful are media effectiveness, regulatory solutions and data hosting. And so to really be
+a function of each of those streams finding their mark, we're -- at this point,  of the top  credit card issuers in the English-speaking
+world are in our data consortium and customers for our solutions. And so just the building of the consortium now, it's really down to
+additional countries, I guess, is the way that I would put it, and we're having some success there. But there have been moments over the
+course of the last  years where a pretty good contributor to growth was more issuers coming into the consortium. At this point, that's a
+little more established. So that part of the revenue stack can grow, but it won't grow quite as fast. And so it's those other  components.
+And that's not really a change from where we've been. So we're really down to execution, and I referenced a timing effect as it related to
+the first quarter of 2018. But as I mentioned, the long-term view is that this is a business which, for  years through 2017, grew in the low
+to mid-teens. There's -- the depth and the power of our data asset is greater in  than it was in  at the beginning of that time
+period. The customer demography has not really changed, so we see a lot of opportunity for this business to grow.
+ 
+Scott G. Stephenson Verisk Analytics, Inc. - Chairman, President & CEO
+Yes. So you -- there are actually  things here, Manav, and you kind of put them together a little bit, so let me pull them apart for you.
+WoodMac 2.0 and the breakout solutions are not the same thing. Breakout solutions are things that we're presenting to customers that
+they find valuable, which operate in their environments and help them to run their businesses and make progress. And Lee referenced
+those at some length. Those are relatively large categories of spending. The good news is that each of those, whether it's subsurface or
+it's power and renewables, we actually find good growth associated with those. We're very happy. Having sort of launched these things
+and given where they are in their progress, the margins will improve as they grow. The margins are not as high as the other things that
+we do today, and so that's -- you have both of those effects at work. WoodMac 2.0 is something different. That's about capabilities.
+That's about WoodMac being a 21st-century, fully equipped, modern data analytic machine. And the data analytic work that WoodMac
+has done historically has been very unique and the content has been very unique. But the actual data analytic methods have not really
+been as strong or as advanced as those in other parts of Verisk. So our thesis, even when we got started and here we are now, is that the
+rest of Verisk could apply methods and help make progress. It's taking a while, and I referenced that  would be sort of a moment of
+milestones with regard to all of that, but that will be the ongoing work. You just need to separate those  forms of investment.
+ 
+Scott G. Stephenson Verisk Analytics, Inc. - Chairman, President & CEO
+Yes. Actually, there's one other point I want to make around profitability levels at WoodMac, and that is you can actually see our
+philosophy at Verisk at work if you look at WoodMac over the last several years. And what I mean by that is there was a remarkable
+discontinuity in the end market in the energy space, remarkable. The industry, globally, meaning our customers, shed hundreds -- about
+350,000 jobs globally. The choice that we made was that we're in this for the long haul. So we didn't slash headcounts. We didn't
+penalize our people by saying, "Okay. There was this downturn, but you're just going to get paid a lot less because we're groping for a
+near-term margin impact." And I think we've been rewarded for that. Our performance relative to referenced competitors in the space
+with respect to growth has been considerably better. But this is our philosophy at Verisk. As much as our business runs on intellectual
+capital, and it does, a lot of that is tied to our people and the greatest part of our cost structure is our people. And we're going to manage
+for the long term, and that is absolutely what we've done as we've moved through with WoodMac. And so you can see that in terms of the
+choices that we've made in light of a very difficult external environment. We thought long term and we remained investment-minded,
+and that's what we'll always do at Verisk.
+ 
+Scott G. Stephenson Verisk Analytics, Inc. - Chairman, President & CEO
+I think you're just reading that wrong. We just -- at the start of the year, I think we want to give a sense as to what -- where things look
+contextually. Nothing has, I think, changed in that outlook. We just are not providing a specific estimate for 2018. We are working
+towards our targets. You can see that we successfully achieved that in the first quarter. We've done that consistently over the past few
+quarters, and we think that should be the basis for investor and analyst perspective on 2018.
+ 
+Scott G. Stephenson Verisk Analytics, Inc. - Chairman, President & CEO
+And Mark, maybe just picking up on the point, maybe you and I could dialogue about  things real quick. So one is in the ACE-Chubb
+situation, is it fair to say that actually we're now looking at cross-sell opportunities that could probably actually cause the combined
+account to be bigger than it was, maybe even materially bigger than it was when -- than before the time when they were separate
+entities. Is that fair?
+ 
+Scott G. Stephenson Verisk Analytics, Inc. - Chairman, President & CEO
+And maybe get your view on one other thing, which is the announced AXA, XL Catlin put together. Kind of my view is I think that that's
+probably actually good news for us because AXA, a more global company, has made relatively less use of what we do to date. XL Catlin
+has been a very strong, well-established customer. I think there will be flow from -- or there could be flow from XL Catlin into AXA. What
+do you see?
+ 
+Scott G. Stephenson Verisk Analytics, Inc. - Chairman, President & CEO
+Yes. And Mark, let me invite your comments. I think the answer to inflection point is I think more in terms of curves than steps when we --
+as we sort of build all of this. So I do think that the data exchange becomes just that much more inevitable as it grows, so you do have
+that effect. On the other hand, you've got -- sort of every OEM seems to be its own special case and the rate at which they look at these
+opportunities and what they think they're going to get out of vehicle telemetry just seems to vary from OEM to OEM. So I think it's
+something short of kind of a -- sort of a herd movement, but I do think that sort of the next contributor is that much closer to hand
+because of having reached roughly 1/3 of the market, as Mark has described. And the revenue side of it will look like a curve also
+because, as the data deepens, it'll just be that much more compelling an increasingly larger number of insurers to ones who access the
+data and build their process around these data. So I would encourage you to think in terms of curves rather than step changes. But it is
+very encouraging, and I compliment our team for having gotten this far. I mean, we are clearly the leader in this category, hands down. In
+fact, I don't really actually think anybody else is really in this category. It seems to belong to us.
+ 
+Scott G. Stephenson Verisk Analytics, Inc. - Chairman, President & CEO
+So operator, I think that concludes our session for today.
+ 
+Scott G. Stephenson Verisk Analytics, Inc. - Chairman, President & CEO
+Okay. Well, I just wanted to say before we sign off, thank you, everybody, for your interest and for the questions today. I hope and I believe
+that the expanded presentation that we're providing you is giving you a deeper look into the company. We're very happy for you to have
+that deeper look because we're actually very confident in where our business sits and where it's going, and so we want everybody to kind
+of appreciate the dynamics of our business. And so I imagine that our conversations going forward will just be enriched by the greater
+disclosures. So thanks for your interest, and we'll talk to many of you in the coming days and weeks and look forward to it.
+ 
+Scott G. Stephenson Verisk Analytics, Inc. - Chairman, President & CEO
+Bye for now.
+Scott G. Stephenson Verisk Analytics, Inc. - Chairman, President & CEO
+CONFERENCE CALL PARTICIPANTS
+ 
+Scott G. Stephenson Verisk Analytics, Inc. - Chairman, President & CEO
+Thanks, Lee. Good morning, everybody. I'm pleased overall with the second quarter results we are reporting today and with the progress
+occurring across our business.
+I recently had  weeks in Europe with some of our largest customers and our leadership teams and come away encouraged about our
+situation and forward opportunities.
+Let me summarize some of what I saw and heard. On the insurance front, we are a different company in the London and U.K. markets
+than we were just  year ago. Across many meetings, it became clear that our customers see and understand the logic of the new
+solutions we have brought to market through a combination of organic developments and acquisition.
+On several occasions, I heard customers comment on the unique position we have achieved in the U.K. along with their anticipation of
+newly integrated offerings from Verisk. I hear customers referring to Verisk as a partner more frequently than in the past. They are asking
+for deeper dives into our solution sets and pipeline of new developments. Virtually every conversation with customers was
+forward-looking in nature, which is a good sign for our future.
+I also met with the senior leadership of some of Europe's largest energy businesses. I heard continuing affirmation of the must-have
+quality of the data and the analytics we provide.
+Equally encouraging were discussions around the need to transform commercial decision-making in the oil and gas industry through the
+application of modern data analytic methods.
+This point is deeply felt by the energy companies who are awash in technical data but have yet to realize the promise of optimized
+commercial decision-making.
+A goal of our Energy business customers is planning cycles measured in weeks rather than years, which can only be achieved with a level
+of cost and productivity benchmarking, which has previously been unseen.
+Our customers in Europe and indeed, everywhere, see us as a natural partner in helping them achieve this transformation.
+I spent an enjoyable afternoon in the offices of one of Argus' leading U.K. customers. It was great to spend time not only with our
+customer, but also our several person team who sit in the customers' offices, representing a wonderful level of intimacy.
+After reviewing the considerable value attached to our current solutions, the conversation with our executive sponsor then moved to
+future opportunities to harness machine learning to amplify their analytics. Again, the conversation was primarily about the future and
+how our  companies can partner.
+A consistent message across customer meetings is that some of the most important work being done by our customers is harnessing
+data and analytics to improve their business results, and they see Verisk as a unique partner in doing so.
+With that, let me hand it over to Mark for some comments on the insurance vertical.
+Scott G. Stephenson Verisk Analytics, Inc. - Chairman, President & CEO
+When we think about international opportunity as it relates to the insurance vertical, first of all, it's not just about the London and U.K.
+markets. We're actually pushing out in a number of European and Asian markets. I was highlighting London and U.K. partly because
+that's where I just was with the customers, but also partly because that is the largest part of our non-North American footprint today. I
+don't really see a lot of headwinds. I can tell you what the work consists of. The work consists of taking the methods that we've developed
+in the United States tailoring -- tuning them -- not tailoring them, tuning them to the local markets and then infusing them with a lot of
+good local data. We know how to do that. That is, in fact, what we're presenting in these overseas markets today. So it's organic. It feels
+very natural, and what we need and what we have are great people on the ground in these markets that understand the local customers
+and local conditions and can just cause our solutions to be their most relevant and make clear to the customers the value that they
+represent. But it's not -- it's mostly white space for us. I mean, Verisk, as you know, is about order of magnitude, 25% non-U. S. today.
+And it's a big world out there. So this is a long, sustained march for us. But I don't think of it in terms of headwinds. I think of it in terms of
+great people on the ground locally, taking what we're already good at and making it relevant.
+ 
+Scott G. Stephenson Verisk Analytics, Inc. - Chairman, President & CEO
+Well, yes. It's Scott here. I'll just add that kind of the -- sort of the deep drumbeat where the cost side of our business is concerned, really
+hinges on a couple of things. One is, as Lee was saying, the nature of the computing infrastructure inside of our company is going to
+change and we think, productively. It only costs you about $40,000 to source a raw petabyte of storage capacity in the cloud today, only
+$40,000. I mean, that's remarkable. And so as we move from on-prem to not on-prem, I think we're going to naturally see productivity
+there. Another opportunity for us that is at work now and I think we will make somewhat more use of into the future, will be to diversify
+where our talent comes from. There are talented people all around the globe. And at the moment, at least, there are asymmetries in
+terms of what highly competent professionals get paid. We've made less use of that than we might have. And then  other things real
+quick. One is, just sort of the strong and consistent drive towards effective operations, which we summarized thinking about Lean Six
+Sigma kinds of methodologies, which is really a quiet revolution that's going on inside of our company. And the last thing is, the ability to
+change the very nature of knowledge work by harnessing machine learning. To-date, most of that has been applied to making our
+Scott G. Stephenson Verisk Analytics, Inc. - Chairman, President & CEO
+Well, first of all, I don't, at all, think that things are going wrong at Argus. It's a great business, which is founded on proprietary content
+just like much of -- most of what we do at Verisk. So it's actually a great business and if you were to ask me which of our  verticals over
+the next  years is going to turn in the highest rate of growth, I think there's a very good case to be made that it could be Verisk's
+Financial Services. I actually find it hard to handicap the  of them. I think they're all going to do well. So it's a great business of which we
+and I are very proud and provides wonderful levels of value to our customers. So all of that. Thinking about the last couple of years, as we
+have discussed in the past, 2017, there were a couple of major relationships that cycled out. One part of that was the federal government
+consolidated its use of what it is that we provide and the other was a very large player in the Financial Services world had essentially
+been bulk buying some of what we do on behalf of a lot of banks and they stepped out of that relationship. And so underneath that, we
+had been filling in with relationships with the banks individually. But that was a onetime effect, over and done. In 2018, you have to look
+across the different segments of the business. And one of the things that is at work right now is -- and we did call this out last quarter
+also, is the -- on the media and effectiveness side, I'm going to summarize a lot here in just a few words. But basically, the regulatory
+burden on banks includes really, really requiring a tremendous amount of disclosure around methodologies, which allow the
+discrimination of risk on an individual customer basis. I mean, the size of the report you have to write to justify methods that you're using
+is really kind of astonishing. The banks want to do this differentiating and they find our method as valuable as it ever was, but consuming
+our methods in the form that we had traditionally provided them has just become backbreaking from a regulatory point of view. So we're
+in the middle of rotating right now the way we present that underlying intellectual property to our customers. And so it's a moment
+where that shift is occurring. And then lastly, as Lee pointed out, again, in 2018, not only did he note the year over -- the grow over point
+with respect to the implementation, but we've talked about the couple of quarter delay in terms of actually getting it productive.
+Normally, what I mean -- and this is a truth of the business, when we establish a new relationship, there's a big surge of activity for data
+integration purposes and then this very nice annuity stream kicks in thereafter. The annuity stream is kicking in a couple of quarters later
+than we expected because of the integration issues. So that's what's going on inside the business, but our outlook on this business over
+intermediate and longer periods of time is completely unchanged.
+ 
+Scott G. Stephenson Verisk Analytics, Inc. - Chairman, President & CEO
+Yes. It's both. And let me give you one other contextual point also, which is, of the  verticals we serve -- and I am talking about
+customers now, I'm not talking about us, of the  verticals we serve, the Energy vertical is the one that is least transformed yet by
+large-scale data analytics for commercial decision-making. The companies are awash in technical data. So it's not that they don't know
+big data, but they haven't harnessed it the way that insurance companies and banks have to drive their commercial decision-making.
+And we knew that at that time that we -- in fact, that's one of the reasons why we were so excited to get into a business with WoodMac.
+And then, of course, the double tsunami hit in terms of the commodity price and the Brexit, which is -- what's hard on a U.K.-based
+pound-denominated sort of a company. So in the middle of these storms, we basically trimmed the sails and pulled the boat into port.
+Now the sky is clear, we're back out on the seas full sail. So I just want -- if folks haven't followed our story over the longer periods of
+time, I just wanted to make that point because there is a degree to which WoodMac 2.0 is what we intended from the beginning. And it's
+-- we just know that it's productive to have a very nicely digitally-based platform for all of your data because you can build the next
+generation and the next generation after that of products if your platformed in that way. And I think that the WoodMac that came into
+Verisk in  reflected that -- reflected their customers, basically. In other words, sort of the volume and the speed of the data sets on
+the commercial side, were just not -- it just was not the way that environment had been behaving. So it's not that WoodMac was behind, I
+think they were reflective of the environment they were in, but then the other part of it is, yes, it is responsive to customers because their
+worlds have changed. Essentially, what's going on in the energy -- in the oil and gas energy space is that you used to have these years
+under -- on to decades planning cycles where you would have these bespoke offshore, multi-hundreds of millions of dollars of
+developments and essentially, every project kind of was onto its own. And so you planned in that context. What's happened is about half
+of all the incremental supply has been added in North America. And in North America, the business behaves very differently. You can be
+drilling a well in location X and you can say, "You know what, I want to move that 1,500 yards over there." And  days later, you can have
+a 1,500-foot well. And so planning cycles have reduced to weeks and days and that's actually exciting. The other thing that has
+happened is, it's not so bespoke, there are a lot of people in the Permian. There are a lot of people in the Bakken. Your position is next
+door to somebody else's position. And so the intensity of desire to sort of benchmark and use that to tune up operations and planning is
+much greater than it was. So in other words, to be effective, you have to be bigger data faster. And that's the conversion that's going on
+right now. And so you can also think of WoodMac 2.0 as being not only the tuning up of our own environment, but it's actually creating
+this capability to serve the customers on these faster cycles with a greater amount of benchmarking against like activities. I mean, that's
+fundamentally what's going on, and that is customer-driven.
+ 
+Scott G. Stephenson Verisk Analytics, Inc. - Chairman, President & CEO
+That's going to take about an hour and a half.
+ 
+Scott G. Stephenson Verisk Analytics, Inc. - Chairman, President & CEO
+No, This is specific to banking regulation in the United States, particularly. So no, it's not.
+ 
+Scott G. Stephenson Verisk Analytics, Inc. - Chairman, President & CEO
+Bill, I got to correct your facts there. So last quarter, we didn't talk about GEM cancellations. We talked about  things going on in the
+business. When customers consolidate, that can have an effect on the combined entity revenues for us and we did note that there was
+one of those. And then the other, and Lee talked about it in his remarks, was one investment bank has just sort of rethought their
+position with respect to the energy vertical. And it's not that GEM has gone away, it's just that they scaled back their relationship with us.
+So I just want to make sure our facts base is established.
+ 
+Scott G. Stephenson Verisk Analytics, Inc. - Chairman, President & CEO
+Go ahead, Bill. Okay, Kyle, do you want to move to the -- I think we may have lost Bill. Can we move to the next question?
+ 
+Scott G. Stephenson Verisk Analytics, Inc. - Chairman, President & CEO
+Yes. So thanks, Jeff. Yes. And maybe I can start. Mark, please jump in. But first of all, I really appreciate the way you asked the question
+because there is no doubt that extreme events is -- the fact that there are extreme events is a productive factor as it relates to the rate --
+the growth of our business, but it is a very long term sort of an effect underlying our results over very long periods of time. You can
+probably add a few tens of basis points that are there because there are extreme events. Sometimes they peak, sometimes, it's much
+more modest. But if you look over long cycles, there's something there, but it doesn't really explain what's going on in our business. So
+thank you for the way you characterized the question, first of all. The only thing I would really call out as a point-specific thing, actually, is
+the movement into remote imagery. That is a -- that's news. And that's been productive for us. Otherwise, I do think of it as broadly
+based and really, it's fundamentally about how innovative can we be. Our customers are trying to revolutionize their businesses with data
+analytics. And so it's really on us to be relevant and fast. And that's what determines the rate at which we grow. I -- our insurance
+capabilities, footprint, customer list are all stronger than they were a couple of years ago. So to your point, fundamentally, and I think it's
+very broadly-based, remote imagery would be the one call-out. Mark, I don't know if you want to add anything to that.
+ 
+Scott G. Stephenson Verisk Analytics, Inc. - Chairman, President & CEO
+Well, you're actually asking  questions there. So Lee, maybe you would take on the second one in a moment, which is just the interplay
+between inorganic then becoming organic. I'm really happy with the integration of the companies that we brought in, in 2017, which fall
+into  primary categories. One is, we stitched together a set of regional imaging companies into one national capability. Very happy with
+the progress that we've made there. Secondly, we acquired Sequel over in the London market. That has been a textbook integration and
+we are -- and we've -- we're already presenting to customers the integrated product opportunities that come from that. And then lastly,
+is PowerAdvocate. As we've noted for folks, PowerAdvocate has already made sales based upon relatedness to other things we do on the
+energy side. And I would actually say that, that one flows in both directions because PowerAdvocate is, I'll use a funny word, very
+invasive, where our customers are concerned. I mean, it gets right into their systems and draws data out of our customer systems and is
+so good at managing large amounts of data that it actually facilitates other opportunities to help energy companies digitally transform.
+So it's just all green lights with respect to integration. Lee, just the inorganic to organic crossover, I don't know if you want to comment on
+that.
+Scott G. Stephenson Verisk Analytics, Inc. - Chairman, President & CEO
+Yes. I mean, two things. One is, yes, as I said earlier, we've got  verticals. And it's hard to handicap which will be the fastest growing in
+the coming  years. I think Energy has a lot of promise. We talked about the fundamental factors at work there. And those of you who
+have followed us for a while know that a lot of what we do in Energy is based on multiyear agreements. And so we've been cycling
+through those agreements as we pulled out of the commodity down cycle. And essentially, we just think that with time, these effects will
+-- the constructive effects will continue to be seen in what we do. So we have a very positive outlook.
+ 
+Michael Edward Reid Cantor Fitzgerald & Co., Research Division - Associate
+Great. And then, I think, you noticed previously this year, price increases may be minimized, but would you still be looking to take
+advantage of pricing opportunities next year?
+ 
+Scott G. Stephenson Verisk Analytics, Inc. - Chairman, President & CEO
+Are you on the Energy vertical?
+ 
+Michael Edward Reid Cantor Fitzgerald & Co., Research Division - Associate
+No, no. I'm sorry. On insurance.
+ 
+Scott G. Stephenson Verisk Analytics, Inc. - Chairman, President & CEO
+Price is always a factor inside of what we do. Our products don't come back year-over-year the same and the customers know that. So
+there's naturally price progression in most everything we do. Mark, (sic) [Mike] I think most of the multiyear agreements we write in
+insurance have year-over-year price escalation associated with them. So that's a persistent effect in our business. I don't see it as
+becoming more or less meaningful than it has been in the past.
+ 
+Scott G. Stephenson Verisk Analytics, Inc. - Chairman, President & CEO
+So client retention is very high. So -- and in fact, we have more customers than we used to have. And as I noted before, the sort of the
+progression related to research, it's really a function of multiyear agreements rolling off, new multiyear agreements being signed. That
+has been at work -- since you could really call the turn of the commodity, which is within the last year, we've seen that effect at work. It
+will continue to be at work as we go forward. Basically, the condition of the commodity is no longer an issue. We consider this a
+normalized environment that we're in now. So it's constructive and productive for the work we're selling today and the work we hope to
+be able to sell in the future.
+Okay, okay. All right, everybody, thank you. We appreciate your interest and I'm sure we'll be talking to a lot of you in immediate
+follow-ups and no later than next quarter. So thanks very much. Have a great day.
+ 
+Scott G. Stephenson Verisk Analytics, Inc. - Chairman, President & CEO
+ 
+Scott G. Stephenson Verisk Analytics, Inc. - Chairman, President & CEO
+Good morning, everyone. It's good to be reporting another quarter where we can see strength in organic growth of our business across all
+our verticals. Excluding exceptional events in the third quarter of  in the Insurance segment due to extreme weather and in the
+Financial Services segment due to a contract signing, the organic growth of our company was 7.5% in the quarter, consistent with our
+long-term model. And the profile of our growth is also reflecting our long-term model in that it is balanced across all the verticals.
+I thought I would take a few minutes this morning to comment on the environment in which we do our work and the factors which
+interact with our results. Fundamentally, we are aligned with one of the most powerful movements in the economy, which is, companies
+harnessing data analytics with even greater focus and investment. There is a new level of digitization of business operations that has
+become a necessity for companies and all the verticals we serve. While the notion of data as an asset has been around for a while,
+In the past  days, I visited with  CEOs of our leading customers. In every case, I came away with an enhanced sense of opportunity. As
+they take their businesses forward in a digitizing environment, their expressed preference is for a relatively short list of partners who can
+make sense of all the technical innovations and relate them to existing workflows. In such an environment, a trusted and tested partner
+like Verisk stands taller. As long as we continue to invest to keep our customers at the leading edge of innovation and do so with
+efficiency, we will realize value.
+On the talent front, I just received the results of our most recent employee engagement survey. We have, once again, qualified as a
+certified Great Place to Work. Additionally, Forbes has named Verisk to its World's Best Employer list and its America's Best Employers
+for Women's list in 2018. This is supportive of our business because our talent is what drives our customer depth and innovation agendas.
+We are expanding our business footprint globally, and in line with this, we are making moves to have centers of excellence in multiple
+geographies with special focus on India and Eastern Europe.
+Lastly, our progress in the U.K. market remains encouraging with recent contract signings with market leaders. We are viewing our
+Scott G. Stephenson Verisk Analytics, Inc. - Chairman, President & CEO
+I just want to clarify your question. So you say a tough period, meaning the performance of the insurance -- the state of the insurance
+industry?
+ 
+Scott G. Stephenson Verisk Analytics, Inc. - Chairman, President & CEO
+I got it. I understand. Yes, thank you. Well, the best answer to that, I think, is actually found in our own historical performance. There was
+a consecutive 5-year period where premiums were down year-over-year, and our business performed very well during that period. And
+the reason is that what the insurance companies need to do, whether they're in particularly strong moments of the cycle or weaker
+moments of the cycle, is to continue to upgrade their ability to ingest information, translate it into insight and then reflect that in a way
+they price their products, structure their products, adjust claims around their products, et cetera. That is the work of the insurance
+companies and that's what we're fundamentally a part of. So we're very comfortable with how our business -- our Insurance business will
+do almost regardless of the cycle. I mean, I'm saying that very strongly. Obviously, sort of extreme events in the moment can have an
+effect, but we've actually been through this and our business held up very well.
+ 
+Scott G. Stephenson Verisk Analytics, Inc. - Chairman, President & CEO
+Yes. So maybe starting at the end of that, Toni. The performance of that segment is really pretty broadly based, and what I mean by that
+is that it spans the kinds of solutions that we have traditionally provided, so sort of the core, look at the supply chain of the oil and gas
+space, but also includes the upstream subsurface kinds of analytics, which are relatively newer for us, analytics related to the renewable
+forms of energy. And then kind of over the top, on all of that, the digitizing trend that I talked about probably is differentially being felt
+more strongly in the energy space than it is in the others because energy actually had started further behind. So we talked a lot about
+WoodMac 2.0 and essentially sort of changing our own technical infrastructure, which allows us to interact with our customers
+differently. That's a constructive movement in the business because our customers themselves are also changing their digital methods
+on the commercial side of their businesses. So it's really very broadly based. If you were to think of it in terms of sort of what it is that's
+getting delivered and looking at where we have been in  and where we're going in the future, we're always encouraged when we see
+consulting do well because it tends to be a leading indicator of the propensity of our customers to be thinking into the future. And that
+has been strong, so that's an encouraging signal for us. But as those of you who are familiar with our story know, most of the revenue is
+related to subscriptions. And over the course of 2018, subscriptions have advanced nicely also across several of those thematic categories
+that I talked about. So it's not really any one thing. It's really broadly based.
+ 
+Scott G. Stephenson Verisk Analytics, Inc. - Chairman, President & CEO
+Thanks, Andrew. Yes. So to your question about the models, that comment in my remarks was related to Financial Services and Argus
+specifically. And what's going on there, just to sort of reprieve that real quick is that in the face of mounting regulations, the amount of
+documentation that is required on some of your models, if you're a bank or you're a credit card issuer, have really, really ramped up. And
+so we had created some offerings that were pretty popular with our customers and that's summarized a lot into what we call a wallet
+share model. And so if you're going to you sort of a wallet share model, what the regulators have said is, "You cannot sort of operate that
+as a black box. You're going to have to show us what's inside of your black box." And so the sort of the burden for our customers opening
+Scott G. Stephenson Verisk Analytics, Inc. - Chairman, President & CEO
+Yes. Our pricing philosophy is the same as it's always been, which is that we price to value. So we're very focused on the utility of our
+solutions for our customers, and it's on that basis that we set the prices for the solutions that we provide. And as has always been the
+case, our preference and the heart of our model is recurring subscriptions. And we find that, that's good for our customers. They like
+knowing with some certainty what they're going to be paying for our solutions, and it's good for us because of the visibility and the
+recurrence. So we normally try to -- that's where we try to set our pricing model. There are some occasions where, with newer solutions,
+particularly, the customers would prefer that we start out transaction priced because
+(technical difficulty)
+exactly how much of it they're going to consume as they begin using it. And so we're perfectly happy to do that when that's what the
+customers want. But we generally find, with time, that they would like us to transition to subscriptions. And then the last thing I'll add is,
+as a part of our pricing philosophy, that we generally attempt to achieve multiyear subscriptions with price inflators on an annual basis,
+which reflects the fact that most of what we do is so basic to what our customers do, it's so embedded in their workflows, that it's just --
+there's just sort of a mutual understanding that this is the way business is going to get done. And so our customers are comfortable with
+signing multiyear agreements. And of course, for us, that just represents an even higher level of recurrence. So everything I just said has
+been a part of our approach since October of  when you first saw us as a public company, and I'm very certain it will remain our
+go-to-market approach.
+Scott G. Stephenson Verisk Analytics, Inc. - Chairman, President & CEO
+So Lee, in a minute, I'll let you just talk about the split of our revenues. But yes, autonomous cars and Internet of Things, data coming
+from vehicles and from homes, very definitely a part of what we're doing. Those are constructive trends inside of our business and will
+only continue to be more important, especially for insurance companies. So that's just sort of established inside of what it is we're doing.
+Lee, do you want to just talk about the split of our business?
+ 
+Scott G. Stephenson Verisk Analytics, Inc. - Chairman, President & CEO
+Yes, sure. So just all the way to the top, just talking about what the demography of the industry looks like. At the top end of the market,
+there are a certain number of consolidations each year. My emphasis here would be on the fact that it's really not a very large number.
+But also bear in mind that there are new entrants into the insurance space on a consistent basis, and several of these are what get
+referred to as the InsurTechs. Sometimes, they're innovating based upon the way that they segment the market. You have some
+innovation in terms of, say, peer-to-peer forms of insurance, which are kind of interesting, but they haven't really -- they haven't
+expressed themselves yet as particularly big trends. But think of it as an industry where, yes, there is some consolidation at one end of
+the market, but there's also entry at the other end of the market. We do -- we have done very well with the new entrants. They find it
+really helpful to be able to make use of our methods as they get started. They're efficient. It helps them get in the business quickly. It's
+actually a credibility point for them as they do their business, et cetera. So as we talk about sort of the evolution -- and these are -- this is
+Scott G. Stephenson Verisk Analytics, Inc. - Chairman, President & CEO
+Yes, I mean, there might be a few more situations like where AXA and XL Catlin came together. And that's an interesting one because I
+think that one actually represents a fair amount of opportunity for us. But I mentioned that one because that has sort of a global,
+geographic markets dimension and it's also reinsurance sort of being layered more directly on top of insurance inside of this one specific
+company. So I think you may see some of that, but that's actually the most constructive kind of consolidation I can imagine for us,
+constructive for us.
+ 
+Scott G. Stephenson Verisk Analytics, Inc. - Chairman, President & CEO
+Yes. Actually, quite a bit of progress is being made on subscriptions, and again, I think you do need to look beyond  quarter to say the
+year or even multiple years, but since we really called the turn on the business, which would have been -- just referencing my notes here,
+about, I guess, about  months ago or so. The progression of the subscriptions from then has looked very much like what we would
+expect and has -- and is very supportive of our view that this is a business which can be -- can perform above the rate of organic growth
+Scott G. Stephenson Verisk Analytics, Inc. - Chairman, President & CEO
+And I guess, a last point I would make is that a lot of the subscription renewals occur in the fourth quarter and the first quarter. So to a
+degree, it's not really quite surprising that the third quarter would be relatively a little quieter with respect to subscriptions.
+ 
+Scott G. Stephenson Verisk Analytics, Inc. - Chairman, President & CEO
+Yes. So GDPR is a contextual factor for us, but not one that I would say is really interacting with our results near term. And as long as we
+protect our data assets the way that I -- we have, and I expect we will, I do not believe it will be a material impact going forward. So I
+can't comment on somebody else's construal of the effect of the regulation. But where our business is concerned, we -- the primary effect
+of it, at the interface with our customers, is we have an extended discussion about contracts because we need to now talk about the
+assignment of liability at a higher level. We always would have to talk about it, but we talk about it more than we used to. That's really
+the only effect that I see. And it's not material. It's not material.
+ 
+Scott G. Stephenson Verisk Analytics, Inc. - Chairman, President & CEO
+Right, good. So I'll ask Lee to talk about margins in a moment, but with respect to the investments that we've made, very substantially,
+they go in the direction of putting us into new categories of solution sets that we, otherwise, either haven't provided or we provided in
+ways that haven't fully expressed what it is we can do for customers. So for example, the acquisition of PowerAdvocate puts us in a
+category of spend analytics for the energy vertical that we weren't doing before. The Sequel acquisition puts us in a position to serve the
+London market, particularly with respect to complex commercial risks, in a way that we weren't able to serve it before. And then all the
+investments that we've done in Geomni -- we were in the category of interpreting remote imagery into data sets, into analytics for our
+customers, but the issue that we had was we didn't have enough high-quality raw material. And so a lot of what -- a lot of the
+investment, as you heard Mark saying, on the Geomni side was basically to put ourselves in a position to have a lot of great raw material.
+So again, that is very much saying that -- putting us into a new and different position for enhanced revenue growth on the top line. So --
+and then other internal investments, the same. WoodMac 2.0 will carry with it some efficiency gains, but it also makes us more capable
+in front of our customers. So very much, it is about contributing to incremental growth of our business. It's not about the maintenance of
+things that we already do. And that is also really part of our feeling about the likely returns of these investments that we're making,
+which as you would imagine, revenue ramps. Most everything we do is scalable, so as these investments mature and the revenues grow, I
+would expect to see it be constructive with respect to margin. And also, even if you look at more than just, say, a quarter -- and maybe,
+Lee, you want to pick up here a little bit, yes, we still see constructive progression in the organic EBITDAs inside of our business, relative
+to the organic revenue growth rates. So...
+ 
+Scott G. Stephenson Verisk Analytics, Inc. - Chairman, President & CEO
+Okay. Well, thanks, everybody, for joining us today. I appreciate your interest, and we look forward to seeing many -- hopefully, all of you,
+Scott G. Stephenson Verisk Analytics, Inc. - Chairman, President & CEO
+ 
+Scott G. Stephenson Verisk Analytics, Inc. - Chairman, President & CEO
+Thank you, Stacey, and good morning, everyone. Apologies for my voice today.
+As we turn the page on 2018, I want to give you my bottom line view of the year just passed. We did well and see opportunity to improve.
+The single most important reflection of our vitality is our rate of organic revenue growth. And normalizing for the effects of exceptional
+storm-related revenues and the significant contract signing and financial services in 2017, our organic constant-currency revenue growth
+was 7.2% ahead of our long-term financial target of 7%.
+Moreover, our growth was broadly-based across our Insurance vertical along with Wood Mackenzie in the Energy space and our core
+consortium data analytics in the Financial Services vertical. The heart of our position in the  verticals is sound and forms the basis for
+cross-selling these solutions in the future.
+Another leading indicator for me comes from the many conversations I have with the CEOs of our leading customers. Are they thinking of
+Verisk as a partner or as a vendor? A consistent message across  is that we are engaging our customers around some of their
+highest priority initiatives for the future and they see Verisk as a distinctive and trusted partner in doing so. The result of many of my CEO
+visits is a request that their teams be placed in closer proximity to our innovation pipeline.
+Our last comment about the year just passed regards the planning cycle we went through at the end of the year. I have never seen a
+higher volume of fresh ideas for new solutions and approaches for engaging our customers. We have a wonderful problem of needing to
+choose among a wide variety of opportunities.
+Scott, you mentioned that you've been meeting with the CEOs of your customers. Could you just call out what seems, maybe, on their
+minds that might be different from last year? Or just give us a sense of the most important priorities that they're focused on.
+ 
+Scott G. Stephenson Verisk Analytics, Inc. - Chairman, President & CEO
+Yes. Thanks, Toni. Two things immediately come to mind. One is, I would say, almost every insurance company CEO believes and expects
+that they can find ways to make their company grow faster than their competitors, faster than the industry. I think that's really significant
+Scott G. Stephenson Verisk Analytics, Inc. - Chairman, President & CEO
+David, Scott here. Yes, the business does fit. The -- I think that many of the folks on the call today are familiar with what we call our 
+distinctives, which we talk about a lot, which, just to remind everybody are: unique data assets, deep domain expertise, first-mover
+advantage and deep embedment in customer workflows. And what we do in Financial Services has all  of those qualities. So as Lee
+previously talked about some of the things that have sort moved through the business of late, and we talked about the -- sort of the
+lumpy quality of the way that some of the revenues had been recognized in the past.
+But what I would go back to is that the heart of the business is built on consortium data, which is absolutely unique. And unlike the data,
+which is available to anyone else, including the players you mentioned, on top of which then we have very deep relationships with our
+customers and, really, a large data platform which is really remarkable for a company of its size. So all of the conditions are there. And
+then I will also say, again, echoing what Lee said, the strength of portfolio analytics plus the spend analytics that we do are the leading
+parts of the business, and they're actually healthy. So we expect that as these other effects sort of wash through, you'll get sort of a more
+clear view of those things built upon the distinctives, which really will power the business going forward.
+ 
+Scott G. Stephenson Verisk Analytics, Inc. - Chairman, President & CEO
+Yes, so let me start, and Mark, you may want to amplify some of this. But when we think about data in the Insurance vertical, it's really a
+combination of looking for opportunities to tease additional meaning out of existing datasets and generating new datasets. So upfront, I
+mentioned, for example, subrogation. Subrogation is essentially bound up in the claims resolution process, and as I think most folks
+know, we have a lot of claims data. So finding a way to point that at the subrogation case and to think about affiliated things like clearing
+payment between counterparts is just interesting, and it's really a process that hasn't really been transformed yet in the insurance
+industry. So that would be an example of repurposing.
+But, then there are other places where we're trying to generate original datasets. And one thing I would just comment on here is that, on
+the one hand, we're very alert to opportunities to position data to where it can be repurposed. On the other hand, we're very diligent
+about the reasons why our customers made the data available to us in the first place. And so we're always going to be striking a balance
+between what's possible and what our customer contributors would like to see us do, but there's plenty of room in there for innovation.
+And then there are a variety of new datasets where we're making original calls for data. And actually, even that takes a couple of forms.
+One is we have existing platforms like PCS, where we've started the call data related to cyber incidents and we didn't used to do that. So
+that's original data, but around an existing platform. We're always trying to enrich the data that comes into a platform like ClaimSearch
+and then we're trying to find that get new forms of claims data that we don't receive today, for example, commercial claims histories are
+not as developed as personal claims histories. Mark, anything you want to add to all that?
+ 
+Yes, I think that was well said. I think it goes back to the earlier comments you made about partnerships and conversations with CEOs. In
+the world of data, obviously, our customers and many people feel their data is valuable. So we need to provide them with valuable use
+cases back to their businesses in order for them to let us use the data. So having the great partnerships and relationships is very
+important. We continue to be a trusted intermediary for that data and we feel that's a privileged position.
+ 
+Scott G. Stephenson Verisk Analytics, Inc. - Chairman, President & CEO
+Yes. So let me take it as a general level, Andrew, and maybe, Lee, if you want to add anything. It's constructive on both the revenue and
+the margin side because part of what Lens is getting after is the very nature of our data aggregation and it becomes more efficient on this
+platform that we built, but equally, there's more functionality there for customers, and so we think it'll be constructive in both ways. I
+don't -- I wouldn't point you so much to milestones or at least not those that will be called out in the overall performance of the business.
+What I'm trying -- and I'm not making a comment about the future profile of the financial performance of the business, I'm simply saying
+the revenue streams are all sort of -- think of it as a bowl of spaghetti and Lens works its way through things that we already do. In
+addition to representing modules -- new modules that we can license to customers. But as called out, specifics, basically, it'll be -- we do
+business with so many companies already, this will really enhance cross-selling into existing relationships. But in terms of visibility to the
+outside, I'm not -- I wouldn't call out any particular milestone. Just the general progress of the business, really. Lee, anything you want to
+add to that?
+ 
+Scott G. Stephenson Verisk Analytics, Inc. - Chairman, President & CEO
+Well, I mean, yes, but no. So you observe something, yes, but the implication I don't think is right. So yes, we need to be running things in
+parallel and we have been investing, as Lee has referenced several times, to build the platform. But the actual operation of the platform
+-- I mean, one of the things that so constructive inside of our business is that we enjoy the gift of Moore's Law every day. And so, actually,
+the cost of compiling data or even processing data inside of the platform that you have built, the incremental cost is not really all that
+great. I'm not saying that it's zero. So you're correct about what we will do operationally, but I think the implication you were trying to
+reach in terms of operating expense going forward is not so accurate.
+ 
+Scott G. Stephenson Verisk Analytics, Inc. - Chairman, President & CEO
+Yes. So those of you who have followed us know that the majority, in fact, a large majority, of the data that we've had up until today has
+been mostly about the commercial dimensions of the oil and gas business. So observations about productivity and the cost factors
+associated with the assets that produce either the raw materials or the refined materials. So those are the datasets that have typically,
+traditionally, been a part of what we do. The datasets we're adding are what we call the subsurface datasets, and these are the ones that
+take into account the actual real-time operations, even in the oilfield, in combination with the nature of the rock and the nature of the
+fluids and the nature of the fields, so that we can complement everything we've already done -- always done with basically much more
+real-time optimization of the operations of our customers' assets. And this is something that we haven't done as much of, in fact, very
+little of, up until now. So the datasets relate to that, real-time operational optimization.
+ 
+Scott G. Stephenson Verisk Analytics, Inc. - Chairman, President & CEO
+Well, the -- so whenever we talk about a consortium dataset, you're always talking about specific customers and, generally, specific
+product sets or specific places. So that does apply in what we're doing in building these new datasets, these subsurface datasets. And
+our focus right now, predominantly, is the Lower  in the United States, where the need -- the situation in the United States is different
+than the situation in most other parts of the world. Because in the United States, what the operators are doing is basically saying, "That
+particular rig, should I move it 2,000 feet? And I can move it and  days later, have a 1,000-foot well that's producing." And so that's the
+speed with which "Strategy" is being set and operations are being rebalanced in the United States.
+ 
+Scott G. Stephenson Verisk Analytics, Inc. - Chairman, President & CEO
+It's a combination of the 2, and it really hinges upon how much analytic content we get into what we do. So there are players today that
+will provide observations about a number of this sort of individual parameters that apply when you're trying to understand the
+productivity of real-time operations. So from one place, you can get data as it relates to, for example, the completion strategies that have
+been taken for the individual well. There are other sources where you can make sure that you have completely identified the leasing --
+the lease holding and ownership structure of whatever patch of land you're talking about. And then other places, you can go for the
+heavy seismology work, and on and on and on like that.
+So part of what we will do is to increasingly make those types of -- those kinds of data available to our customers. But then over and
+above that, what doesn't exist so much in the marketplace today is the -- is really the AI, machine-learned expression of all of that data in
+quantity across heterogeneous situations. So that in an automated fashion, you can really make predictions and drive decisioning. And
+there, we expect, because we're Verisk, we will be distinguished. How much those kinds of solutions generate completely original
+revenue streams versus how much they displace, for example, some of these bespoke datasets, I would say that remains to be seen. The
+primary point here is there is the opportunity for differentiation.
+ 
+Scott G. Stephenson Verisk Analytics, Inc. - Chairman, President & CEO
+Yes. So yes, you definitely understood what I was saying upfront. All  of those trends apply broadly across our company, but specifically
+in the Insurance vertical. I mean, if you just step back and you say, okay, this environment, this insurance environment, what
+characterizes it? The customer set is relatively stable. There are occasionally some large merger transactions and there are some
+segments, like global reinsurance brokers, where there's been some of that. But by and large, the customer demography is steady.
+Regulation really doesn't change that much. Energy -- or excuse me, technology is a constructive factor as it relates to a company like us
+because back to the top, every -- virtually every one of our customers believes they can grow faster than their competitors and so
+everybody is trying to behave innovatively. And so that's just inherently constructive for folks like us. And then if you think about all of the
+many references that we've made this morning, there are just new things that we're doing and bringing to the market that don't exist.
+And so it's a constructive environment. I mean, the United States property and casualty insurance industry, our home market, is the
+granddaddy of large-scale contributory data analytics. I mean, it was invented that way practically. And so we really have this wonderful
+privilege of being who we are inside of that very constructive environment.
+ 
+Scott G. Stephenson Verisk Analytics, Inc. - Chairman, President & CEO
+I would just add that the recent movement in the commodity is within a range that we don't consider material to the performance of our
+business.
+Scott G. Stephenson Verisk Analytics, Inc. - Chairman, President & CEO
+Okay. Well, thank you all very much for your continued interest in Verisk, and we look forward to following up with a number of you as
+well as those who are taking a new look at Verisk based upon our new capital policy, including the dividend.
+So look forward to our continuing conversations with you. Thanks. Thanks for this morning, and your attention.

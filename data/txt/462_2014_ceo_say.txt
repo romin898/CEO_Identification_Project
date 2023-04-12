@@ -1,0 +1,862 @@
+Dow Wilson Varian Medical Systems, Inc. - President & CEO
+ 
+Dow Wilson, President and CEO; Elisha Finney, CFO; and Clarence Verhoef, our Corporate Controller. Dow and Elisha will summarize our
+results, then we'll take your questions following the presentation. To simplify our discussion, unless otherwise stated, all references to
+the quarter or year are fiscal quarters and fiscal years. Quarterly comparisons are for the first quarter of fiscal year  versus the first
+quarter of fiscal year 2013.
+Please be advised that this presentation and discussion contains forward-looking statements. Our use of words and phrases such as
+outlook, could, believe, can, expect, will, hope, target, likely and similar expressions are intended to identify those statements which
+represent our current judgment of future performance, or other future matters. While we believe them to be reasonable based on
+information currently available to us, these statements are subject to risks and uncertainties that could cause actual results to differ
+materially.
+Some of the important risks related to our business are described in our first-quarter earnings release, and in our filings with the SEC. We
+assume no obligation to operate or revise the forward-looking statements in this presentation and discussion because of new
+information, future events, or otherwise. Before turning it over to Dow, we're reminding those who participate in Q&A following these
+prepared remarks, to limit yourself to one question and a follow-up, just to give all participants a chance to ask their question during the
+call. We thank you for helping with this. And now, here's Dow.
+ 
+Dow Wilson Varian Medical Systems, Inc. - President & CEO
+Good afternoon, and welcome. We are reporting results that we believe put us on track for hitting our revenue and earnings targets for
+the fiscal year. To summarize our financial results for the first quarter of fiscal year  versus the year-ago period, revenues rose 5% to
+$712 million. Our gross margin grew by  basis points to 43.5%. Our operating margin remained about level, even after the significant
+step-up in our R&D investments, and our net earnings grew by 6% to $0.91 per diluted share.
+ 
+We had several positive developments subsequent to the close of the quarter. These included a big win for Oncology in Algeria, our
+announcement of an expanded agreement to supply an estimated $515 million in imaging components to Toshiba and a 510(k)
+clearance from the FDA for our ProBeam Proton Therapy System. I will focus now on the operational highlights of our businesses in the
+quarter.
+Oncology Systems grew gross orders by 5% to $533 million for the quarter, with the help of strong 13% order growth in North America,
+where we saw a broad-based increase in hospital purchasing activity. Hospitals accounted for the lion's share of our orders in North
+America. We booked $19 million in orders related to agreements with two large health systems in the US to supply a total of $50 million
+in equipment and services for their consolidated networks over the next several years. The remainder of these orders we booked over the
+terms of the agreements.
+Numerous takeouts of competitor software and hardware products, including several aging Siemens and TomoTherapy machines added
+to Oncology's growth in this market. New products, including our EDGE platform and upgrades for stereotactic radiosurgery also
+contributed to our orders growth in North America. Our newly introduced RapidPlan software for fast and high-quality knowledge-based
+treatment planning got off to a solid -- a good start with several orders, including one that was coupled with a replacement of a
+competitor's accelerator.
+We continue to see signs that the Affordable Care Act is causing decision-makers at treatment centers to sharpen their focus on both
+clinical efficacy and cost efficiency. Our Oncology product line is closely aligned with this focus, and we believe our competitive position is
+stronger than ever. During the quarter, health authorities in the US recommended lung cancer screening for people deemed to have a
+higher risk of developing this disease. This recommendation could result in earlier diagnosis for a large number of cases, that could be
+treated with long radiosurgery. We are hopeful that this prompts more centers in the US to acquire and use our radiosurgery products to
+help these patients.
+Turning to markets outside North America, gross orders were relatively flat in EMEA, where weak equipment purchases were offset by
+robust gains in our service business. The sales funnel in EMEA continues to look promising, despite delays that pushed potential deals in
+several nations outside the quarter. We believe our market share in this region is stable.
+In India, TrueBeam enjoyed continued success during the quarter with five wins, including a key placement in the National Oncology
+Center at Tata Memorial Hospital in Mumbai. As an aside, TrueBeam constituted more than 60% of total high energy machine orders in
+the quarter. We have now booked more than 1,000 orders for TrueBeam and completed more than  installations since its
+introduction in 2010.
+We had a big win after the close of the quarter in Algeria, where we have entered into an agreement to supply the Ministry of Health with
+$51 million in equipment and service for six centers over the next five years. We expect to book about half of this order during the second
+quarter, and the remainder has delivery sites and dates are set.
+In Asia, Oncology gross orders for the first quarter declined as a result of softness in both Japan and China. Lower purchasing activity,
+competitive pressure, negative currency fluctuations, and a tough year-ago comparison resulted in a significant decline in Japanese
+orders during the quarter. In China, the first quarter gross orders fell slightly versus the year-ago period, due to delays in purchasing
+decisions. We believe these decisions will be finalized later in the year. Both TrueBeam and UNIQUE have established firm footholds in
+the China market, and we believe they helped Varian to gain share there during the quarter.
+In Brazil, we had another quarter of strong order growth, even though we have not yet booked any orders from the tender we won for 
+machines. We expect to book orders relating to this tender as sites and shipment schedules are set. In the meantime, clinicians have
+continued to show interest in upgrading purchases to deliver IMRT, which is now being formally reimbursed by private insurers, with the
+government likely to follow. In total, gross orders for Latin America and the rest of the world declined by 5% versus the year-ago quarter.
+Service represented a record 40% of Oncology gross orders in the quarter, and continue to be an important growth driver for the
+Company. The service business expanded by 15% during the quarter, with particularly strong growth in EMEA.
+ 
+Turning to X-Ray Products. The timing of order placements resulted in the first quarter gross orders decline of 19% to $108 million.
+Shortly after the close of the quarter we booked over $20 million in orders for panels and tubes. We saw strong demand for our new
+mammography and wireless panels and continued interest in our bundled panel and workstation solutions. Separately, we are
+announcing the execution of an expanded three-year agreement to supply an estimated $515 million of imaging components to Toshiba.
+Orders will be booked over the period of the agreement. As was announced earlier, we are adding 120,000 square feet to our production
+facility for manufacturing imaging components in Salt Lake City.
+Before leaving X-Ray Products, I want to take a moment to recognize the contribution of Bob Kluge, who is retiring in February from his
+role as head of Varian's X-Ray Products and Security and Inspection Products businesses. Bob built X-Ray Products' revenues from $95
+million in  to $546 million at the end of 2013. We are indebted to Bob for his strategic vision, intelligent management, and
+consistent execution, that have propelled Varian to a leadership position in the global imaging industry. He set the stage for continued
+success and growth in our components businesses.
+Dow Wilson Varian Medical Systems, Inc. - President & CEO
+Thanks, Elisha. The Company is executing its marketing and operational strategies effectively, and we believe we are on track for hitting
+our fiscal year  growth targets. For the fiscal year, we continue to believe that total Company revenues could increase by about 6%
+to 8% over the prior fiscal year.
+Net earnings per diluted share for the fiscal year could be in the range of $4.22 to $4.34. We expect total Company revenues for the
+second quarter of the fiscal year  to be about equal to the year-ago quarter, when Proton revenues were high. Net earnings per
+diluted share for the second quarter could be in the range of $1 to $1.04. We are now ready for your questions.
+QUESTIONS AND ANSWERS
+ 
+Dow Wilson Varian Medical Systems, Inc. - President & CEO
+I'll answer the North America question first. The North American business is obviously very good. We are very pleased with that. 13%
+orders growth in North America. That's the strongest quarter we've had in over two years, so we like that a lot. As I mentioned in the
+script, we did see a couple large deals in the quarter, and we think that we will continue to see -- as the market consolidates, that we will
+continue to see some large orders.
+I'd say the short cycle business is about the same. I wouldn't say that has ticked up. We did see some nice edge in RapidPlan activity, so
+that's the good news.
+The new products are taking -- we did see some strong competitive takeouts. I think it's too early to tell whether this is -- I frankly don't
+think it's reimbursement driven. Maybe there was a little bit of pent-up demand as people watched Washington make some decisions,
+but I think it is still a little early to tell what the long-term impact is going to be.
+I guess our gut now is it's still in the mid-single digit growth scenario, which is better than we have done the last year or two, so we like
+that. The good news is, we still have a lot of product in the installed base that is aging. We've got 1,100 LINAC installed base in the US
+that is over  years old, so we can go after that.
+And then the other thing that we are curious to see how it impacts the market, it will be positive in the long-term, certainly, is this new
+lung screening mandate that has come down. Clearly, the earlier we can identify a lung lesion, the more appropriate it is for radiation.
+That will also have a positive impact on the configuration that we sell, because folks are going to want SBRT capable, motion managed
+capable machine.
+So that is kind of the tour of North America.
+ 
+Dow Wilson Varian Medical Systems, Inc. - President & CEO
+Right now for both.
+ 
+Dow Wilson Varian Medical Systems, Inc. - President & CEO
+Yes, I think the margin rate one is an easy one. We do believe that will continue. There's no reason to see that decrease at all.
+The number one analytic that we look at inside, is install base out of warranty. Our install base out of warranty in service continues to
+grow.
+I think as we sat on the call somewhere middle of last year, we basically have the TrueBeam coming out of warranty, one per workday
+this year, and that is driving our growth. We are seeing more TrueBeams come out of warranty, in particular outside of the US, so a lot of
+that early TrueBeam volume went into the US, and now we are kind of moving into the bubble outside of the US from an installed base
+out of warranty perspective.
+We are also seeing a richer contract mix that comes with that. The TrueBeam pricing is better, and we also -- the service team I think has
+done a very good job of going after software service agreements, as well as driving capture rates -- contract capture rates in the business.
+So we see this double-digit scenario in the service business continuing.
+ 
+Dow Wilson Varian Medical Systems, Inc. - President & CEO
+We have seen a slowing of purchasing activity in China. We think it is temporary. Our share was up in the quarter, as I mentioned, and
+we're pleased to see that. Our funnel is very strong in China, so we think it is just a timing issue.
+ 
+Dow Wilson Varian Medical Systems, Inc. - President & CEO
+Let's see. I think it's a little bit of both. Both of these are consolidated customers, so there has been some acquisitions.
+I know the parent organizations were both Varian customers, but in their consolidation, there is some competitive equipment that they
+had consolidated in, that we will be replacing. That $19 million is the amount that we actually booked in the quarter.
+The deals were, together they were $50 million. As we get a little more visibility on the sites and the dates, we will be booking the other
+$31 million of those orders.
+ 
+ 
+Dow Wilson Varian Medical Systems, Inc. - President & CEO
+I think it is -- the way we kind of view it here is, we had a tough comp. We had a lot of accelerated purchases in Q1 of last year, with a little
+budget acceleration that they were doing in Japan.
+We also had some yen impact year-over-year, and so the market is soft. We still think the long-term growth in the market remains very,
+very good. Less than 30% of patients in Japan get radiation as part of their cancer therapy. In Western Europe and the US, that number is
+over 50%, 50% to 60%. We think that Japan remains of a good long-term growth market.
+We do have a lot of opportunities in the Melco installed base, which is gradually replacing -- for those of you don't know the history there,
+we bought that installed base a dozen years ago or so, and those products are coming to the end of their life, and we are seeing a nice
+replacement opportunity there.
+Over the last year, our share has been stable in Japan. We have a very high share there, and we think that will continue in the long-term.
+ 
+Dow Wilson Varian Medical Systems, Inc. - President & CEO
+The hospital reimbursement rate went up, as part of the reimbursement package that was approved in December. Hospital proton
+reimbursement went up.
+Free standing reimbursement in protons is negotiated with each carrier. They typically kind of follow the federal hospital guideline in
+proton, so we think this is encouraging news. But it is not -- it still has to be negotiated center by center.
+ 
+Dow Wilson Varian Medical Systems, Inc. - President & CEO
+Carrier by carrier. Thanks.
+ 
+Dow Wilson Varian Medical Systems, Inc. - President & CEO
+In fact, no. It was only $19 million of that huge number, so we got a nice $50 million order, but we actually only booked $19 million of it.
+So we did see broad-based strengths in the US market. There might have been a little bit of timing, because people waiting for some
+certainty with the reimbursement decision. We have a little bit of pent-up demand.
+You heard me say our forecast on the year is that this market is going to be a mid-single-digit market. That would be great news for us.
+That has not been a mid-single market for a while, so we would love to see that stability, and we are thrilled with the start that we have in
+Q1, and our funnel looks pretty good.
+ 
+ 
+Dow Wilson Varian Medical Systems, Inc. - President & CEO
+Stepping back at the highest level, I think the oncology business is in the mid-single-digit range. The imaging components business is in
+the double-digit range. Proton is the wild-card. With got a pretty good proton funnel, but our long-term growth in the mid to high
+single-digits is a pretty good forecast for what our markets are doing.
+ 
+Dow Wilson Varian Medical Systems, Inc. - President & CEO
+It is a focus for us. Some of them come in lumps, which gives us some of issues with the predictability issue. But as far as yield and scrap
+goes, on the overall quality, it's a major initiative for us across the entire business.
+ 
+Dow Wilson Varian Medical Systems, Inc. - President & CEO
+First of all, coming to Europe, we did see strength in the southern Europe, which surprised us. That was not something we were
+expecting. The France thing and Italy were strong.
+We were expecting weakness in Northern Europe. We had a very large order last year in the UK, which I think we'll be explaining a little
+bit of that all year in Northern Europe. Central Europe was relatively flat. We had good performance in India, and our service business
+performed very well in Europe. So Northern Europe and Central Europe was where we were down and India and Southern Europe is
+where we were up.
+The Toshiba contract and the x-ray business, we are thrilled that, obviously, it has been a terrific partner, and really driven the growth in
+our x-ray components business for the last several years. The contract value-- the agreement value is about $515 million, which is up
+about 10% from the last time. So it's part of what gives us this confidence in calling a double-digit scenario in our components business.
+ 
+Dow Wilson Varian Medical Systems, Inc. - President & CEO
+As I mentioned on the call, we did see a conversion of the hardware socket with RapidPlan, so we were glad to see that. We think that
+there will be more of that. We did see a lot of pure software conversions of people converting either treatment planning or oncology
+information systems install base to either ARIA or Eclipse. That has been a multiyear trend.
+We think we've been winning more than we have been losing, and I'd say especially with the strength of RapidPlan coming out of Astro,
+we have got a nice lead in treatment planning, and with Rapid Plan, I think it is really hitting a chord with people. Whether you are the
+best at treatment planning or new in the business, RapidPlan is going to help you. I think customers are seeing that, and it is really
+driving the conversation for both software and hardware.
+ 
+Dow Wilson Varian Medical Systems, Inc. - President & CEO
+There's always going to be the PLA tender, but otherwise, I don't think the structure of the market -- it might be consolidating a little bit,
+but I don't think at least at this point anything -- I don't see any material change in terms of structure of the China market. It happens
+customer at a time and province at a time.
+ 
+Dow Wilson Varian Medical Systems, Inc. - President & CEO
+I think our share is stable to up a hair. It's not up dramatically by any stretch, but our share has been at least what it has been historically,
+so I think most of this is, at least that we saw in Q1, is a pretty good market.
+We haven't seen Elekta's results yet, and we won't see them for another month or so, but that's kind of our gut. When you look at the last
+rolling  months, which is probably a better way to look at it, our share is stable to a hair up.
+ 
+Dow Wilson Varian Medical Systems, Inc. - President & CEO
+As I said, we did have some takeout of tomotherapy units in the quarter. They are still out there. They win a few, but I think RapidArc and
+volumetric arc therapy, from Elekta have also made it very tough for the competitive differentiation of tomotherapy. There was another
+piece to your question.
+ 
+Dow Wilson Varian Medical Systems, Inc. - President & CEO
+The overall pricing environment is good. We have seen stability in pricing.
+ 
+Dow Wilson Varian Medical Systems, Inc. - President & CEO
+The good news is the short-term environment look too bad. the reimbursement news, at least, stabilized the investment environment for
+people over the next year.
+I think there are some question about where it ends up in the 2016/2017 time period, as legislation drives to more accountable care
+organizations and things like that. And I think there is -- I think our customers still have some uncertainty about that. I think what we are
+seeing is a reinforcement of what our customers are looking for.
+They are looking for real clinical value. If you have got product that has a demonstrated clinical value, and can help drive efficiency, you
+win. So I think both radiation and Varian have a very good story in the value that we drive in healing patients.
+ 
+Dow Wilson Varian Medical Systems Inc - President and CEO
+ 
+President and CEO; Elisha Finney, CFO; and Clarence Verhoef, our Corporate Controller. Dow and Elisha will summarize our results and
+then we'll take your questions following the presentation. To simplify our discussion, unless otherwise stated, all references to the
+quarter or (technical difficulty).
+Please be advised that this presentation and discussion contains forward-looking statements. Our use of words and phrases such as
+outlook, could, believe, can, expect, will, hope, target, likely, and similar expressions, are intended to identify those statements which
+represents our current judgements on future performance or other future matters. While we believe them to be reasonable based on
+information currently available to us, these statements are subject to risks and uncertainties that could cause actual results to differ
+materially.
+Some of the important risks relating to our business are described in our second-quarter earnings release and in our filings with the SEC.
+We assume no obligation to update or revise the forward-looking statements in this presentation and discussion because of new
+information, future events, or otherwise.
+Before turning it over to Dow, let me remind you that we are holding a mid-year review and webcast for investors in New York on
+Tuesday, May 6. Details are available on our IR site. Now, here is Dow.
+ 
+Dow Wilson Varian Medical Systems Inc - President and CEO
+Welcome. In the second quarter of 2014, we generated good order growth, revenues that came in slightly ahead of expectations, and
+solid margins before accounting for the settlement of patent litigation. If we could summarize our financial results for the second quarter
+versus the year-ago period : revenues rose 1% to $779 million. Our gross margin grew by nearly  basis points to 42.2%. Net earnings
+came in at $0.88 per diluted share, including a $0.16 per share charge related to the settlement of the seven-year patent dispute with
+the University of Pittsburgh regarding our Respiratory Gating Technology. And our quarter-ending backlog rose to $2.8 billion with the
+help of about $60 million in proton orders.
+Turning to operational highlights, Oncology systems grew its gross orders by 6% to $613 million, with strong gains in Latin America and
+Australia, 3% increases in both North America and EMEA, and a 3% decline in Asia where the weak yen offset constant currency growth
+ 
+of 3%. In North America, we see hospitals continuing to consolidate, and hospital administrators focussing increasingly on system
+purchases that enable cost-efficient quality care with the best clinical practices.
+This is our strong suit. As an example, we entered into two new multi-year agreements with large hospital systems to supply them with
+packages of accelerators, accessories, software, and services. Portions of these agreements were booked in the second quarter, and the
+remainder will be booked over the five- to seven-year terms of these agreements. We have more of these types of deals in the sales
+tunnel.
+In EMEA, we booked roughly half of the $51 million multi-machine Algerian order that we announced early in the second quarter. We
+also booked sizeable orders in Italy, Spain, and Switzerland. Subsequent to the close of the quarter, we exhibited at the ESTRO meeting
+in Vienna, where attendance was up and where we saw heavy booth traffic with a lot of interest in our Rapid Plan software and in
+radiosurgery solutions.
+In Asia, Japan had double-digit order growth with a key win in Hiroshima, and good replacement business from conversions of aging
+Siemens and Mitsubishi units. We grew gross orders slightly in China. In the meantime, interest in radio therapy is rising in other Asian
+markets, including Vietnam, the Philippines, and Myanmar.
+Growth in rest of world, including Latin America and Australia, was particularly strong during the quarter. In Brazil we received orders for
+several TrueBeam units, as well as some software systems which were outside of the 80-machine tender that we won earlier this year.
+We have not yet booked orders relating to this tender. Columbia, Bolivia, Peru, and Ecuador were also active during the quarter. We
+received numerous orders in this region for our cost-efficient, low energy unique accelerator with Rapid R capability.
+In Australia, we received a sizeable order from the Genesis Care Network that included  TrueBeams that will be delivered over the next
+three years. In total, TrueBeam comprised more than 60% of our high-energy accelerator orders during the quarter. This product has
+generated more than $2.5 billion in gross orders since its introduction just four years ago.
+Siemens' replacement business contributed to our oncology order growth in North America, EMEA, and Asia. This strategic partnership
+has gained momentum and is working well for our Business. Siemens conversions have accounted for more than $80 million in gross
+orders this year. We also landed new business in the Philippines working with Siemens. Thanks to their help, Varian will supply
+accelerators to the first three of eight planned new radio therapy centers at some of the country's leading hospitals.
+We also made good progress during the quarter with our EDGE radiosurgery offerings. We booked nearly  orders for EDGE upgrades
+and systems. We reached an important radiosurgery milestone during the quarter when Champalimaud in Portugal commenced the
+world's first treatments with our EDGE platform.
+Champalimaud's first EDGE radiosurgery patient was a 63-year-old woman with operable stage  non-small cell lung cancer. Physicians
+there also treated a 67-year-old man with two metastatic brain tumors. He received radiosurgery for both tumors in a single session that
+took less than  minutes. To our knowledge there isn't another system that matches the combined precision and treatment time of our
+EDGE radiosurgery platform. Henry Ford Hospital in Detroit recently became the first center in the United States to commence treating
+patients with EDGE radiosurgery.
+Turning to oncology services, we expanded gross orders in this part of the business by 11% during the quarter. Year to date, service orders
+represented almost 40% of the total oncology gross orders.
+As was reported earlier, we completed our acquisition of Velocity assets, including software designed to help clinicians make more
+informed treatment decisions by organizing patient data and making it available in one place. This acquisition supports our commitment
+to providing clinicians with tools for data-driven clinical decision-making. The Velocity software enables healthcare professionals to use
+oncology patient images and data to plan and assess treatments, collaborate with colleagues, and share clinical knowledge. We expect
+this will play an important part in the movement towards evidence-based medicine.
+ 
+I'm pleased to say that the skilled clinicians who developed this software are joining Varian to help develop and commercialize this
+product on a broader scale. This software is already in use at over  centers around the world, and we believe we can achieve faster
+and deeper market penetration for this product to our global sales, marketing, and service network.
+Let me turn to our new imaging component segment, which is comprised of our X-ray flat panel detectors, tubes, and security products.
+We consolidated these product lines into a single segment as a result of an organizational change that put them under the management
+Dow Wilson Varian Medical Systems Inc - President and CEO
+Thanks, Elisha.
+The Company is continuing to execute well, and our businesses remain on track to reach our FY14 growth targets. For the fiscal year we
+continue to believe that total Company revenues could increase by about 6% to 8% over the prior fiscal year. We expect net earnings per
+diluted share for the fiscal year, including the $0.16 effect of the patent litigation settlement, to be in the range of $4.06 to $4.18. We
+expect total Company revenues for the third quarter of FY14 to increase in the range of 5% to 6%. We expect net earnings per diluted
+share for the third quarter to be in the range of $1.06 to $1.10.
+ 
+We're now ready for your questions.
+QUESTIONS AND ANSWERS
+ 
+Dow Wilson Varian Medical Systems Inc - President and CEO
+We commented last quarter that we felt very good after last quarter, and I would say that momentum is continuing and we're seeing
+good strength with Siemens globally, frankly. We like what we see there.
+You know, some of that was having the product ready. We finally got connectivity with the product, and that's good. And you know, I
+think we're doing a nice job selling there. Selling their hardware.
+But it's really kind of a story about the software coming together and completing that -- completing that capability in our ARIA product
+lines that connects to their old LANTIS installed base. That is all done now. We have some show [sites] where we can take people, proof
+statements and clinically, and I think that momentum is turning there.
+ 
+Dow Wilson Varian Medical Systems Inc - President and CEO
+Our funnel remains very strong. We were positive it wasn't as big as we had hoped this last quarter. But it was still positive.
+We do believe we're getting some share in China. So that's good. But we do see a pretty strong second half in China.
+ 
+Dow Wilson Varian Medical Systems Inc - President and CEO
+Let me start by saying we had a very good position in Brazil before the tender win. You know, we were far and away the market leader in
+that market. So we've always had a good position in Brazil.
+Winning the tender has certainly helped us, it has reinforced that leadership position so, you know, so I think there has been a little bit of
+a halo effect. This is the private market.
+I think our product is very well positioned. We've got a very good distribution for this team down in Brazil, and we think we're very well
+positioned for both the short term and the long term. I guess maybe what the question fielding from an investor point of view is the new
+tenders, both government and non-government are not effected by the MOH ministry of health pricing. So we're seeing good pricing on
+these other orders as well.
+ 
+Dow Wilson Varian Medical Systems Inc - President and CEO
+On the quarter, well on the half, for that matter, as well pricing has been stable. So our pricing is definitely holding and we're pleased
+about that.
+On the quarter, we did have -- our unit volume was up and our mix was a little more of a kind of an international mix. We had more
+unique than usual, and we had a little bit more of a kind of value segment mix order, but product to product, year over year, quarter over
+quarter, pricing is very stable.
+ 
+Dow Wilson Varian Medical Systems Inc - President and CEO
+Sure. You know, the good news is volatility measured in the last two quarters -- sorry, tongue in cheek here a little bit, measured in the
+last two quarters we've had good US market performance.
+And that's the, you know, for us the we (inaudible) it's been a tough market as you said, David. But our orders on the half were very good
+year to date. Gross orders are up 8%. Gross orders in the quarter were up 3%, as we said.
+Yes, the market is consolidating, and the freestanding clinic market is pretty quiet. But we are seeing the hospital market be pretty
+aggressive. Our -- in terms of outlook, the funnel looks good, and I would say we're looking for kind of mid single-digit market growth out
+of the US, and frankly that is a positive an outlook that we've had on that market in a long time.
+ 
+Dow Wilson Varian Medical Systems Inc - President and CEO
+You know, I would say it is a combination of factors. You named a number of them. Certainly the reimbursement was helpful to get those
+on the same footing now is a big deal, if we were substantially lower than gamma knife reimbursement before or radiosurgery and those
+are now reimbursed at the same level. That is one help.
+Two, is clearly in the environment that we're in, administrators are particularly looking at making their purchases go farther, and when
+you look at the number of patients and indications they can treat with EDGE, versus what they can treat with gamma knife, especially
+with the single largest trend in radiation therapy being SDRT with lung, and liver and pancreas growing, having the flexibility and
+versatility of the EDGE is a big deal.
+And then last of all, EDGE is the, you know, as I said in the prepared remarks, it is a combination of the most precise and fastest delivery
+method to treat these indications, and it has, obviously, a throughput impact. It also has a patient impact.
+ 
+You know, these patients are sick and having to in some cases sit on a table half hour to an hour for a complex treatment. On EDGE, they
+can have that completed in 10,  minutes, and they're set to go. So I think it's really kind of a combination of all those factors and I do
+agree, I think we are seeing some momentum there with that product from a relative competition point of view.
+ 
+Dow Wilson Varian Medical Systems Inc - President and CEO
+I think from an R&D point of view we're kind of three significant areas where we're spending this increase in R&D. One is software. We
+think there is a big opportunity, we're the market leader in Eclipse, we continue to invest in algorithms in Eclipse, you are seeing things
+like Rapid Plan for us. That will continue.
+ARIA is a terrific product. We have had to make investments this last year for the Siemens connectivity and things like that. We continue
+to bring a lot of enhancements to that product, and look forward really to evolving that product in the infomatic space and in globalizing
+the product.
+So that's some of the investment there. And then for the rest of the product line, emerging markets are a big piece of our product line
+more and more, and that's where -- that is where we have a big chunk of our investment going that will yield products this year, next
+year, and beyond. So we're -- we're investing aggressively in those areas.
+As Elisha said on the call, we were pretty comfortable with where margin rates were on the quarter, and pricing is holding. We continue
+to invest a fair amount, as well, in operational programs to drive productivity across our business, and have made pretty good progress in
+-- on the variable cost of our tubing platform, as well as on our cost of quality in both our X-ray components business, as well as
+oncology.
+ 
+Dow Wilson Varian Medical Systems Inc - President and CEO
+Absolutely, from a long-term point of view that is absolutely what we have got to do, and that's in terms of new products we want to
+deliver products that deliver what the customers want from a feature performance point of view, and match our requirements from a
+shareholder margin point of view, and so we are -- that is where a significant piece of our investment is going.
+ 
+Dow Wilson Varian Medical Systems Inc - President and CEO
+As you know we don't guide to orders, and I will say that second half of last fiscal year we had a pretty good funnel and their results
+weren't that great. So I think part of what we're seeing is the yield on the funnel is good, so we continue to see a very good funnel. The
+ 
+yield on the funnel recently has been good. And I'll stick with the comment I made before, and that is we're kind of seeing market outlook
+in the for long-term, in the mid single-digit area.
+ 
+Dow Wilson Varian Medical Systems Inc - President and CEO
+You know, it's -- I think there is a lot of enthusiasm and excitement for the product. We showed it at ESTRO of course last year, as you
+know. It had its European introduction at ESTRO, very strong global interest.
+We ship the first units to customer here in eight weeks or so, and the official commercialization is this summer. So we've got lots of
+customers lined up for it.
+We think it is a game-changer and as a little color we will start with the prostate model and then head and neck follows very shortly after
+that, and then we're on to breast cancer models and other cancers. And, with the enthusiasm we're seeing from our customer base, both
+luminary and community and outside of the US, we think that this is -- this remains several hundred million dollar opportunity for us.
+ 
+Dow Wilson Varian Medical Systems, Inc. - President, CEO
+ 
+With me are Dow Wilson, President and CEO, Elisha Finney, CFO, and Clarence Verhoef, our Corporate Controller. Dow and Elisha will
+summarize our results and will take your questions following the presentation.
+To simplify our discussion, unless otherwise stated, all references to the quarter or year are fiscal quarters and fiscal years, quarterly
+comparisons for the third quarter of FY14 versus the third quarter of FY13, references to the year to date are for the first three quarters of
+the fiscal year.
+Please be advised that this presentation and discussion contains forward-looking statements. Our use of words and phrases such as
+outlook, believe, can, expect, will, hope, and similar expressions are intended to identify those statements which represents our current
+judgement on future performance or other future matters. While we believe them to be reasonable based on information currently
+available to us, these statements are subject to risks and uncertainties that could cause actual results to differ materially.
+Some of the important risks relating to our business are described in our third quarter earnings release and in our filings with the SEC.
+We assume no obligation to update or revise the forward-looking statements in this presentation and discussion because of new
+information, future events, or otherwise.
+And now, here is Dow.
+ 
+Dow Wilson Varian Medical Systems, Inc. - President, CEO
+Good afternoon and welcome.
+For the third quarter of 2014, we are reporting solid order growth for our Imaging Components and Proton businesses; some big wins in
+emerging markets, as well as weakness in Japan for our Oncology Systems business; a 4% increase in our orders backlog; revenue and
+ 
+gross margin gains in all of our business segments; and earnings in line with our expectations before the impairment of a portion of our
+existing investment in Augmenix.
+Compared to the year ago quarter, revenues for the Company rose 3%, to $748 million, and net earnings were $1.02 per diluted share.
+The impact of the approximately $8 million Augmenix impairment was about $0.06 per share.
+Oncology Systems gross orders came in at $620 million, down by 1%, despite strong wins in key emerging markets, including China,
+Latin America, and in parts of Eastern Europe. Orders for Oncology were up by 2% in EMEA, and about even in North America, and down
+by 6% in Asia, with a sharp decline in Japan, where we faced tough year-ago comparisons. Orders rose by 20% in China, where we
+believe we are gaining market share.
+For the BRIC countries in total, orders grew by more than 50% during the quarter. Our business in Latin America grew by more than 30%
+in the quarter. We continue to generate new orders in Brazil, but have not yet booked any from the  machine public tender conducted
+in the first quarter of this fiscal year.
+In EMEA, Varian was selected to supply  TrueBeam systems for the Beatson Cancer Centre in Glasgow and its planned new satellite
+center at nearby Munson's Hospital. We also had a key win in Germany, where a hospital group placed an order to replace  of their 
+Siemens machines with TrueBeam systems. This group also ordered our Eclipse treatment planning software and our ARIA oncology
+information software to replace their LANTIS network. We continue to expand our business across Africa, with orders in Algeria, Morocco,
+Libya, Nigeria and South Africa.
+North America generated strong order growth for service and software, while equipment orders were soft during the quarter. We had a
+big win in Nebraska at the Buffet Cancer Center, which ordered our EDGE radiosurgery system, a TrueBeam system, as well as our
+treatment planning and oncology information software to replace competitive products.
+US hospitals, which today comprise about 90% of our North American equipment orders, received positive reimbursement news at the
+end of the quarter. CMS has proposed a modest overall 2% increase in rates for calendar year 2015. Hospital rates would rise for both
+radiotherapy and radiosurgery, and a proposed new bundled rate for radiosurgery remains equal, whether the treatment is delivered with
+a LINAC or a Cobalt unit. All those being equal, I expect that machine versatility and patient throughput will become more and more
+important for buyers of radiosurgery systems.
+As an aside, a study conducted at the University of Alabama, Birmingham shows that RapidArc radiosurgery is substantially more
+efficient and comparable in plan quality to a competitive Cobalt system for treatment of multiple brain metastases. This study has been
+published online and is slated to appear in the October issue of "Neurosurgery".
+We are generally pleased with the hospital reimbursement proposal, which we hope will lead to further reinplacement of older systems
+with newer higher throughput units that are capable of delivering both radiotherapy and radiosurgery. For freestanding clinics, CMS is
+proposing a policy change to exclude the radiation treatment vault as a direct expense in the rate calculation.
+Rate reductions for conventional 3-D radiotherapy, IMRT and SDRT would range between 2% to more than 6%. We expect that this
+proposed policy change will be the topic of debate between now and November, when CMS finalizes the rates for next year. We are
+partnering with others within the industry to advocate for reversal of this policy.
+Oncology Service was again a star performer, delivering another quarter of double-digit growth, with particularly strong performance in
+North America. Service represented about 40% of Oncology orders for the quarter and the year to date.
+On the product front, we made good progress during the quarter in our software business, which was particularly strong in North
+America. Orders ramped up for our full-scale solution that fully integrates our ARIA information system and our Eclipse treatment
+planning software in the cloud for hospitals and clinics of any size.
+ 
+Earlier today, we announced the deployment of FullScale at e+ CancerCare, a multi-site network of cancer clinics in the US. FullScale is
+also deployed at Vantage Oncology, a network of over  oncology centers. FullScale uses are delighted with the speed, flexibility,
+scalability and accessibility of their data on smart phones and tablets, as well as computers.
+At the annual meeting of the American Association of Physicists in Medicine, or AAPM, this week, we featured several products for
+quality assurance and sharing clinical knowledge through data analytics. We exhibited a new software tool called Machine Performance
+Check for automating tests to help confirm that our tubing system is operating within proper parameters. It completes  tests in just 
+minutes and adds another level of competence for centers that are performing more and more sophisticated procedures.
+We also showed Cumulate, a cloud-based data management tool for quality assurance, as a works in progress. Clinicians will be able to
+use this tool to create templates for their QA processes, identify trends in QA data, and compare their machines' test performance to the
+average of machines at other treatment centers. By using tools like this, we expect clinicians will be able to enhance the consistency and
+efficiency of their treatment processes.
+Other products featured at the meeting included RapidPlan for knowledge-based treatment planning, our new Velocity tool for
+aggregating imaging and treatment data, and TrueBeam 2.0, which now includes enhanced image guidance and motion management
+capabilities to the TrueBeam platform.
+Among the presentations at AAPM was a talk by researchers from Champalimaud Center in Portugal and the Henry Ford center in
+Detroit confirming that our EDGE radiosurgery system can target cancerous tumors with sub millimeter accuracy. Their end-to-end
+testing showed that our efforts to integrate multiple subsystems can result in a high level of precision for certain radiosurgery cases.
+You may have seen a press release issued early in June about a 79-year-old patient who chose RapidArc radiosurgery rather than
+conventional surgery for his lung cancer. He got five treatments on our TrueBeam surgery unit and each session was completed in about
+ minutes, a much easier alternative to surgery. It is both exciting and gratifying to all of us at Varian to see the dramatic improvements
+in treatment opportunities our innovations offer patients.
+Let me turn to our Imaging Components segment. Gross orders for this segment increased 12%, to $162 million, with strong growth in
+panels and tubes that was partially offset by soft demand for our security products. Gross orders grew in excess of 30% from our panel
+business. This included a contract with a large OEM in China for 1,000 panels that will be delivered over the next two years. Other x-ray
+equipment manufacturers are designing our panels into new imaging systems, setting the stage for continued growth in this product
+line.
+Healthy order growth in our x-ray tube product line was driven by our big OEM customers for use in CT scanners, general radiography,
+and mammography systems. We are now focused on targeting new OEMs to expand the market, and we shipped a number of new x-ray
+tubes for evaluation by these customers during the quarter. Our Imaging Components has built its backlog, as we have signed more
+long-term contracts for both panels and tubes.
+The company's Other category, which is comprised of the Varian Particle Therapy business and the Ginzton Technology Center, recorded
+gross orders of $57 million in the third quarter. During the quarter, our Proton team booked its third order of the fiscal year to supply our
+ProBeam Proton Therapy System to the National Taiwan University. The expected total value of the agreement is estimated to be about
+$100 million, including long-term operations and maintenance services. We continue to see strong customer interest and good
+momentum in this business, which has now booked nearly $120 million in gross orders so far this year.
+During the quarter, JPMorgan assumed $45 million of our approximately $125 million loan commitment to the Scripps Proton Project.
+We believe this is a mark of the growing confidence that the financial community has in our ProBeam proton solution.
+Scripps is continuing to expand the range of cancers that it is treating with this exciting technology and it has completed its first pediatric
+treatment on a 17-year-old patient from Provo, Utah. She has been afflicted with a tumor on her brain stem for  years. She had
+numerous surgeries to control the spread of the tumor, but doctors could not completely eradicate it, because it was too close to her
+ 
+brain stem. Further surgeries were not recommended, so she turned to proton therapy. Her hope is that the treatment ends -- her hope is
+that the treatment ends the tumor once and for all. We hope so, too.
+Now I'll turn it over to Elisha.
+ 
+Dow Wilson Varian Medical Systems, Inc. - President, CEO
+Thanks, Elisha. We realize that our guidance range for Q4 is broad. The timing of our proton therapy projects is hard to predict and any
+one deal can have a significant impact on our financials in a given quarter. We expect total company revenues for the fourth quarter of
+FY14 to increase in the range of 7% to 15%, and we expect net earnings per diluted share for the fourth quarter to be in the range of $1.14
+to $1.29.
+We're now ready for your questions.
+QUESTIONS AND ANSWERS
+ 
+Dow Wilson Varian Medical Systems, Inc. - President, CEO
+Hello, Jeff. Yes.
+ 
+ 
+Dow Wilson Varian Medical Systems, Inc. - President, CEO
+Well, I think first of all, from an overall reimbursement point of view, as I mentioned in the script, we're positive about the hospital side. I
+think that's pretty good momentum for our market. That freestanding side, as I mentioned, is again, we've got another year of pressure
+for freestanding, largely due to a change in how the vault is calculated as an expense. So between now and the final ruling on
+reimbursement, there will be a lot of activity around that, which we will join.
+In terms of clinical data, clinical data is very, very important. I think I mentioned the UAB paper that will be published here this next
+month on stereotactic radiosurgery in the brain. That will be a very nice paper for us. It will really demonstrate the efficiency and
+versatility of our machine, and equivalency in terms of clinical outcome relative to Cobalt-based brain radiosurgery. So we're optimistic
+about that.
+I think the growing body of evidence in lung cancer is a big deal. We continue to see that grow, literally, almost every day. And I think that
+will be a theme at ASTRO, both in the customer presentations, clinical presentations at the show, as well as some of the technologies
+that we're working on for the show.
+In proton therapy, one of the things that we're seeing is a nice demonstration, especially of the benefit of proton therapy in head and
+neck. That's an emerging application, with good clinical data forthcoming. And I think that will help boost some of the proton therapy
+efforts.
+ 
+Dow Wilson Varian Medical Systems, Inc. - President, CEO
+Sure. Maybe for just a second, I can step back to the overall emerging markets. Brazil, Russia, India, China, Africa for us, we're up 70% in
+the quarter and are up 20% year-to -date. The BRICA, now including Africa, is about 15% of our Oncology business. And as I said in the
+script, we've had double-digit growth this quarter in China, India, Eastern Europe, and Africa. Interesting in Africa, we had good orders
+performance in Morocco, Nigeria, South Africa and Libya. So we continue to see the continent move, which is encouraging. India was up
+ 
+50% for us on the quarter and 35% year-to-date. So that's a nice story, overall emerging markets.
+China itself, to get your question, we had a very good quarter. China orders were up 20%. The market appears to be recovering. We're
+continuing to make a pretty substantial commercialization effort in that market. So we began in earnest 15,  months ago. And we have
+a terrific team in place right now. And I think are really starting to make some nice headway in that market. As I mentioned, the market is
+recovering. And we also believe our share is improving in that market. And we're seeing some nice success in the tender business there in
+China, as well.
+ 
+Dow Wilson Varian Medical Systems, Inc. - President, CEO
+I'd say we continue to hear some of the things that we've talked about, continued consolidation of the market, people moving to more
+regional integration on the full provider side, hospital and non-hospital. So we're seeing regional consolidation there. I think we've talked
+about the fact that deals are getting larger and more complex as a result. It does slow down a little bit of the purchasing process.
+Freestanding market, as I mentioned in the script, is very quiet in an uncertain reimbursement environment. And I think that will
+continue.
+On the hospital side, still very bullish about radiation therapy. And the strong are investing and figuring out how to strengthen
+themselves. We see continued attention given to total cost of ownership. I think that underscores our capability. We have the most
+versatile machine out there. And as people look, especially at cost of lifecycle ownership of their radiation therapy, we're very favorably
+positioned.
+I'd say at a very high level, hospitals are looking very hard at their capital budgets. And there are a lot of conversations about where the
+budget goes. But I think still very favorable outlook in the hospital market towards radiation therapy.
+ 
+Dow Wilson Varian Medical Systems, Inc. - President, CEO
+Maybe I can talk about the overall business and Elisha can talk a little bit about the tube quality piece. Overall, first half of this year, we
+saw a little lighter growth rate. So we were really pleased to see the higher growth rate in the Imaging Components business this
+quarter. Tubes were up 14%, flat panel was up 34%. And then our Security was down quite substantially. So overall, we were up 12%. We
+continue to see digitization driving the flat panel piece, so we think that growth will continue.
+On the tube quality side, when there's improvements in tube quality, it tends to drive one-time or gradual one-time adjustments in order
+ 
+rates. And I think that's what we've seen from some of our big customers is as we've executed nice tube quality, it helps us on the margin
+rate side, but it causes things to slow down a little bit on the order rate side. And we might have another quarter of that, two quarters of
+that, as we go forward. But then I think we'll see it anniversary and move forward.
+ 
+Dow Wilson Varian Medical Systems, Inc. - President, CEO
+And it makes us tough to compete with. It makes it tough to get out of there. So tube life is good.
+ 
+Dow Wilson Varian Medical Systems, Inc. - President, CEO
+Yes.
+ 
+Dow Wilson Varian Medical Systems, Inc. - President, CEO
+You know, I'd say it's helping us. We've always had a very strong position in treatment planning. Our introduction of RapidArc really
+strengthened that business five years ago. The continued strength of our algorithms, of our capabilities in treatment planning is a nice
+differentiator for us in the marketplace. And we're demonstrating leadership there for sure.
+The ability to deliver the physician prescription. Physician puts a prescription in there, and then they just want to know that it happens.
+The Q8 happens, the delivery happens, and then the record and verify and interaction with the EMR all happens the way it's supposed to.
+That's really what the physician wants to hear about. That's all seamless and integrated. And I think we've got a very good position there.
+And I think that we are starting to see -- I think we've always had some benefit in treatment planning, and we're starting to see some
+benefit from our oncology information system, our ARIA product, as well, as it impacts hardware sales.
+So as I said in the script, we think our share in North America is up a little bit. So to answer your question directly, I think that's a part of
+it. FullScale, people really like the virtualization of FullScale Going to the private cloud is a big deal. We've seen that in some of our large
+accounts. We're starting to see that in the next tier of accounts, folks with  to  centers. The early adoption of FullScale has been folks
+that have, customers that have more than a dozen accelerators. And what we've seen is that virtualization is driving up productivity story,
+an upgradability story.
+And I think we've got a nice position. We've launched the product in China. It's not just helping us in the US. It's helping us outside of the
+US. And we've got teams across the globe getting very excited about it and customers, I think, are taking notice.
+ 
+ 
+Dow Wilson Varian Medical Systems, Inc. - President, CEO
+I'd just echo that. The core business, our processes haven't change. If anything, they've improved. And to Elisha's timing issue, if LINAC
+moves one day outside of the quarter, that's basically $0.01 a share for us. I think we've done a really good job of managing our overall
+earnings and EPS forecasting. The revenue forecasting, with protons, is where it gets tough. And that's where we had the miss this
+quarter.
+ 
+Dow Wilson Varian Medical Systems, Inc. - President, CEO
+You know, I think, as we mentioned last quarter, we continue to see large orders. And yes, we do see some move from quarter to quarter.
+But I think at this point now, it's equal. What moved from last quarter into this quarter moves from this quarter into next quarter,
+different ones. So we do look at every one of these very hard. But I'd say in any given quarter, depending on the size of an order, it can
+move the number around. And we don't guide to orders. And it's maybe made the predictability of orders forecasting a little bit tougher.
+But we do continue to see large orders. These large orders contain complex equipment with multiple year deliveries and a little more
+complexity on that side of the order, as people consolidate a couple years worth of purchases together, and then across multiple sites. So
+we are seeing that in any given quarter, it maybe goes one direction or the other.
+I think at this point, at least coming into Q4, yes, there were some orders that we thought we would've booked at the end of Q3. We'd
+have loved to have them. They're going to happen in Q4. Are those going to be incremental to our number in Q4? I couldn't look you in
+the eye and tell you one way or the other.
+ 
+Dow Wilson Varian Medical Systems, Inc. - President, CEO
+You know, I think it's hard to tell because of the continued globalization of the business. I'd say in the US, we probably are seeing the
+book-to-bill extend a little bit. But outside of the US, it's a tender driven business. Once the tender's done, people want their equipment. I
+haven't done the analytics, but I'd say on balance, it probably hasn't changed that much. Elisha, anything to that?
+ 
+Dow Wilson Varian Medical Systems, Inc. - President, CEO
+We've had a pretty good year so far. We've booked three systems this year. We're competing on a large number of projects. So we
+continue to feel pretty bullish that the proton business can be a $200 million to $300 million business for us.
+There's noise about compact machines. We have our own probing compact machine. We've got several customers looking at that
+machine. It has several advantages. It's the only compact machine on the market with full 360-degree rotational gantry capability. And
+it's got the best intensity modulated proton therapy capability which, over at the PT Cog, the proton therapy meeting in Shanghai last
+month, that was all the news. It felt a little bit like 2000,  and IMRT. And we feel very good about our position with that capability.
+And the short version is the feedback from customers is multi-room or single room, don't want to do proton therapy without scan beam
+capability. And so we feel great about our position there. We have not seen a lot of growth in that compact room market yet. There's
+others that have got some early share, maybe a year or two ago. But there hasn't been a big increase in recent orders, because people
+want scan beam technology. And until there's a scan beam option in that market, it's not going to grow. And that's why we feel very good
+about our position. We do have scan beam capability with that probing compact product. And we are in discussions with a few customers
+about -- worldwide about taking on that product.
+ 
+Dow Wilson Varian Medical Systems, Inc. - President, CEO
+You know, I think the challenge is the freestanding market. The hospital replacement market, I think as we said, that now 90% of our
+Oncology orders is the US hospital market. The freestanding centers as a percentage of installed base, it's a strong third of the US
+installed base. And they are not replacing. That replacement market is very, very quiet.
+And until we see some movement there, I think -- the good news is the hospital market is moving, and we're seeing some nice action on
+the hospital side. But that's not enough to offset the one third of the installed base that's the freestanding market. And that one third is,
+at least at this point, very quiet replacement cycle. I think for that to happen, we'd need to see some movement in reimbursements. And
+as I mentioned in the call, that's why there's a lot of consensus and activity going on around getting this vault calculation back in the
+reimbursement scenario for freestanding customers.
+ 
+Dow Wilson Varian Medical Systems, Inc. - President, CEO
+We've got  or  in the backlog, and I'd say  or  are impacting the number.
+ 
+Dow Wilson Varian Medical Systems, Inc. - President, CEO
+Yes, started to recognize revenue.
+ 
+Dow Wilson Varian Medical Systems, Inc. - President, CEO
+Jason, the only thing I'd say is I don't know that it stalls anything, because it's already stalled.
+ 
+Dow Wilson Varian Medical Systems, Inc. - President, CEO
+We look at it very hard every quarter now. We're very comfortable with our order booking guidelines.
+ 
+Dow Wilson Varian Medical Systems, Inc. - President, CEO
+I think the focus is going to be, to link this to a previous question, is going to be can you demonstrate the clinical evidence of the
+advantage of this proton therapy. And to really get that, you need good intensity modulated proton therapy. And therefore, you've got to
+have scan beam technology. And that's what people are going to be looking at.
+ 
+Dow Wilson Varian Medical Systems, Inc. - President, CEO
+And you can see that in the margin rate.
+ 
+Dow Wilson Varian Medical Systems, Inc. - President, CEO
+We'll see in  days. (Laughter)
+ 
+Dow Wilson Varian Medical Systems - President, CEO
+ 
+Wilson, President and CEO, Elisha Finney, CFO, and Clarence Verhoef, our Corporate Controller. Dow and Elisha will summarize our
+results and will take your questions following the presentation. To simplify our discussion, unless otherwise stated, all references to the
+quarter or year are fiscal quarters and fiscal years.
+Quarterly comparisons are for the fourth quarter of FY14 versus the fourth quarter of FY13. Please be advised that this presentation and
+discussion contains forward-looking statements. Our use of words and phrases such as outlook, believe, expect, will, and similar
+expressions are intended to identify those statements which represents our current judgment on future performance or other future
+matters.
+While we believe them to be reasonable based on information currently available to us, these statements are subject to risks and
+uncertainties that could cause actual results to differ materially. Some of the important risks relating to our business are described in our
+fourth quarter earnings release and in our filings with the SEC. We assume no obligation to update or revise the forward-looking
+statements in this presentation and discussion because of new information, future events, or otherwise.
+As a reminder, please mark your calendars that Varian will be hosting its annual year-end meeting for investors at the Westin Grand
+Dow Wilson Varian Medical Systems - President, CEO
+Thanks, Spencer, and welcome, everyone. We are reporting mixed results for the fourth quarter of  with strong gross orders growth,
+but earnings that fell short of our expectations for two primary reasons. Earnings were $1.02 per diluted share. We did not book the
+Maryland Proton Therapy Center Project, which would've added $0.17 per diluted share, and we had $0.09 per share diluted share
+impact from an unusually high increase in our tax rate. Elisha will explain this in more detail later. Now, let me summarize the rest of the
+quarter.
+ 
+We are reporting strong gross orders growth in our Oncology Systems business with several major wins in North America and Europe and
+continued double-digit strength in emerging markets; healthy order growth, but flat revenues in our Imaging Components business;
+total Company backlog of 10% at $3.2 billion, including an 8% gain in our core businesses; revenues of $812 million up 5% from the
+year-ago quarter; gross margins down in Oncology Systems and up in Imaging Components and continued investment in R&D and SG&A
+to support our product roadmap and global expansion.
+Oncology Systems gross orders grew 9% to $918 million for the quarter. Gross orders for Oncology grew 11% in North America, aided by
+multi-system network wins at several customers. We also saw one of the strongest ever quarters in Canada. Performance in North
+America was helped by the sale of integrated systems combining linear accelerator software and stereotactic radiotherapy and
+radiosurgery offerings.
+Our Oncology gross orders grew 4% in EMEA during the quarter, with significant wins in the UK, Switzerland, France, Germany, and Italy.
+We were particularly strong in the UK where we were selected to supply eight TrueBeams and a full suite of software to Guy's and St.
+Thomas Hospital in London. Just a year after the UK National Health Systems supply chain ordered  TrueBeams, we received an order
+for a further  TrueBeams, demonstrating the strong demand for this system among the country's hospitals.
+We also saw orders for our first two Edge radiosurgery systems in the UK, which will be installed at the Clatterbridge Centre for Oncology
+near Liverpool. Other highlights in our EMEA region included orders for our first two TrueBeams in Bulgaria and  TrueBeams ordered
+by a large customer in India. Our team in India generated strong gross order growth for the quarter and for the year.
+Total orders for BRICA territories, including Brazil, Russia, India, China, and Africa grew by about 35% during the quarter, with particular
+strength in Brazil and India. BRICA orders were up by 25% for the year. In Brazil, we booked more than $30 million of the major Brazilian
+Ministry of Health tender that we were awarded a year ago, helping the Latin America region to grow by more than 60% during the
+quarter.
+Even without orders from the Brazil tender, gross orders for Latin America were up by 10%. We continue to make progress in China with
+strong unit volume growth and a mix shift toward lower cost units in hospitals that are striving for more cost-efficient care. Our global
+oncology service business continued to see double-digit growth with gross orders increasing 11% for the quarter and 12% for the full year.
+Overall machine volume rose significantly during the quarter, which will expand our installed base and set the stage for continued
+growth. Service was 40% of the total oncology revenue for both the quarter and the year. It's been trending up as a percentage of total
+oncology business and we expect that this will continue. Software was a highlight of our exhibit this year at ASTRO in September where
+we featured new cloud-based software and data analytics tools that we believe create the opportunity to double our software business
+over the next few years.
+We believe data analytics is the next frontier for our software business. Our customers are excited about the potential of mining their
+data for better decision-making and improved clinical outcomes. We had more than  attendees at our users meeting at ASTRO and
+there was tremendous interest in our new software tools. These products included FullScale, our cloud-based oncology information
+system for remotely managing clinical information and treatment planning data with greater cost efficiency.
+Dow Wilson Varian Medical Systems - President, CEO
+Thanks, Elisha. FY14 was a year of investment aimed to stimulate long-term top line growth for the Company and we've made good
+progress. We're focusing now on restoring our more normal operating expense levels to maintain margins and improve earnings growth.
+In the first quarter of FY15, we expect to take a restructuring charge of an estimated $13 million or $0.09 per diluted share to realign and
+reduce our staff levels through programs including an enhanced retirement plan.
+For FY15, we expect revenues for our Oncology Systems and Imaging Components businesses, as well as proton orders currently in
+backlog to grow in the range of 5% to 6%. Including the $0.09 per diluted share restructuring charge, earnings for the Company should
+be in the range of $4.16 and $4.26 per diluted share. Our guidance excludes contracted proton projects that are not yet financed or
+booked into backlog.
+If these projects are booked during the year, the potential upside in revenues and profits could be significant. For the first quarter of FY15,
+we expect combined revenues from our Oncology Systems and Imaging Components businesses, as well as proton orders currently in
+ 
+backlog to grow by 0% to 2%. Earnings per diluted share for the total Company, included the expected $0.09 per diluted share
+restructuring charge, should be in the range of $0.76 to $0.80. We're now ready for your questions.
+QUESTIONS AND ANSWERS
+ 
+Dow Wilson Varian Medical Systems - President, CEO
+The lesson we learned here from 2014, Jeff, is if it's not financed on the proton side, the timing is just too unpredictable.
+ 
+Dow Wilson Varian Medical Systems - President, CEO
+Based on the feedback we received from a number of you, we've taken that out of our guidance. It does represent significant upside for
+us, but obviously, we're not proud of this fourth quarter and it not being in the fourth quarter earnings had a huge impact on us. We think
+the customer continues to move it along and we're confident it's going to happen, but it has yet to happen. The timing is so difficult to
+predict that we've just taken it entirely out of guidance.
+ 
+Dow Wilson Varian Medical Systems - President, CEO
+The other thing I'd add here is we were very gratified by the orders volume we saw in Q4. That was great.
+The first three quarters were lighter and so we've kind of got that flowing through the first half of the year. We've got some tough foreign
+exchange that we're looking at as it comes out of backlog and into sales.
+Then the other thing that we've got in the Oncology business in  is we will be taking our first Brazil units to the P&L, which I think
+Oncology's going to be fine overall, but kind of a better mix of the US orders and software orders overall can be offset a little bit by the
+Brazil pressure we have as we deliver these units down in Brazil.
+ 
+Dow Wilson Varian Medical Systems - President, CEO
+I think there's a number of issues around proton. Clearly, one of the things driving protons is the inherent physics, the advantages of the
+drag peak and the ability, really, to reduce dose to healthy tissue. One of the things that we identified when we acquired ACCEL  years
+ago was their technology for doing intensity modulated proton therapy was the best out there.
+I think in large measure, some of these older proton therapy systems do not have advanced capability for doing IMPT. The analogy holds
+in radiation therapy, if you don't have IMRT capability today, you're nowhere. I think it was as much a technology reason as anything else.
+The Indiana, I haven't talked to them personally, but it was one of the first proton centers in the US. It was older technology, generations
+behind. It's in a tough location. It's an hour outside Indianapolis, an hour plus outside Indianapolis, not in a big location, it has a small
+attachment area.
+They did good work, primarily research, and if you saw the report, it was very costly for them to modernize in that location. We feel very
+good about the partners that we're dealing with. Clearly, the cost of protons is expensive and we have to work on that together to bring it
+down, but the clinical advantages of proton look very, very positive.
+ 
+Dow Wilson Varian Medical Systems - President, CEO
+Let me say this from the outset, for getting reimbursement for second to just looking at the North American market, the North American
+market was up 11% in the fourth quarter. That's the best quarter we've had in North America in over two years. We really like that.
+The market continues to be a hospital market only. We see very little participation from the freestanding centers. That's 90%-plus of our
+market right now.
+I think what we're seeing in the proposal is that the payments for the hospital market are going to remain okay. We expect them to be up
+1% to 2%.
+We like the fact that the bundled payment for single fraction SRS favors Varian LINACs. It's the same for any SRS SBRT treatment and
+there's no price advantage to any competitor in the marketplace.
+In the proposal, the freestanding rates are going to get haircut again as proposed. The rationale behind that is CMS wants to move the
+vault from a direct to an indirect expense and exclude it from the cost calculation that gets to reimbursement.
+We've had a major effort with our customer partners, with Congress to oppose those cuts. We won't know if those cuts get modified until
+November. We did have a huge chunk of the Senate and the House sign the letter, so I think we've made what argument we can.
+But at this point I'd say, in the proposal, the freestanding centers are looking at another 5%-plus cut. Is it going to impact us? At this
+point, it's less than 10% of our market. We had a good fourth quarter and I'd say our funnel looks pretty good.
+ 
+Dow Wilson Varian Medical Systems - President, CEO
+I'd say some of the trends that we've talked about before remain. We are seeing the strong get stronger and the good news is they're
+doubling down and investing.
+This last quarter, we had multi-system wins at a number of places. They're betting on technology. They really see the future of SRS and
+SBRT and are making that bet.
+There's a lot of investment in software for oncology information systems. We think we've got a very good position there, being clinically
+rich is very important. That's an advantage we have coming from our space versus some of the enterprise players.
+I'd say conversations with our hospital system partners remain very robust. They're looking at technology as a means of differentiation.
+They're looking at consolidation in their local regional markets and the downside to that is the purchases are bigger and take a little
+longer, but I think we've done very well. On the freestanding side, it's getting very, very quiet.
+ 
+Dow Wilson Varian Medical Systems - President, CEO
+There's a number of segments, kind of subsegments in here. The flat panel business is really what's driving the digitization. We were up
+13% on the year.
+We had a tough comp in Q4, but flat panel business is going to continue to rock. We see that as very strong.
+The tube business, it participates in the digitization, but it also participates in the analog world. It's a little bit more of a replacement
+business. We were down slightly on the year, so I think that's kind of following the broader trend in radiology.
+In the fourth quarter, we had a huge order in our security and inspection business, $40 million. That's going to make next year in this
+business tough to explain all year, those kind of lumps come and go. But I think, as a continued trend, we'll see a flat panel business
+continue to grow very strongly and tubes will be a little bit of a flattish to slightly up scenario and then security will come and go with big
+customer purchases.
+ 
+Dow Wilson Varian Medical Systems - President, CEO
+That's a good question, David, and we're looking very hard at it. We've done a couple of acquisitions this year that we're very excited
+about; some pretty small frankly.
+We acquired Transpire and Velocity and they both help out our software business in oncology. We think that's a good opportunity, that's
+a space we continue to look at. They were small acquisitions, but they're already contributing and the funnels -- Transpire a little more on
+margin rate side with some intellectual property that we acquired there and then Velocity, we've had a terrific ASTRO with Velocity.
+We've got a robust funnel of activity there and so I think we've got some good execution on these two most recent acquisitions. We did
+the Calypso acquisition three years ago and I'd say that's been slow, but now with SBRT starting to take off, we are seeing some nice
+growth kind of on the horizon of Calypso.
+More broadly, I'd say from the 30,000 foot level, oncology software is one focus area for us and the other is strengthening our
+components business. We've got a great business model, a great team in the components business, and that'd be another place that
+we'd look to enhance our portfolio.
+ 
+Dow Wilson Varian Medical Systems - President, CEO
+I think if anything, ASTRO in our fourth quarter is a drag. I take my whole sales team and I park them in a convention center, the least
+productive place in the world. So I think it's an indication the momentum is out there.
+ 
+Dow Wilson Varian Medical Systems - President, CEO
+All I can tell you is my funnel looks good.
+ 
+Dow Wilson Varian Medical Systems - President, CEO
+We mentioned on the call there's a project, of course, in Maryland, the project in Atlanta, and the project in Dallas. Those are the three
+projects where we've been contracted, but the deals aren't yet financed, so we have booked them into our backlog until they're financed.
+ 
+Dow Wilson Varian Medical Systems - President, CEO
+None of those are in our EPS guidance.
+ 
+Dow Wilson Varian Medical Systems - President, CEO
+I just want to underscore the big if here. We were burned on this last year, so we've taken out of our guidance. We're confident our
+customer will get it done, but the timing has just been impossible to predict, so we're getting out of the timing business.
+ 
+Dow Wilson Varian Medical Systems - President, CEO
+Let me talk to the US markets first. I think what's driving the US market is new technology. People really want to take advantage of the
+new capabilities that the team is developing, especially for lung cancer and liver cancer. People want hypofractionation continues to be a
+big trend and as our customers go from a little bit of hypofractionation to a lot of hypofractionation, they need dedicated platforms to do
+it.
+So I think hypofractionation is a big piece in the US that's driving the growth. Our position with TrueBeam and EDGE is terrific.
+The other thing is if you were at ASTRO, I thought our software lineup was just gangbusters. We got game in software. I think that we
+had very good, when you look at the US orders coming out of the fourth quarter, that is very, very positive for us.
+That was good. I'll go to your third question and turn it over to Elisha for some of the margin rate stuff, but the for the service business,
+how long can it continue? We just had our best unit year ever. Our units were up about 12% year-over-year order-wise.
+We continue to see good install base expansion outside of the US. US is a replacement market, OUS is not.
+We think there's another 10,000 machines that are needed outside of the US. I think we've got a double-digit scenario. We're struggling
+a little bit with FX as you look at our service business for 2015, but as we look at service long-term, I think it remains double-digit
+scenario for a long period. I'll let Elisha comment on some of the international mix on margin rate.
+ 
+Dow Wilson Varian Medical Systems - President, CEO
+We're not quite so black and blue.
+ 
+Dow Wilson Varian Medical Systems - President, CEO
+Just to underscore, Jason, though, again, there's if on this and we're just taking ourselves out of the timing business on these.
+ 
+Dow Wilson Varian Medical Systems - President, CEO
+If there was 100% confidence, they'd be in our guidance.
+ 
+Dow Wilson Varian Medical Systems - President, CEO
+It depends how they're structured.
+ 
+Dow Wilson Varian Medical Systems - President, CEO
+I think it's been a double-digit business in panel. I think we'll continue to see that. I think on the year, we're probably looking at strong
+single-digit performance in the x-ray business.
+ 
+Dow Wilson Varian Medical Systems - President, CEO
+We are going to have a little bit of lumpiness because of the big security order that we took in the fourth quarter this past year, but the
+core business is going to do fine.
+ 
+Dow Wilson Varian Medical Systems - President, CEO
+I think the good news is the funnel is robust and at this point, we have a good funnel in both the kind of smaller proton center market, as
+well as bigger multi-room market and we've got capabilities in both segments. Last year, we booked three orders. We booked Cincinnati,
+Taiwan, and the Paul Scherrer Institute, so we feel very good about getting those orders booked last year and the funnel looks pretty
+good for us.
+ 

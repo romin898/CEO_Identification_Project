@@ -1,0 +1,127 @@
+def replace_string(input_string):
+    """
+    Replace the input string with an empty string if it contains any month name in either abbreviated or full form.
+
+    Args:
+        input_string (str): Input string to check and replace.
+
+    Returns:
+        str: Output string with pattern replaced by an empty string, or the original input string if pattern not found.
+    """
+    # Define the pattern to match any month name in either abbreviated or full form
+    pattern = r"\b(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec|january|february|march|april|may|june|july|august|september|october|november|december)\s+\d{1,2},\s*/\s*\d{1,2}:\d{2}[APM\s]+GMT\b"
+
+    # Use regular expression to find if the input string contains the pattern
+    if re.search(pattern, input_string, re.IGNORECASE):
+        # If pattern is found, replace the entire input string with an empty string
+        output_string = ""
+    else:
+        # If pattern is not found, keep the input string unchanged
+        output_string = input_string
+
+    return output_string
+
+
+import re
+pattern2 =r".*?[A-Z]{3}\s\d{1,2},\s\/\s\d{1,2}:\d{2}(?:AM|PM)\sGMT.*?(?=\n\n|$)"
+def eliminate_special_characters(text):
+    # Regular expression to match solo numbers, copyright symbols, and the year that appears after the copyright symbol
+    pattern = r"(?<!\S)\d+(?!\S)|©\s?\d{2,4}"    
+
+    # Replace matching patterns with an empty string
+    cleaned_text = re.sub(pattern, '', text)
+
+    return cleaned_text
+
+import re
+pattern2 =r".*?[A-Z]{3}\s\d{1,2},\s\/\s\d{1,2}:\d{2}(?:AM|PM)\sGMT.*?(?=\n\n|$)"
+def eliminate_special_characters(text):
+    # Regular expression to match solo numbers, copyright symbols, and the year that appears after the copyright symbol
+    pattern = r"(?<!\S)\d+(?!\S)|©\s?\d{2,4}"    
+
+    # Replace matching patterns with an empty string
+    cleaned_text = re.sub(pattern, '', text)
+
+    return cleaned_text
+
+import os
+import glob
+import fitz
+from docx import Document
+
+# Get all PDF files in the directory
+pdf_files = glob.glob("data/PDF/*.pdf")
+
+# Specify the directory to save the DOCX files
+output_dir = "data/word"
+
+# Loop through each PDF file
+for pdf_file in pdf_files:
+    # Open the PDF file
+    pdf_doc = fitz.open(pdf_file)
+
+    # Create a new Word document
+    docx_file = os.path.join(output_dir, os.path.splitext(os.path.basename(pdf_file))[0] + ".docx")
+    docx_doc = Document()
+
+    # Loop through each page in the PDF
+    for page in range(pdf_doc.page_count):
+        pdf_page = pdf_doc.load_page(page)
+        page_text = pdf_page.get_text("text")
+
+        # Add the page text to the Word document
+        docx_doc.add_paragraph(page_text)
+
+    # Save the Word document
+    docx_doc.save(docx_file)
+    print(f"Converted {pdf_file} to {docx_file}")
+
+    # Close the PDF document
+    pdf_doc.close()
+
+keywords = ["CFO", "Analyst", "Director", "VP", "Operator", "Analytics", "DISCLAIMER", "Tristan",'MD','Head']
+
+import docx2txt
+
+# Open the Word document
+document = docx2txt.process("data/word/98_2019.docx")
+
+# Split the document into paragraphs
+paragraphs = document.split("\n")
+
+# Initialize a flag to track whether we are currently in the CEO's section
+in_ceo_section = False
+
+# Initialize a list to store the CEO say paragraphs
+ceo_say_paragraphs = []
+
+# Iterate through the paragraphs
+for paragraph in paragraphs:
+    # Check if the paragraph contains the CEO's name
+    if "CEO" in paragraph:
+        # If the paragraph contains the CEO's name, set the flag to True
+        in_ceo_section = True
+    # Check if the paragraph contains the CFO's, Analyst's, Director's, VP's, or Operator's name
+    elif any(keyword in paragraph for keyword in keywords):
+    #elif "CFO" in paragraph or "Analyst" in paragraph or "Director" in paragraph or 'VP' in paragraph or 'Operator' in paragraph or 'Analytics' in paragraph or 'DISCLAIMER' in paragraph or 'Tristan' in paragraph:
+        # If the paragraph contains the CFO's, Analyst's, Director's, VP's, or Operator's name, set the flag to False
+        in_ceo_section = False
+    # If we are in the CEO's section, append the paragraph to the list of CEO say paragraphs
+    paragraph = paragraph.replace("Thomson Reuters. All rights reserved. Republication or redistribution of Thomson Reuters content, including by framing or similar",'')
+    paragraph = paragraph.replace("means, is prohibited without the prior written consent of Thomson Reuters. 'Thomson Reuters' and the Thomson Reuters logo are",'')
+    paragraph = paragraph.replace('registered trademarks of Thomson Reuters and its affiliated companies.','')
+    paragraph = paragraph.replace('THOMSON REUTERS | Contact Us','')
+    paragraph = eliminate_special_characters(paragraph)
+    paragraph = replace_string(paragraph)
+    if in_ceo_section:
+        ceo_say_paragraphs.append(paragraph)
+
+# Join the CEO say paragraphs into a single string
+ceo_say = "\n".join(ceo_say_paragraphs)
+print(ceo_say_paragraphs)
+
+# Save the CEO say to a txt file
+with open("ceo_say.txt", "w") as file:
+    file.write(ceo_say)
+
+    

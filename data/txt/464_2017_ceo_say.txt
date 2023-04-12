@@ -1,0 +1,207 @@
+D. James Bidzos VeriSign, Inc. - Founder, Executive Chairman, CEO and President
+ 
+Executive Chairman, President and CEO; Todd Strubbe, Executive Vice President and COO; and George Kilguss, Executive Vice President
+D. James Bidzos VeriSign, Inc. - Founder, Executive Chairman, CEO and President
+Thanks, David, and good afternoon, everyone. I'm pleased to report another solid quarter for VeriSign. First quarter results are in line
+with our objectives of offering security and stability to our customers while generating profitable growth and providing long-term value
+to our shareholders.
+We reported revenue of $289 million, up 2.4% year-over-year and delivered strong financial performance, including non-GAAP EPS of
+$0.96, up 12% year-over-year, and $139 million in free cash flow. As part of managing our business during the first quarter, we continued
+our share repurchase program by repurchasing 1.8 million shares for $150 million.
+ 
+Our financial position is strong with $1.8 billion in cash, cash equivalents and marketable securities at the end of the quarter. We
+continually evaluate the overall cash and investing needs of the business and consider the best uses for our cash, including potential
+share repurchases.
+At the end of March, the domain name base in .com and .net was 143.6 million, consisting of 128.4 million names for .com and 15.2
+million names for .net. The domain name base increased by 1.4 million net names during the first quarter after processing 9.5 million
+new gross registrations. The U.S. market contributed to the better-than-expected performance. Although renewal rates are not fully
+measurable until  days after the end of the quarter, we believe that the renewal rate for the first quarter of  will be approximately
+72.2%. This preliminary rate compares to 74.4% achieved in the first quarter of 2016.
+In the fourth quarter of 2016, the final renewal rate was 67.6% compared with 73.3% for the same quarter of 2015. As noted in our prior
+conference calls, the portion of registrations associated with the China names surge that occurred in the first quarter of  continued
+to renew at lower-than-historic first-time renewal rates in the first and second quarter of  and are contributing to slightly higher
+deletions in the first half of 2017.
+In addition, Q2 tends to have slightly lower seasonal new gross registrations than Q1. Based on these and other factors, we now expect
+full year  domain name base growth of between 1% and 2.5%, with a change of the domain name base for the second quarter of
+ of flat to an increase of 0.4 million net registrations. As many of you are aware, we are in the process of reviewing the .net registry
+agreement with ICANN as the current term expands on -- sorry, ends on June 30. On April 20, ICANN posted the new .net registry
+agreement for public comment, which is open until May 30th.
+From our perspective, the posted agreement does not contain changes to the material terms, such as the fees paid to ICANN, the
+renewal rights or the 6-year term. We believe we're on track for renewal prior to the expiration of the current term agreement.
+Finally, as discussed during our prior earnings call, we decided it was in the best interest of the company to sell our iDefense business.
+The iDefense sale was completed at the start of the second quarter and VeriSign continues as a customer to benefit from the threat
+intelligence information provided by iDefense.
+And now, I'd like to turn the call over to George.
+ 
+D. James Bidzos VeriSign, Inc. - Founder, Executive Chairman, CEO and President
+Thank you, George. In closing, during the first quarter, we expanded our work to protect, grow and manage the business while continuing
+our focus to provide long-term value to our shareholders. We think that our focus on profitable growth and disciplined execution will
+extend the long trend lines of growth in our top and bottom lines and allow us to continue our consistent track record of generating and
+returning value to our shareholders in the most efficient manner.
+D. James Bidzos VeriSign, Inc. - Founder, Executive Chairman, CEO and President
+They were not material. I think there might be some more information available in the next quarter since the sale actually closed in Q2,
+but the divestiture of iDefense was -- the sale of iDefense was not a material event.
+ 
+D. James Bidzos VeriSign, Inc. - Founder, Executive Chairman, CEO and President
+I think you're seeing the final sort of move out of the China search names. There were some that carried over into April, and we're seeing
+the final deletions of the so-called China search names from late  and 2016.
+ 
+ 
+D. James Bidzos VeriSign, Inc. - Founder, Executive Chairman, CEO and President
+No substantive update. We are continuing to cooperate with the Department of Justice relative to the CID that we discussed last quarter.
+Those interactions and dialogues have been constructive. We're producing documents and information and answering the questions as
+needed. So it's an ongoing process. Nothing substantive to update now. But, of course, as soon as there is, we'll share it with you.
+ 
+D. James Bidzos VeriSign, Inc. - Founder, President, CEO, Executive Chairman
+ 
+Executive Chairman, President and CEO; Todd Strubbe, Executive Vice President and COO; and George Kilguss, Executive Vice President
+D. James Bidzos VeriSign, Inc. - Founder, President, CEO, Executive Chairman
+Thanks, David, and good afternoon, everyone. I'm pleased to report another solid quarter for VeriSign. Second quarter results are in line
+with our objectives of offering security and stability to our customers while generating profitable growth and providing long-term value
+to our shareholders.
+We reported revenue of $289 million, up 0.7% year-over-year and delivered strong financial performance, including non-GAAP EPS of
+$1.05 and $171 million in free cash flow. During the second quarter, we continued our share repurchase program by repurchasing 1.7
+ 
+million shares for $150.5 million. Our financial position is strong, with $1.8 billion in cash, cash equivalents and marketable securities at
+the end of the quarter. We continually evaluate the overall cash and investing needs of the business and consider the best uses for our
+cash, including potential share repurchases.
+At the end of June, the domain name base in .com and .net was $144.3 million, consisting of 129.2 million names for .com and 15.1 million
+names for .net. The domain name base increased by 0.68 million net names during the second quarter after processing 9.2 million new
+gross registrations. Although renewal rates are not fully measurable until  days after the end of the quarter, we believe that the
+renewal rate for the second quarter of  will be 73.9%. This preliminary rate compares to 73.8% achieved in the second quarter of
+2016.
+We are updating the full year  domain name base growth guidance to be between 2% and 2.75%. Also, we expect the domain name
+base to increase during the third quarter between 0.8 million to 1.3 million registrations.
+I'll comment now on a few recent events. In June, the .net registry agreement between VeriSign and ICANN was successfully renewed.
+The new agreement does not contain changes to the material terms such as pricing terms, renewal rights, the 6-year term or fees paid to
+ICANN.
+Also in June, we issued $550 million of senior unsecured notes with a 4.75% coupon maturing in  years. This offering closed in early
+July, and we're pleased with the result of this issuance.
+Lastly, today, we announced an increase in the annual wholesale fee for a .net domain name registration as allowed by our agreement
+with ICANN. As of February 1, 2018, the annual wholesale fee for a .net domain name registration will increase from $8.20 to $9.02. We
+believe this positions .net competitively in the marketplace while keeping .net price lower than other popular legacy TLDs.
+And now I'd like to turn the call over to George.
+ 
+D. James Bidzos VeriSign, Inc. - Founder, President, CEO, Executive Chairman
+Thank you, George. In closing, during the second quarter, we continued our work to protect, grow and manage the business while
+continuing our focus on providing long-term value to our shareholders.
+We have marked some significant milestones since our last call. In addition to renewing the .net registry agreement with ICANN for
+another  years, earlier this month, the company surpassed  continuous years of 100% availability in the .com and .net DNS. This
+record is the result of the expertise of our people and our specialized infrastructure.
+We believe our focus on profitable growth and disciplined execution will extend the long trend lines of growth in our top and bottom line
+and allow us to continue our consistent track record of generating and returning value to our shareholders in the most efficient manner.
+D. James Bidzos VeriSign, Inc. - Founder, President, CEO, Executive Chairman
+I think probably the biggest contributors there are or there is some strengthening in the economy. There's more economic activity, which
+generally contributes to domain name growth. But I also think the strong brands that common net represents, their strong, recognized,
+trusted global brands are showing their strength and contributed to that good performance as well.
+ 
+D. James Bidzos VeriSign, Inc. - Founder, President, CEO, Executive Chairman
+Well, is that -- let me see if I understand your question properly. By international markets, I can point to one thing that has changed. We
+did mention in several past quarters that the so-called China surge, which began in late  and continued into  including the
+second quarter, of course, affected renewals for 2017. We believe now that, that effect, the China effect, so to speak, has pretty much
+pushed through the system. So I think that might be a factor. Certainly, some activity I would point to in terms of the international
+market. There is general strong growth in the international market. But as George pointed out, some growth in the U.S. market in the
+first quarter continued into the second quarter as well. So there are good signs. There's general growth outside the U.S. and an economic
+activity in the U.S. has contributed to some continuing growth here.
+ 
+D. James Bidzos VeriSign, Inc. - Founder, President, CEO, Executive Chairman
+Well, there's really no update to provide on .web at this point. With respect to our interactions with the Department of Justice, we
+continue to cooperate with DOJ as it pertains to the CID we discussed last quarter. That dialogue is constructive -- has been constructive.
+We produced the documents with information. We'd answered questions as needed. And we're meeting with the department. So that's
+an ongoing process and beyond that, there's really nothing to say at this point.
+ 
+D. James Bidzos VeriSign, Inc. - President, CEO & Executive Chairman
+ 
+Executive Chairman, President and CEO; Todd Strubbe, Executive Vice President and COO; and George Kilguss, Executive Vice President
+D. James Bidzos VeriSign, Inc. - President, CEO & Executive Chairman
+Thanks, David, and good afternoon, everyone. I'm pleased to report another solid quarter for VeriSign. Third quarter results are in line
+with our objectives of offering security and stability to our customers while generating profitable growth and providing long-term value
+to our shareholders.
+We reported revenue of $292 million, up 1.7% year-over-year and delivered strong financial performance, including non-GAAP EPS of $1
+and $153 million in free cash flow.
+ 
+During the third quarter, we continued our share repurchase program by repurchasing 1.5 million shares for $147 million. Our financial
+position is strong with $2.4 billion in cash, cash equivalents and marketable securities at the end of the quarter. We continually evaluate
+the overall cash and investing needs of the business and consider the best uses for our cash, including potential share repurchases.
+At the end of September, the domain name base in .com and .net totaled 145.8 million, consisting of 130.8 million names for .com and 
+million names for .net. The domain name base increased by 1.47 million net names during the third quarter after processing 8.9 million
+new gross registrations. Gross additions during the quarter benefited from continued strength from U.S.-based registrars.
+Although renewal rates are not fully measurable until  days after the end of the quarter, we believe that the renewal rate for the third
+quarter of  will be 74.3%. This preliminary rate compares to 73.0% achieved in the third quarter of 2016. We expect an increase to
+the domain name base during the fourth quarter of between 0.4 million to 0.9 million registrations, which is consistent with the full year
+ domain name base growth rate of 2.8% to 3.1%.
+And now I'd like to turn the call over to George.
+ 
+D. James Bidzos VeriSign, Inc. - President, CEO & Executive Chairman
+Thanks, George. In closing, during the third quarter, we continued our work to protect, grow and manage the business while continuing
+our focus on providing long-term value to our shareholders. We think our focus on profitable growth and disciplined execution will
+extend the long trend lines of growth in our top and bottom line and allow us to continue our consistent track record of generating and
+returning value to our shareholders in the most efficient manner.
+We will now take your questions. So operator, we're ready for the first question.
+QUESTIONS AND ANSWERS
+ 
+D. James Bidzos VeriSign, Inc. - President, CEO & Executive Chairman
+The update is really the same. There's no new news. Although there is activity, the process is ongoing. We are continuing to cooperate
+with the Justice Department. Regarding the CID that you asked about, there's an ongoing constructive document -- dialogue. We're
+producing documents and information. But beyond that, there's nothing new to say at this point. Of course, as soon as there is, we'll let
+you know.
+ 
+D. James Bidzos VeriSign, Inc. - President, CEO & Executive Chairman
+I don't know of any direct relationship between people purchasing Bitcoin and domain names. I can tell you that we do report on trends
+in domain name registration and that Bitcoin trends frequently, consistently and often. So people are registering names related to
+Bitcoin and cryptocurrency and those types of things. So we do see those, and we do report those registration trends. Beyond that, I don't
+think there's any unusual activity that we have to report.
+ 
+D. James Bidzos VeriSign, Inc. - Founder, President, CEO & Executive Chairman
+ 
+are: Jim Bidzos, Executive Chairman, President and CEO; Todd Strubbe, Executive Vice President and COO; and George Kilguss,
+D. James Bidzos VeriSign, Inc. - Founder, President, CEO & Executive Chairman
+Thanks, David, and good afternoon, everyone. I'm pleased to report another solid quarter, which capped a strong  for VeriSign.
+Fourth quarter and full year results were in line with our objectives of offering security and stability to our customers while generating
+profitable growth and providing long-term value to our shareholders.
+For 2017, VeriSign delivered strong financial performance, reporting $1,165,000,000 in revenues, resulting in $653 million in free cash
+flow and generating full year  non-GAAP operating margins of 65.3%.
+ was a strong year for the .com and .net domain name base in which the company processed 36.7 million registrations and finished
+ 
+the year with 146.4 million names. During the year, we marked more than  years of uninterrupted availability of the VeriSign DNS for
+.com and .net. Also last year, we renewed the .net registry agreement for another  years until 2023.
+During the fourth quarter, we continued our share repurchase program by repurchasing 1.3 million shares for $145 million. During the full
+D. James Bidzos VeriSign, Inc. - Founder, President, CEO & Executive Chairman
+Thank you, George.  was another solid year for VeriSign. There was further expansion of the domain name base and revenues. We
+generated an efficiently returned value to shareholders. We renewed the .net registry agreement for another  years until 2023. And we
+ 
+marked more than  years of uninterrupted availability of the VeriSign DNS for .com and .net.
+Finally, earlier this year, we disclosed that the U.S. Department of Justice notified us that it closed its investigation regarding the .web
+top level domain. We continued our work to protect, grow and manage the business while continuing our focus on providing long-term
+value to our shareholders. We think our focus on profitable growth and disciplined execution will extend the long trend lines of growth in
+our top and bottom line and allow us to continue our consistent track record of generating and returning value to our shareholders in the
+most efficient manner.
+D. James Bidzos VeriSign, Inc. - Founder, President, CEO & Executive Chairman
+I don't think I have at the tip of my fingers the precise numbers. But I don't believe that they're material. I have seen a lot of activity in the
+secondary markets of trading in .com registrations that have crypto in them. But I don't think that there any meaningful direct
+contributions to new .net registrations in the numbers that we reported. And there's just a huge amount of interest in cryptocurrencies
+and Bitcoin, as you know, now that it's hit the exchanges. And what we've seen, I would say specifically, is a spike in value in the
+secondary market of .com names with any multiple keyword names with crypto in them.
+ 
+D. James Bidzos VeriSign, Inc. - Founder, President, CEO & Executive Chairman
+Yes, I think it's just too early at this point to discuss any details about go-to-market or launch plans for .web. There's an ICANN process
+that we're now engaged in with the Department of Justice having closed their investigation of .web. And when that process completes,
+I'm sure we'll have a lot more to say. But at this point, it would just be premature.
+ 
+D. James Bidzos VeriSign, Inc. - Founder, President, CEO & Executive Chairman
+Yes. So we don't guide renewal rates by country. As mentioned, the cohort that was originally from the  China surge, that cohort was
+about 1.4 million names coming into the year. And that renewal rate was probably, on a blended basis, maybe about 40% for that cohort.
+So we did have a portion of those names come out. However, we were anticipating that. We did comment on that last quarter. And that
+was in the guidance that we gave and we fell within the range of the guidance. But most of that cohort now is, I would say, through the
+system for many material names. And I would expect renewal rates to go back to more normalized rates.
+ 
+D. James Bidzos VeriSign, Inc. - Founder, President, CEO & Executive Chairman
+Well, so first of all, I guess just to remind everybody on the call, in late September 2016, NTIA approved the .com Registry Agreement to
+be extended to November 30, 2024. At that time, NTIA chose not to extend the Cooperative Agreement. So it is currently scheduled to
+terminate on November  in 2018. Whether to extend that Cooperative Agreement or not is NTIA's decision and their process, and so
+can't comment on that. They do have the right to conduct a public interest review for the sole purpose of determining whether or not
+they'll exercise their right to extend the term of the Cooperative Agreement. Now one update that is new since the last time we talked is
+that David Redl was confirmed as the Assistant Secretary and Administrator of the NTIA in November of 2017. Unfortunately, that's all
+the update I can give you there. We can't comment on Mr. Redl's appointment or the NTIA in regard to their process related to the
+Cooperative Agreement. That's theirs, not ours. As soon as we can, we'll share whatever information we do have though.
+ 

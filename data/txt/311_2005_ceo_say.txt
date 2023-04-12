@@ -1,0 +1,903 @@
+Robert Spoerry Mettler-Toledo International - President and CEO
+ 
+I am joined by Robert Spoerry, our chairman and CEO, and Bill Donnelly, our chief financial officer.
+I will start by covering some administrative matters, and I will then turn the call to Robert, who will provide you highlights on the quarter.
+Bill will then cover the financials in detail, and then Robert will update you on current market conditions and our strategic initiatives. Of
+course, we will have time for Q&A at the end. Now for the administrative matters.
+First, this call is being webcast and is available for replay on our website. A copy of the press release we issued today is also available on
+our website. You should be aware that statements on this call, which are not historical facts, may be considered forward-looking
+statements for the purposes of the Safe Harbor provision under the Private Securities Litigation Reform Act.
+Forward-looking statements involve risks and uncertainties that could cause actual events or results to differ materially from those
+expressed or implied. For further information concerning issues that could materially affect performance related to forward-looking
+statements, please refer to our filings with the SEC. We undertake no responsibility to release publicly any revisions to forward-looking
+statements.
+One other item -- on today's call we may use non-GAAP natural measures. More detailed information with respect to use of and
+differences between the non-GAAP financial measures and the most directly comparable GAAP measure is provided in the press release.
+I will now turn the call over to Robert.
+ 
+Robert Spoerry Mettler-Toledo International - President and CEO
+Thanks, Mary. I want to thank you for joining us today on this call. We are pleased with our first quarter results, and I will start by
+providing some summary comments on the quarter.
+We achieved EPS of $0.47 in the quarter, an increase of 15% over prior year. We are pleased with this strong result. Our sales growth in
+the quarter was an increase of 6%, of which currency was a benefit of 3%, and our local currency growth was 3%. This was in line with our
+ 
+expectation. We are especially pleased to see strong performance in the Americas. Our gross margins in the quarter were excellent with
+ basis-point increase over the prior year. Finally, our cash flow generation fell below the prior year was in line with our expectation and
+reflected comparison issue with last year. We remain on track for our full-year cash flow targets.
+Bill will now provide more details on the financials.
+ 
+Robert Spoerry Mettler-Toledo International - President and CEO
+Thanks, Bill. I want to start by adding to Bill's comment on sales performance and on our outlook for the remainder of the year. I will then
+cover some developments with respect to our strategic initiatives.
+Looking at our geographic markets, as mentioned at the beginning of the call, I was really pleased to see the strong result in the
+Americas, plus a very solid performance with strong growth in almost all product lines. The growth in the Americas was above
+expectations for the quarter, and we do not expect it to continue at this level for the full year.
+The strong performance in the Americas helped to offset the slower-than-expected start in Europe. We expect to have positive growth in
+Europe this year, so you should see improving performance in the coming quarters. In fact, order entry in our European industrial
+business was quite good this quarter, which supports our outlook for improved performance.
+Asia, in total, came in where we expected. China had solid sales growth, but it was below the very high level recognized last year. As we
+mentioned on our last call, we expect growth in China this year to be in the low double-digit range rather than in the 20%-plus level that
+we saw last year.
+ 
+Last year, we were positively impacted in Q1 by the estimate of SARS, particularly in the first quarter of the year that carried on.
+We do see evidence of China's economy quoting, especially on certain bigger government type projects. Our other businesses continue to
+do very well in China. Of course, our strategy for China remains firm; that is, to capitalize on the growth areas in this region and to
+leverage our low-cost manufacturing capabilities.
+Now, turning to market conditions in our businesses where we had a slightly different mix to our sales growth than we expected at the
+beginning of the quarter. I will start with the industrial business, which, as you have heard from Bill, was up strongly with 6% local
+currency sales growth. The good performance was seen across most product lines, and geographically was particularly strong in the
+Americas. I expect that we'll see some slowdown in the Americas in the coming quarters, and offsetting that, improving results in Europe
+and Asia.
+Our laboratory business started slower than expected. Analytical instruments had a very strong quarter, and our drug discovery business
+had solid sales growth. Pipettes continued to generate solid revenue growth driven by the international expansion. Balances has a tough
+comparison, but we expect to see this to improve in the coming quarter with the launch of our new line of high-end analytical balances,
+and the upgrade of our basic cost-effective line.
+As you heard, retail came in slightly below last year, which I point out was a strong quarter and as we were rolling out a major project in
+Germany at that time. We continue to have solid interest in our global food-retailing platform, UC, which I discussed on our last call. It
+would expect to have some growth in the low to mid-single-digit range for the remainder of the year.
+Taken altogether, we remain comfortable with the guidance previously given to you for local currency sales growth of 3% to 5% for the
+remainder of the year.
+I will now update on strategic development. Innovation, especially around products remains the core of our strategies. This quarter, we
+have many examples of important new product launches. We are now launching our high-end analytical balance XP. This is the last
+major piece to complete and upgrade of our balance line, which was started two years ago. XP is aimed at the regulated market, like the
+pharmaceutical industry, and provides significant values to our customers with the design features such as unique suspended weigh-in
+grid design, which provides greater speed and accuracy. It also has built-in warning system to prevent inaccurate use of the balance and
+easier man/machine interface. Because of its better accuracy, it reduces the required minimum weight, thereby creating substantial cost
+savings for our customers on expensive chemicals and substances. The XP is combined with our lab software, it gives us a clear solution
+advantage in this very important segment.
+Two weeks ago, we participated at the Interpack Show in Germany. This is the largest show of its kind in the packaging industry, and it's
+held every three years. Our product-inspection business launched many new products at this show, which I want to highlight to you
+briefly. First, we introduced the X series of check weighers. Check weighers are about half of the product inspection business, and are a
+very profitable part of our offering, and we have a very strong leadership in that line. Most of our check weighers are sold into food and
+pharma manufacturing facilities, and they made some very important innovation in the X series that we think are very well received from
+customers.
+First, the customer wants to have simplification of their inspection processes. We have done a few things to facilitate this need, including
+incorporating a very intuitive operating terminal with our color touch screen, which is easy to operate and requires minimal training. The
+terminal is designed to control multiple inspection devices, therefore reducing the number of operator interfaces of the plant flow. You
+can easily integrate the metal detector or other inspection devices and control them from the control of the check weighing. Even the
+mechanical design of the check weigh has been improved to allow for easier physical integration of multiple inspection devices.
+The X series also has the most modern software platform in the industry with an open-system architecture, easy connectivity, and
+standard interfaces to typical plant communication protocols like Fieldbus, PROFIBUS, and Ethernet.
+Finally, the X series has the most sanitary design in the industry with a stainless steel open frame design. It is the only check weigher to
+ 
+have IP69 weighting between that it holds the highest possible rating for water and [unintelligible]. This allows for easy cleaning with a
+high-pressure water hose down. The X series is the most hygienic check weigher on the market, which is extremely important to our food
+customers where sanitation issues are critical.
+We also introduced at Interpack our new x-ray system, which we call "T-10." X-ray is a small but fast-growing segment within the product
+inspection division. T-10 represents our effort to offer the market a stand-up and easy-to-operate solution as compared to customized,
+highly complex systems, which dominated the market so far. T-10 will be priced approximately one-third below the previous x-ray
+product and will focus on contamination detection and mass control. We have made a significant effort to make this product
+better-suited for the large food market by systematically adding a color touch screen, increasing the durability of its design, simplifying
+its use, and serviceability, and have even made it better-suited for the wash-down environment to a better, easy-clean design.
+The last item we will be introducing is a new family of metal detectors under the Profile name. As a reminder, metal detector is nearly
+half of our product inspection sales, and we have a very strong and profitable position under the Safeline brand. Profile pulls many of the
+same themes as the X series and the T-10. It's easier to operate, has color touch screen, allows for better connectivity with the plant
+information system, and is more easily integrated with other equipment from the plant floor. Profile is the first metal detector in the
+market because the single pass setup and automatically clustering the product. These two features alone can reduce the setup time by
+as much as 80%. The Profile also includes self-monitoring for full conditions. This is a great feature because of the customers. It is also
+about up-time. Self-monitoring will eliminate most up and down time. If you further reinforce Safeline's reputation for having the highest
+up times of any metal detectors in this market.
+In addition to technology innovation, we have been talking to you for several quarters regarding Project Spinnaker, which is aimed at
+accelerating our organic sales growth rate. As you know, sales growth in the most important driver for earnings growth. Through
+Spinnaker, we believe we have a significant opportunity to expand our market share to accelerate the replacement of our installed base,
+and to increase the productivity of our sales force for more effective sales and marketing. We also believe that through Spinnaker, we can
+improve the productivity of our sales force, our service force, and through better use of automation tools.
+Let me take a minute to update you on current focus areas for Project Spinnaker. First of all, on pricing. As Bill already mentioned,
+pricing has played an important role in our margin expansion in this quarter. We have increased service pricing across the board, and
+product pricing in most lines in most countries. We are not doing this process blindly. In fact, in selected few segments, we have been
+more drastic in pricing in order to be price competitive. But, generally speaking, we have chosen to raise our prices.
+Secondary of Spinnaker's lead generation, where we have the ambitious target for increasing the number of leads significantly, we
+continue to invest in various forms of lead generation and remain convinced that this method will succeed. Successful lead generation
+program will be the most important part in improving sales productivity and this metric that we will monitor closely. At the heart of lead
+generation is our segment marketing initiatives and all our business units have now an action plan for segment marketing in course of
+the year.
+In parallel, we have expanded our telemarketing resources to follow-up on lead qualification and direct marketing. Initial results are very
+promising. We believe that as the program continues to gain momentum and the techniques become more refined, we will be able to
+raise the productivity of our sales efforts.
+Another area we will be addressing with Spinnaker is sales through indirect channels. We refer to this initiative as our "volume strategy."
+We have always been very successful in direct sales of high-value solution as evidenced by our strong market shares. The volume market
+is also a significant size but we need a separate business model for this market, and have developed a task force for the implementation
+of that. They are currently evaluating supply chain, channel strategy, product mix, marketing programs. We are confident that this will
+open up new market opportunities for us in the future.
+Finally, with respect to field automation, we have formed a competency center to support the automation of the field organization. New
+automation tools, like CRM, have already been rolled out to the field organization in past years. We have now selected a tool for the
+automation of our service business, and that with a certain software modification, we will roll it out globally.
+ 
+As you can see, our strategic initiatives remain right on target. Before I open for questions, I want to summarize what we discussed today.
+We are pleased to have achieved our financial targets for the quarter. Sales growth was on track, and we see strong improvements in
+gross margin, which led to a 15% earnings growth. We remain optimistic for the remainder of this year.
+Robert Spoerry Mettler-Toledo International - President and CEO
+The softness in Europe, indeed, was partly in lab, but that's also partly in retail. Maybe first commenting on the retail piece -- in retail, we
+actually had a very strong first quarter last year, and that strong quarter was based on the major rollout we had with a big customer in
+Germany. Now, the last part, you know, is currently more the traditional pharmaceutical biopharma industry, and not really the academic
+sector, where we were hurt. As you know, the academic sector is, anyway, a small part in our global mix.
+We have had European customers reach -- did actually, really, not invest much in the first quarter and they say that they wait 'til they see
+the year develop before they're going to release and, in that sense, it was a little difficult. But also last year we had a very successful start
+with the new laboratory products in Europe. We rolled them out first in Europe before we rolled them out later in the other parts of the
+world. So it was partly also comparison issue.
+I would expect that in the lab in Europe things will improve because we're going to have very fascinating new product launches, as I just
+explained before. The XP analytical line is just one of many new products we're launching. We have actually new PH meters, we have new
+titration equipment, and that all is just happening, you know, this week or partly already concluded. So we should see those benefits
+coming in the coming quarters.
+ 
+Robert Spoerry Mettler-Toledo International - President and CEO
+First of all, the first quarter we saw high single, low double-digit growth in China, and that's a fine achievement if I compare that to the
+first quarter last year where we had the soft carryover, as I mentioned before. Our expectation is that this government call-down
+programs, while they are effective right now, will hopefully be a little more relaxed in the second half of the year, and through that we
+should see good growth coming back in the second half of the year in China.
+We also continue to make aggressive investment in China -- maybe not so much just in our infrastructure, but really kind of
+strengthening our sales networks throughout the country. China is a big country, and we don't have a strong presence in each and every
+region of that country. So we make that investment and, of course, that also should help us continue the growth back there.
+ 
+Robert Spoerry Mettler-Toledo International - President and CEO
+The slow start we had came really mainly from Europe. The U.S. business actually was good, solid in the lab. If I look at it more by
+product line, the analytical instrument did well, so did Altacam [ph]. It was more on the balance side. The balances were slightly down
+globally versus last year. I would say that, really, the typical effect we see when we announce new product lines. When we announce new
+product lines, very often customers would know that and wait 'til they see the new product before they buy. But I also explained just
+before, you know, the impact of maybe some investment stops in the European biopharma companies.
+ 
+Robert Spoerry Mettler-Toledo International - President and CEO
+Bill, do you want to take that question?
+ 
+Bill Donnolly
+Sure. In terms of the laboratory and the industrial businesses -- actually, all three businesses this year -- we entered the year expecting
+that we'd be in the mid-single-digit growth rate for all three. I think we're off to a slower start in retail and a slightly better start in
+industrial, but they should all be kind of in that range for the full year.
+ 
+Robert Spoerry Mettler-Toledo International - President and CEO
+Derik, of course, this is a question, which we fight with almost every day. You are absolutely right. Our product lasts forever, and the trick
+to trigger to replacing these is innovation. And, of course, this innovation, which we are providing to our customers, we need to provide a
+return on the investment. Maybe I should use now the XP balance product, which we just launched and try to articulate to you what kind
+of value propositions there are in that product.
+Whenever somebody does a measurement on the balance, they need actually to appear to U.S. pharmacopoeia in the regulated
+application. This will tell you how you determine the minimum weight you can use the balance for. We have, today, with the XP,
+significantly more accurate balances, which is a big deal, because we said you can reduce the minimum weight to what we had for people
+had used so far -- significantly below what competition can do.
+Chemical substances, which they weigh, can be sometimes very costly -- can be 10, even 40,000 per gram. You can imagine that can be
+translated to big cost savings. Then another big feature the product has, it has kind of an automatic control on the setup and in case
+something is not set up properly, actually, you cannot work with the product. So it adds tremendously to the safety. People often do a job
+on a balance, and actually the balance is not set up properly, and so they actually had the wrong results. We have seen the new product
+incorporated as in the technology, which can detect whether it is properly set up. So that's another big, big feature we have in there.
+The third one, the balance, is actually much faster than previous technology. We're awfully excited there. The new tool prepares
+compounds for screening properties also, highly repetitive work, very often labor-intensive. Of course, if you can do the job significantly
+better, you can save a lot of labor cost.
+So these are the challenges. We need to bring this value proposition constantly to our customers, and that way I think we have a very fair
+chance to rake [ph] up the replacements.
+ 
+Robert Spoerry Mettler-Toledo International - President and CEO
+Actually, Fisher and VWR are very important customers for the low-end Mettler-Toledo balances already, and they are long-lasting
+partners, and we have been both very successful working together.
+However, this may be something, which we don't exploit in every part of the world to its full extent. And when I look at our offering, you
+know, we certainly have typically designed a product but also increasingly, due to the Chinese low-cost capabilities, we have strong
+low-end offering. For this low-end offering, we need other forms of marketing, distribution, and service. Of course, to some extent,
+Ohouse is playing in that -- our second brand for balances, and we can certainly to another business level gain many more market share
+in these low-end markets. This is, by the way, not only true for laboratory products, I will say this goes across also some of the industrial
+and the retail products.
+ 
+Robert Spoerry Mettler-Toledo International - President and CEO
+LabX reception in the market is excellent. I guess you recall from previous statements on the titration equipment, actually, probably 35%
+of the products are, to date, sold with LabX. What concerns the balance piece, we are not yet in significant volume, however, we have
+very significant interest from the customers. The decision-making process here is just a little longer because it is now also in IT. But the
+prospects are very promising, and I am very convinced this is going to become a success. Again, particularly when I combine that with the
+new balances -- these new balances, as you recall, they have much improve man-machining to face, the color touch screen and through
+that, of course, we can much better integrate that product into centralized LabX workstation. So, Darryl, if it's only for the optionality that
+people know that we have it, and they can buy it at the late point, it's already a great sales tool today.
+ 
+Robert Spoerry Mettler-Toledo International - President and CEO
+Maybe the way we look at a year is, of course, based on order intake, but that's not the only guiding principle, I think. It starts earlier and
+we, of course, know the inquiry levels -- the inquiries concerning the quote level, and, of course, as long as the probability of turning
+quotes into orders remains the same. That's a good forecasting way.
+I, of course, on order intake, can tell you that we have the [unintelligible] of a couple of weeks. You know we have typically order from six,
+seven, eight weeks, so it's not really deep into the year, but from all I see in terms of order intake we carried from last year into this year,
+order intake, we also filled up in Q1, we remain really confident for the rest of the year.
+Yes, you are right, we are typically a little conservative as we start the year, knowing that usually you'll not see every problem around the
+corner, and certainly now the case, you know, we did hope a little better improvement to see in Europe, and that didn't really come
+through and, for that reason, our conservative guideline, as you call it, probably was the right thing to do.
+Nevertheless, I would expect that Europe gets better. We have very strong orders, particularly in the industrial business in Europe, and
+that certainly will help in the near future.
+ 
+Robert Spoerry Mettler-Toledo International - President and CEO
+In the industrial business.
+ 
+Robert Spoerry Mettler-Toledo International - President and CEO
+In terms of countries, you know, probably France is still a tough market. The other markets seem to be in okay shape.
+ 
+Robert Spoerry Mettler-Toledo International - Chairman, CEO
+ 
+welcome you to the call this afternoon. I'm joined by Robert Spoerry, our Chairman and CEO; and Bill Donnelly, our Chief Financial
+Officer. I'll start by covering some administrative matters. I will then turn the call to Robert, who will provide you highlights on the
+quarter. Bill will, then, cover the financials in details, and then Robert will update you on current market conditions and our strategic
+initiatives. Of course, we'll have time for Q&A at the end.
+Now, for the administrative matters. First, this call is being webcast and is available for replay on our website at www.MT.com. A copy of
+the press release we issued today is also available.
+You should be aware that statements on this call, which are not historical facts, may be considered forward-looking statements for the
+purposes of Safe Harbor Provision under the Private Securities and Litigation Reform Act of 1995. Forward-looking statements involve
+risks and uncertainties that could cause actual events or results to differ materially from those expressed or implied. For further
+information concerning issues that could materially affect our performance, please refer to our filings with the SEC. We undertake no
+responsibility to release, publicly, any revisions to forward-looking statements as a result of subsequent events or developments.
+One other item on today's call -- we may use non-GAAP financial measures. More detailed information with respect to use of and
+differences between the non-GAAP financial measures and the most directly comparable GAAP measures is provided in the press
+release. I'll now turn the call over to Robert.
+ 
+Robert Spoerry Mettler-Toledo International - Chairman, CEO
+Thanks, Mary. I wanted to thank you you all for joining us, today, on this call. We are very pleased with our second quarter results,
+particularly the improved local currency sales growth and it's a very strong increase in our EPS, after, of course, adjusting for one-time
+items which Bill will explain later on.
+Our sales gross in the quarter was an increase of 7%, of which currency was benefiting us 2% and we grew in local currency by 5%. We
+are especially pleased to see better performance in Europe, which was [indiscernible] with most of our laboratory and industrial product
+lines in Europe showing good growth.
+ 
+EPS, after excluding the one-time pipette litigation charge and investigation costs from last year, was up strong 13%. Finally, our cash
+flow generation was solid in the quarter.
+Our outlook for the remainder of the year is very positive and we are about efficient to achieve our financial targets for the year. Bill will
+now provide more details on the financials.
+ 
+Robert Spoerry Mettler-Toledo International - Chairman, CEO
+Thanks, Bill. I want to start by adding to Bill's comment on sales performance and on our outlook for the remainder of the year. I will then
+provide an update on selected strategic initiatives.
+ 
+Looking at our geographic markets, as mentioned at the beginning of the call, I was really pleased to see the sales growth and the
+improvement of sales growth in Europe in the quarter. In Europe, sales were solid, both in the laboratory and industrial product line with
+transportation and logistic being very strong, in particular. Retail was below last year as they faced very challenging comparisons. Expect
+to see improvements in our European retail business during the remainder of the year. Overall, across all businesses, expect sales in
+Europe for the full year to be in the range of low single digit.
+Sales growth in the Americas came in pretty much as we expected. Industrial growth was solid, but that's expected. We saw it below the
+very strong level we had in the first quarter. Retail has a solid growth, which was better than in Q1. As we look at Q3, order intake on the
+industrial in the Americas looks very solid.
+In terms of Asia, China came in as expected. They face tough comparisons with the prior year. China has strong backlog entering into Q3.
+Japan and southeast Asia had very strong sales growth in the quarter. And we don't think we will continue that -- that that will continue
+for the rest of the year.
+Now turning to market conditions in our different businesses. Laboratory had a strong quarter and this, despite a very solid quarter last
+year. Balances as well as Analytical Instruments were the principle growth drivers. Drug Discovery was down, slightly, in the quarter, but
+has a much better backlog than at the same time last year. It continued to see strong demands in our Process Development Area with
+continued weakness in our Discovery Business.
+Industrial had another quarter of solid growth. Industrial growth in Asia was strong and our Transportation Logistic Business globally
+had outstanding quarter. As we've not spoken about this business recently, I thought I would provide brief update on the business.
+We've been a pioneer in the development of the [Indiscernible] and basic capture technologies for the transportation and logistic industry
+for many years. And we have the most accurate and highest throughput solutions in the industry. Our solution help freight carriers
+recover revenues through [indiscernible] pricing, based on dimension, as well as weight. Our solutions also have operational cost savings
+and help, of course, the information of the [Indiscernible].
+Sales growth in the second quarter was strong, both in the U.S. and Europe. In the United States, dimensioning is a more mature
+technology and carries focus is more on the improvement of the read rate, the ability of the system to read accurately the bar coding.
+They are adding more readers, demanding faster and more accurate solutions and increasingly looking at camera-based systems, which
+gives two dimensional capabilities. We have [indiscernible] the radio solutions to address these needs.
+In Europe, the market dynamics are somewhat different. The technology adoption of the dimension is not mature. Furthermore, we see a
+lot of consolidation in this market as many big U.S. carriers look to expand the geographic presence. Our opportunities in the business
+includes Asia, which is owned a small portion of the total business now, but has tremendous opportunities for growth.
+You also see opportunities selling to warehouse or logistic companies who want to install dimensioning instruments so they know they
+are being charged correctly. They have need for systems which are smaller and more flexible than those used. We are holding out such a
+solution in several markets in Europe. Although our Transportation and Logistic Business is small portion of the overall industrial
+business, it has a strong growth dynamics.
+Finally, a word to retail. As I said before, retail was down in the quarter. We select challenging comparison in the second half of the year
+and based on our strong project pipeline, we would expect to see modest growth in the retail for the remainder of the year and low single
+digit growth for the full year. That's all I wanted to cover in terms of the businesses.
+In terms of our strategic initiatives, I want to provide you an update on Project Spinnaker which, as you know, we initiated about year ago
+with the goal of improving our organic sales growth. Most of you know that the more than 75% of our product lines, we have the number
+one global market leadership position. Even so, our world market share costs all our products is around 20%. So we believe we can
+increase the market share by increasing that -- the effectiveness of our sales, service and marketing organization. In the course of the
+ 
+Project Spinnaker we identified many opportunities and for the time being, we narrowed the list to four focus areas; namely, segment
+marketing, regeneration, field automation, and pricing.
+Today, let me talk -- take you through what we're specifically doing in one of these areas, namely, in the area of regeneration; and also
+have your measuring the progress on this initiative. Since the first quarter of the year, we are measuring leads in our sales organization
+throughout the world. Our goal is not to just obtain great number of leads but rather, a great number of high-quality leads. We're also
+tracking the source of leads, which includes leads from our service organization, from e-mail campaigns, seminars, direct mail
+campaigns, exhibition, trade shows or our telemarketing departments. We also continue to closely track the lead generation from our
+web track form.
+In addition to tracking leads, we're implementing marketing initiatives to generate more leads. As you know, one key initiative to
+generate more leads is segment marketing. Since the beginning of this year, we've added  new segment marketing campaigns in such
+areas as cosmetics, snack food, flavors, [Indiscernible] and the chemical industry. Our segment marketing campaigns have proven to be
+very successful in generating new leads in sales.
+Our initiatives to increase our leads include significant increases in telemarketing, or providing incentives to our service organization.
+Finally, we are also expanding our electronic lead generation to enhancing our web consent through e-mail campaigns, online ads and
+expanding the use of key word in search engines.
+Now, of course, you wonder about the results. The results of all of this effort is significant increase in the number of leads. In those units,
+that we have [Indiscernible] along with our Spinnaker implementation we are seeing very significant double-digit growth in the numbers
+of leads. We are convinced that the increase in the number of leads will increase our sales momentum.
+Project Spinnaker is more directed to the top line growth, but also, as you know, we have defensive strategic initiatives which will help us
+to improve our cost effectiveness and also efficiency of our working capital, including our efforts around supply-chain management. Our
+goals in supply-chain management are two-fold: To reduce the cost of managing our inventory, as well to reduce the inventory levels.
+Last year, we expanded our procurement initiatives to include the full supply chain to gain greater efficiencies of costs and assets. This
+made many good progresses and are now very short with starting the operation of our North American logistic cup in Ohio. In addition to
+cost savings from a more centralized approach, this move will help us to reduce inventory levels. We are already seeing improvement in
+our inventory terms but see further opportunities to increase the inventory term to five times.
+On the procurement side, we continue to be able to offset price increases with savings in other areas. Overall, our material purchasing,
+our material costs are flat, despite inflation and pressure from the field and other commodity price.
+In summary, we are very pleased with the result of the quarter and the progress on our initiatives. Our sales growth has improved, and
+order entry or backlog as we enter Q3 is very solid. We remain cautiously optimistic for the remainder of the year. That's all I wanted to
+Robert Spoerry Mettler-Toledo International - Chairman, CEO
+Hi, Darryl.
+ 
+Robert Spoerry Mettler-Toledo International - Chairman, CEO
+Yes. Happy to do that. Progress on that equation is excellent. We're probably there at the percentage of  to 40% of the instruments
+being sold in conjunction with Lab X. On Balances we have many pilot installation in all key markets -- long and good profit rate. It's a
+very clear differentiator and also, as you know, very key for the push our new products. The value proposition of Lab X is really strong, in
+combination with the new Balances. And of course in that sense, we not only interested to see it on the progress of Lab X for Balances
+but also impact it has on the new balances itself.
+In terms of the Balance business, frankly, I was very happy with the growth we've seen in the quarter. In spite of a difficult comparison to
+the previous year. I think that it shows that the new product are very well-received. Hopefully, we can continue to build on that in the rest
+of the year.
+ 
+Robert Spoerry Mettler-Toledo International - Chairman, CEO
+Yes, of course. Maybe just for everybody, as part of this termination of the contract with Gilson, we have, now, of course to find alternative
+solutions. We have comparable products which are more economic, which we have sold outside of the U.S. and, of course, just now
+launching these product in the U.S. We have on those products, many factory costs which are, frankly, much, much below the purchase
+price we had to pay to Gilson beforehand and, of course, selling those products.
+We are very pleased with the acceptance of these products in the U.S. market and we are optimistic that we are going to kind of protect
+our operating profits. Though might lose -- or we will lose some sales volume, but we'll sell our own products and because we
+manufacturer them, we have, also, the manufacturing margins. And in spite of some sales decline, they'll, of course, enjoy the better
+margin and hopefully help to us remain on the high profitability level.
+ 
+Robert Spoerry Mettler-Toledo International - Chairman, CEO
+No. It's unclear to us.
+ 
+Robert Spoerry Mettler-Toledo International - Chairman, CEO
+I mean, as Bill mentioned before, of course we keep our options open. And of course we're considering to further appeal. But, of course,
+for the moment, the situation is clear and we are selling what we have.
+ 
+Robert Spoerry Mettler-Toledo International - Chairman, CEO
+First, the full-out guidance is on the higher end of the range.
+ 
+Robert Spoerry Mettler-Toledo International - Chairman, CEO
+And, I always did say, in a normal economic environment we can go in the range of  to 6%. And I think, what we have shown here in the
+quarter is good proof of that. And with all of the other things we do with respect to Project Spinnaker, among others initiatives, but also
+new products, I'm really optimistic this is very doable.
+ 
+Robert Spoerry Mettler-Toledo International - Chairman, CEO
+Hey, Peter, I think, first of all, the Pharma results have been encouraging in channelling Q2. And, yet, our [Indiscernible] in Q2, better
+than in Q1, and in that sense we're certainly optimistic, yes.
+ 
+Robert Spoerry Mettler-Toledo International - Chairman, CEO
+Same as we told you in the past. In terms of businesses, we focus on opportunities in the field. And to find Packaging Inspection, but that
+would be metal detectors, check weighers or x-ray or related technology. The reason why we say that, these products have great value
+proposition to the custom, in terms of productivity improvement and product safety, food safety. We see there are some opportunities to
+further expand.
+Then, number two, of course, in channel what we'll call or Llaboratory business, just adding on other product lines. And, then, number
+Robert Spoerry Mettler-Toledo International - Chairman, CEO
+Thank you.
+ 
+Robert Spoerry Mettler-Toledo International - Chairman, CEO
+Okay. Of course, as you all know, European retail was difficult after the conversion of the Euro, where a lot of the trading was replaced.
+And, therefore, the market declined just after that, significantly. We had some quarters, with growth, others where we had also some
+decline. But the European retail business, for example, last year, single digit growth, so that wasn't that bad. In Q1 and Q2 this year we
+had difficult comparison versus last year, because last year we had one big order. the timing of this project is just a little different. The
+outlook for Europe, actually, for the second half is showing decent growth, meeting our range and we'll be okay with the number.
+ 
+Robert Spoerry Mettler-Toledo International - Chairman, CEO
+Yes. Again, just to repeat myself, we had a mid-single digit growth last year. in total.
+ 
+Robert Spoerry Mettler-Toledo International - Chairman, CEO
+What we're doing to get this -- we have a lot of new products with a lot of new capabilities [indiscernible], which I mentioned many times
+before. Bill did also mention that we had some pricing pressure from customer in that business, we actually make big concerted moves
+for product cost reduction and we have very specific targets, but not only targets. we actually have very specific, concrete measures which
+give us a lot of belief that we're going to meet the targets. And we're going to have good product cost reduction to come in the course of
+next year on those product lines.
+ 
+Robert Spoerry Mettler-Toledo International - Chairman, CEO
+Yes. A good part of the growth comes from the P&L business and you know, frankly, the backlog is very strong in that business -- the
+backlog this year. With all of the new products we have I'm optimistic, as well. And, then, last not least, I mentioned that very briefly, so
+far, we have been very much focused on the big transportation companies in that segment. But when we start to look at the other
+opportunities in that business, like, the smaller warehouse shipper segment, but also the OEM system integrator we see additional
+opportunities. We, actually, having ready with new products for those markets. And furthermore, Asia, frankly, a market which is
+[indiscernible]the technology, but we know from many of our bigger companies, the bigger companies, again, those global express
+carrier and they are ready with big investment coming from eastern Asia.
+ 
+Robert Spoerry Mettler-Toledo International - Chairman, CEO
+Hi, Rich.
+ 
+Robert Spoerry Mettler-Toledo International - Chairman, CEO
+We were around that number, at the high-end, yes.
+ 
+Robert Spoerry Mettler-Toledo International - Chairman, CEO
+Welcome.
+ 
+Robert Spoerry Mettler-Toledo International - Chairman, CEO
+Order entry was very strong.
+ 
+Robert Spoerry Mettler-Toledo International - Chairman, CEO
+Yes. I can give you some ideas there. Probably 15% of our sales are -- group sales from products manufactured in China. We're constantly
+transferring more production to China, probably in three years from now, the number is going to be 25% or so.
+Of course, aside from just the manufacturing, the procurementing, which I mentioned before, works also in global sourcings and
+investment plans to source more and in China, in terms of parts, components or sub-assembly and had, of course, a positive impact.
+ 
+Robert Spoerry Mettler-Toledo International - Chairman, CEO
+And manufacturing capacity and we have three plans. We have the plans, not only the manufacturing capabilities, but also R&D
+capabilities. We have in the range of tons and tons of plenty R&D guys in China. These guys design products for the local market but
+these products, which are designed for the global markets, are very often both complementary low-end products for the low -- global
+[Indiscernible] distribution.
+ 
+ 
+Robert Spoerry Mettler-Toledo International - Chairman, CEO
+Very welcome.
+ 
+Robert Spoerry Mettler-Toledo International - Chairman, CEO
+Actually, I think part of it we already saw that quarter. Our sales growth, clearly, has been better in Q2 than it was previous quarters.
+ 
+Robert Spoerry Mettler-Toledo International - Chairman, CEO
+Thank you, bye-bye.
+ 
+Robert Spoerry Mettler-Toledo - Chairman, President, CEO
+ 
+welcome you to the call. I am joined by Robert Spoerry, our Chairman and CEO, and Bill Donnelly, our Chief Financial Officer.
+I will start by covering some administrative matters. I will then turn the call to Robert, who will provide you highlights of the quarter. Bill
+will then cover the financials in detail, and then Robert will provide commentary on our outlook and business. Of course, we will have
+time for Q&A at the end.
+Now for the administrative matters -- first, this call is being webcast, and is available for replay on our website. A copy of the press
+release we issued today is also available on our website.
+You should be aware that statements on this call which are not historical fact may be considered forward-looking statements for
+purposes of the Safe Harbor provisions under the Private Securities Litigation Reform Act of 1995. Forward-looking statements involve
+risks and uncertainties that could cause actual events or results to differ materially from those expressed or implied. For further
+information concerning issues that could materially affect performance related to forward-looking statements, please refer to our filings
+with the SEC. We undertake no responsibility to release any revisions to forward-looking statements as a result of subsequent events or
+developments.
+One other item -- on today's call, we may use non-GAAP financial measures. More detailed information with respect to use of and
+differences between the non-GAAP financial measures and the most directly comparable GAAP measure is provided in the press release.
+I will now turn the call to Robert.
+ 
+Robert Spoerry Mettler-Toledo - Chairman, President, CEO
+Thank you, Mary. I want to thank you all for joining us today on this call. We're very pleased with all aspects of our financial results for the
+third quarter of this year. Our sales growth was strong at 7%, which was both the recorded growth rate, as well as the local currency
+growth rate. All key businesses demonstrated growth. Our food retailing and transportation and logistics were particularly strong. In
+ 
+addition, sales growth was robust in all geographic parts of the world.
+Our operating profit and cash flow generation was very strong, and our EPS growth excluding onetime items, was excellent at 24%
+growth.
+As we look to the future, we are cautiously optimistic for the remainder of this year and for 2006. We will explain our outlook in more
+detail later in the call.
+Let me now turn it over to Bill, who will take you through the financial results for the quarter. Bill?
+ 
+Robert Spoerry Mettler-Toledo - Chairman, President, CEO
+Thank you, Bill. I will begin by providing some additional comments on Q3, and then I will recap some of the key initiatives from last year.
+Let me start with our lab results for Q3. We saw solid demand for our analytical instruments, particularly our thermal analysis and pH
+meters. Process analytics as well had another solid quarter. In balances, we continue to do quite well on the high-end as our products
+sold for tangible value to customers, particularly those in regulated markets. On the low-end or entry-level products, you do see some
+weakness. As part of Project Spinnaker, we have a task force developing a strategy to address this end of the market -- not only for
+balances, but for all of the low end products as well. They are evaluating supply chain, channel strategy, product mix, and marketing
+programs for this customer base. As we begin to implement this strategy, I would expect to see better growth from this end of the
+market.
+You heard from Bill that pipette sales were basically flat in the quarter. This reflects reduced pricing levels from our standard jazz (ph)
+pipette products sold in the U.S. As a result of the litigation earlier in the summer, our distribution agreements with (ph) certain
+third-party manufacturers plan to chase (ph) pipettes was canceled. We are now selling direct in the U.S. our own manufactured
+products. Although the price are lower, our margins are higher because we managed back (ph) rather than just distribute those products.
+The last piece of our laboratory business is drug recovery, which had a strong quarter and did defy (ph) a strong quarter from a year ago.
+Most of our ultra cam (ph) business is focused on the process development and scale-up needs of large pharmaceutical customers.
+In process development, chemists and engineers determine how to manufacture a drug that has been discovered earlier. We have a
+leading market position in this area, and are generally considered the standard in the market. Our solutions consist of automated lab
+reactors, which simulates the manufacturing process in the laboratory vessel, as well as real-time analytics, which consist of probes that
+monitor in reaction that monitors the reaction in the vessel. We see the strong dynamics of this business continuing as pharma
+ 
+companies have tremendous incentives to accelerate this process and move the drug through the manufacturing quickly. We recently
+received a sizable order of automated lab reactors and analytics from a large pharmaceutical customer. A portion was shipped in Q3 with
+the majority of it to be shipped in Q4.
+Turning now to the industrial business, which you have seen had a great quarter. Growth was driven by our transportation and logistics
+business. We spoke about this business on our last call, so I won't cover it all again. But hopefully, you remind (ph) that we are pioneers
+in the development of automatic dimensioning and basic capture technology for the transportation and logistics industry, and that we
+have the most accurate and the highest throughput solutions in this industry.
+This is a project business. And we have several projects in both the U.S. and Europe that contributed to the growth in the quarter. Our
+outlook for this business is solid. But we do recognize that unlike most of our other businesses, there is variability in sales growth by
+quarter.
+Our product inspection business had also a strong quarter. We have a record number of new products in this business, as we have
+significantly revamped our product portfolio over the last year. The upgrading of the product portfolio allows us to continue to globalize
+our offering and to move ahead of competition in many important design areas.
+Recently, at the packaging show in Las Vegas, we unveiled to the North American market a new metal detector and a new checkweigher.
+We also launched a more standardized X-ray product to complete our range in this market. We view the dynamics of this market as
+strong, driven by the food manufacturers' desire to protect their brands from exposure to consumer health and safety concerns as well as
+government regulation.
+Our high-end industrial business, which combined industrial scales and terminals with software packages, is also well. These solutions
+help customers manage data, such as transaction processing, formulation, batching, and support statistical process control. Finally, our
+standard industrial business performs well, driven by the infrastructure spending in China.
+Now turning to retail, we had the growth of 14% in local currency. We have been talking for the last few quarters about the opportunities
+in this business. Somewhat like our transportation and logistics business, part of this business is also project related. And therefore, it
+has variability to its sales. We had several projects in Europe that we have been expecting for some time. In the U.S., we benefited from
+legislation surrounding nutrition labeling, as well as the growth in our data management software business. We expect solid results in
+the retail in Q4 as well.
+That covers my comments on the quarter, and now I want to add some comments on our strategic initiatives for  and beyond. As Bill
+already mentioned, we're cautious on the economy, and will continue to monitor it and adjust (ph) our plans accordingly. However, we
+have many positive strategic initiatives that we believe will yield benefits in 2006.
+Let me cover the highlights, beginning with Project Spinnaker. As most of you are aware, we have the number one position in the vast
+majority of our products. And yes, our worldwide (ph) market share is around 20%. We believe we can increase this market share by
+increasing the effectiveness of our self-service and marketing organization. Project Spinnaker identified many opportunities, and we are
+now focused on four of them -- namely segment marketing, lead generation, field automation and pricing.
+We are continuing to drive the segment base approach to marketing across all our product lines. So with this effort, we're identifying new
+segments that can be added to our marketing initiative.
+We're also generating more and more leads via the Internet, through significantly increased telemarketing resources and also others (ph)
+we've met (ph). We are closely tracking and measuring these leads to understand the ultimate effectiveness of turning these leads into
+sales. We are in sales more disciplined in our discounting practice, and thereby are achieving better pricing.
+Finally, we have put a task force together to identify ways to improve the productivity of our sales and service force through more
+automation in the field. We believe we are in the early stages of this initiative, and we continue strong execution. Spinnaker shall
+ 
+contribute to the growth for many more years.
+The next strategic initiative I want to cover is the development of emerging markets. Our primary focus continues to be on China. We
+have increased the percentage of goods manufactured in China from 3% in  to nearly 20% by the end of this year. Our strategy in
+China is twofold -- first, to capitalize on growth opportunities in the domestic market, and second, to provide low-cost production for our
+global distribution channel.
+We see (ph) continued opportunities, and have committed to build a manufacturing facility in China in the course of  and early
+2007. This facility will replace an existing one and nearly double the capacity of the existing site. The cost of the facility will be in the
+range of $10 million, and we are confident it will yield excellent results.
+Looking forward, our investor business will continued to benefit from infrastructure growth in China. As GDP per capita increases, we
+foresee significant growth opportunities across our higher end business, as demand for laboratories instruments, product inspection
+equipment, and similar products should grow significantly. In short, we feel strong, and we feel strongly that we will continue the sizable
+opportunities for growth in China.
+Another emerging market area that we see opportunities is India. We have had our Company in India in place since 1990, which focused
+on our industrial business. And we have worked through a distributor for our laboratory offering. Given the growth in this market and our
+desire to more aggressively develop market, we will soon begin selling direct also for those laboratory products. We already have
+doubled the size of our direct salesforce in anticipation, and see solid opportunity for growth in this region.
+New products continue to be a central part of our strategic initiative. As we look out over the next twelve months, you'll see many new
+launches of products and upgrades through the software offerings. We're also focused on cost, and have several initiatives to reduce
+product costs and improve the management and logistics of our supply chain. I've already covered our low-cost manufacturing in China,
+and we think we can save more than 30% in manufacturing costs.
+In supply chain management, we're working on fully integrating our supply chain from development through logistics. We believe that
+significant opportunities exist through further supply consolidation, low-cost country sourcing, and the drive (ph) internally to share
+components and modules across the product lines. We also believe we can further streamline our logistics processes, which are quite
+global through the growing importance of our Chinese operations. Both (ph) together, we see opportunities to continue to reduce
+product, product costs, and process costs and reduce inventory investments in the coming years.
+In summary, you can see we have many initiatives in place. And with solid execution, we believe we can achieve solid growth. With the
+benefit of these strategic initiatives and the economic environment similar to today, I believe the 5% sales growth and the dollar (ph) --
+3.20 to 3.25 in EPS, which translates into 15% EPS growth, are ambitious but reasonable targets for next year.
+Before I open the line for questions, I want to comment on the press release we issued this afternoon, concerning the 10b5-1 plan for the
+sale of my  options. The plan calls for the sale of 867,000 expiring options in the coming months (ph). These options were granted
+at the time of the buyout from Ciba-Geigy, and we were not a public company. And they will expire in 2006. At the time of our buyout
+and later times, I also purchased 346,826 shares of Mettler-Toledo stock, which I will own and have no intention of selling.
+Of course, I remain fully committed to Mettler-Toledo, and the sale is being driven by the pending expiration of the option. My direct
+holdings in Mettler-Toledo in the form of stock and remaining options represent more than  times my annual base salary. I wanted to
+communicate directly to you my intentions. And of course, you will see the required filing over the course of the coming months as the
+sale transactions are completed.
+That is all what we have from our side. And I now would like to ask the operator to open the line for questions.
+QUESTIONS AND ANSWERS
+ 
+ 
+Robert Spoerry Mettler-Toledo - Chairman, President, CEO
+I think the low-end of the market is just more price sensitive. There are of course more competitors who have low-end products. It's not
+our nature to compete too much on price. And I think maybe it's also a reaction to the very strong offering we have on the high-end, as
+we are so strong on the high-end, many of our competitors just shifted much more of their focused to the low-end, which takes a little bit
+of the strength we have.
+As I mentioned, this softness in a smaller part, actually, of our total market is recognized. And we see actually quite a bit of opportunity
+to address that part of the market in a highly effective way. The contacts (ph) have been worked out. The strategies are in place. And we
+will soon start with the execution. And I'm pretty sure we will put some things quite differently in place, and through that establish
+competitiveness and leadership for the part of the market.
+Again, I want to remind everybody the core of our business is always the high-end. And the low-end is something which never has been
+our stronghold, but more kind of an adjacency -- but I think an adjacency that will get increasingly competitive.
+ 
+Robert Spoerry Mettler-Toledo - Chairman, President, CEO
+I guess I can comment that maybe by segment, by industry, probably both important to maybe even talk about customers -- individual
+customers. Pharma spending in general, I think, it's slightly reduced. However, it depends heavily by individual customers. I think some
+pharma companies are actually doing quite well. And there, we see good investment levels. And maybe there are others who are more on
+the cost savings, and therefore, the demand isn't so strong. Other industries pay -- I think cosmetics, chemical, food companies -- pretty
+good. I think certainly slightly better than what we have seen before.
+Geographically, not much difference. I think the lab business -- certainly, as mentioned, it's very well in the U.S., Europe -- maybe a little
+softer; but from the order intake we had in Europe, that's actually -- that's pretty encouraging. And Asia, as usual, did well.
+ 
+Robert Spoerry Mettler-Toledo - Chairman, President, CEO
+I think pharma was all actually altogether okay -- maybe not as strong as all the time.
+ 
+Robert Spoerry Mettler-Toledo - Chairman, President, CEO
+We'll find out. And the reason why I say it that way -- the reason for really changing the situation in India was that our distributor always
+helps (ph). He does a hell of a job, and we have a very high marketshare. And my experience is when we step into a market and try and
+supply our own methods, realize that the market is usually significantly bigger. (multiple speakers)
+ 
+Robert Spoerry Mettler-Toledo - Chairman, President, CEO
+Well, actually, that distributor handles all of our laboratory business. On the industrial side, he has already in place our own
+organization. That organization was put in place in the late '90s. Of course, the beauty of that is that we just can bolt on the lab business
+on the existing infrastructure. And as I mentioned during the call, we have been quite aggressive in adding people and setting up the
+organization. I expect substantial growth from India next year. And for substantial growth, I think there can be a couple of million dollars
+over the year.
+ 
+Robert Spoerry Mettler-Toledo - Chairman, President, CEO
+No, it was several customers in the U.S. and in Europe. It was mainly ground transportation. And the applications for these typical help
+applications that we will do the tracking of parcels, combining weighing technology, dimensioning technology, barcode reading, visual
+technology -- all integrated in one system across all in motion with high throughput.
+ 
+Robert Spoerry Mettler-Toledo - Chairman, President, CEO
+It really depends on how you segment the market. If you look at these big transportation companies and their big hubs, no -- that market
+is quite well penetrated in the U.S. So in case they buy -- if you have projects like we had, then it's productivity-improvement driven, and
+also the technology integration.
+In Europe, however, it's not nearly as penetrated. Actually, the UK was the first market to move towards that technology. France followed
+afterwards. We have heard from one customer who has moved in Germany. And hey, usually, if that starts, others will follow, and still
+apply the same pricing methods -- namely, a pricing method which is based on the so-called dimensional weight. So you take weight
+information and volume information.
+Now this is -- you know, the big carriers and their hubs -- now of course you can take this then a step further into a market segment
+which we call the warehouse and shipping market. And that part of the market, frankly, is not developed at all yet. And we are just
+launching for that part of the market new product which then -- typical manufacturing companies produce the warehouse and shipping
+applications. The desire of everybody is to capture those data as early as possible, and in that sense, of course, there could be a
+significant opportunity also in the part of the market.
+ 
+Robert Spoerry Mettler-Toledo - Chairman, President, CEO
+I think that opportunity is probably three or four times larger than the existing opportunity. It takes still, of course, time to develop it. And
+you should not think that it's just going to happen at once. I think that will be a gradual process.
+ 
+Robert Spoerry Mettler-Toledo - Chairman, President, CEO
+Bill, if I may interrupt here, I just give an example -- let's go to retail. We may have a customer who feels this UC platform we have is
+great, and it fulfills most of his application needs, those which we have planned to -- built into the product. But he may say, hey, I need
+another feature which is relevant for my business.
+And to give you an example, actually, we have one customer who feels he wants to use the display of the retail sales for cost promotion,
+but then during the front (ph) of the counter (ph) you buy some meat -- actually, on the display, it would say, when you buy meat, you can
+have actually a coupon for the buying. So that is what they call cost promotion. They do these programs to sell more at the same time.
+Now, what that would mean -- we then need to somehow enhance the system software capabilities. We would do that traditionally with
+specialized partners. Such a project check can be very well-managed. It starts with the requirements definition. Then of course once we
+know that, we know the cost. We have a premonitoring system. And of course, timelines -- if he then has to do rollout (ph), we also do
+first testing in our labs. And we make pilot installations with the customers, and the customer is happy when we go into further rollout.
+Hey, with that I just want to tell you this project adaptation are mostly software integration, as Bill mentioned before. And they're kind of
+-- they build on what we have. And in terms of the risk involved, it's really not significant. Now with that, maybe I want to give it back to
+you, Bill.
+ 
+ 
+Robert Spoerry Mettler-Toledo - Chairman, President, CEO
+Yes, but we always still have projects.
+ 
+Robert Spoerry Mettler-Toledo - Chairman, President, CEO
+Probably, if you look at year to date, you get a couple (ph) capacity (ph).
+ 
+Robert Spoerry Mettler-Toledo - Chairman, President, CEO
+A good part will be 2006; some, 2007.
+ 
+Robert Spoerry Mettler-Toledo - Chairman, President, CEO
+Not that much.
+ 
+Robert Spoerry Mettler-Toledo - Chairman, President, CEO
+As usual, we work on of course acquisition opportunities. We are, as I mentioned many, many times, very careful in stepping through an
+acquisition. The screening will be a strategic fit. Can we operationally absorb it and manage it? And last, but not least, will it make
+financial -- is it financially sound?
+Of course, we announce these acquisitions when they're ready to announce. So I cannot really be specific on anything. I also want to
+reiterate, and you have seen that with the guidance for next year, we're not dependent on acquisitions. We will have very solid earning
+growth based on our organic growth. The 5% we have given you translates into 15% EPS growth for next year. At that speaks (ph) on the
+operating leverage we have. And there is also a quite significant focus in the organization on this organic growth. This organic growth --
+we know what we buy, and translates into very handsome profit growth.
+ 
+Robert Spoerry Mettler-Toledo - Chairman, President, CEO
+But that being said, of course, acquisitions will be part of our future, and we will announce them when they're ready to announce.
+ 
+Robert Spoerry Mettler-Toledo - Chairman, President, CEO
+I would like to thank everybody for joining us tonight. You certainly have heard that we're very pleased with the quarter. We hope you're
+pleased as well. And with that, I want to wish you a very nice evening. Thanks for joining us today. Bye-bye.
+ 
+Robert Spoerry Mettler-Toledo Intl. - Chairman, President, CEO
+ 
+want to welcome you to the call this morning. I'm joined by Robert Spoerry, our Chairman and CEO, and Bill Donnelly, our Chief Financial
+Officer. I will start by covering some administrative matters and then turn the call to Robert who will provide you highlights of the
+quarter. Bill will then cover the financials in detail and Robert will provide commentary on our outlook and business. Of course we'll have
+time for Q&A at the end.
+Now for the administrative matters. First, this call is being webcast and is available for replay on our website. A copy of the press release
+we issued today is also available on our website. You should be aware that statements on this call which are not historical facts may be
+considered forward-looking statements for purposes of the Safe Harbor provision under the Private Securities Litigation Reform Act of
+1995.
+Forward-looking statements involve risks and uncertainties that could cause actual events or results to differ materially from those
+expressed or implied. For further information concerning issues that could materially affect performance related to forward-looking
+statements, please refer to our filings with the SEC. We undertake no responsibility to release any revisions to forward-looking
+statements as a result of subsequent events or developments.
+One other item, on today's call we may use non-GAAP financial measures. More detailed information with respect to the use of and
+differences between the non-GAAP financial measures and the most directly comparable GAAP measures is provided in the press
+release. I'll now turn the call to Robert.
+ 
+Robert Spoerry Mettler-Toledo Intl. - Chairman, President, CEO
+Thanks, Mary. Good morning, everybody. I want to thank you for joining us today on this call. We are very pleased with the strong finish
+we had in  as evidenced by our Q4 results. Sales growth in local currency was 7% and was driven by robust demand for our
+laboratory products, continued growth in China and another strong quarter in food retailing. We are very pleased with our gross margin
+expansion and the solid increase in operating profit recognized in the quarter.
+Our EPS growth was again excellent and we are pleased to have achieved a 20% growth in EPS for the full year 2005. Although we
+ 
+remain cautious on the global economy, with the strong results we had in Q4 we are revising and increasing our targets for this year
+2006. We will explain this in more detail later on the call. Let me now turn it over to Bill who will take you through the financial results.
+ 
+Robert Spoerry Mettler-Toledo Intl. - Chairman, President, CEO
+Thanks, Bill. I will start by providing commentary on  and the increased outlook for this year before I discuss our initiatives to drive
+growth and profitability in 2006. Last year we generated in local currency a sales growth of 5%. As Bill mentioned, we continue to feel
+comfortable with a similar growth level for what you saw in last year and that is local currency growth in the  to 6% range.
+In terms of geographic breakdown we would expect growth in Europe and the Americas to be in the  to 5% range. In Europe we saw
+trends to improve during the course of the year and expect these trends to continue. In the Americas we do not expect our transport and
+logistics and food retailing business to be as strong as in 2005, but expect solid growth in our laboratory products, also our other
+industrial productlines. In Asia we would expect growth in the 10% range with solid performance across the board.
+Let me add some insights by business area. I will start with lab. In  we had solid growth across most of our productlines as a result
+of the many new products we have launched. We have a number of new product launches again this year and would expect similar
+customer level investment as we had last year. Overall we expect growth in the  to 6% range for the laboratory business, a little better
+than what we saw last year.
+In our industrial instruments we would expect sales growth in the  to 5% range. We had unusually high growth in transportation and
+logistics business in  which we do not expect to repeat, although we do expect solid growth in the other industrial productlines this
+year. Product inspection growth was more modest in  and with the benefits of the full-year run rate on the numerous new product
+launches we would expect improved growth in the packaging inspection business in this year. Taken together we would expect similar
+growth rates for industrial in  as we saw last year.
+Finally, in food retailing, this business has a little more volatility than our other businesses. In  we ended the year with 8% sales
+growth which is at the high-end of the  to 8% range we expect from this business. Our strong performance in  was driven by the
+solid execution of our strategic initiatives. Let me highlight these initiatives which I believe position us for continued growth in  and
+beyond.
+I will begun with Project Spinnaker which is now firmly rooted in our organization. In fact we have seen benefits in our  results. The
+aim of this initiative is to increase our sales growth rate, enhance sales productivity and gain market share through excellence in sales,
+service and marketing. Spinnaker's growth rate initiatives with many components. We started to implement in late  and will have
+new ideas for execution over the coming years.
+On the last call I spoke on our progress in segment marketing and regeneration. Today I would like to comment on the area of pricing. It
+began by analyzing our pricing down to the customer and sales (indiscernible) level. With this additional transparency we identified
+opportunities to adjust our pricing to find the right balance between volume and price as well as additional opportunities to improve our
+realized prices by changing certain processes.
+The first processes to be changed were to provide our sales force with additional training on value selling. For example, we developed
+Internet-based tutorials and toolkits to help them better communicate and sell value for our products to the customer. The second
+ 
+process change is to implement a structured and rigorous process control around discounting. We have rolled out both of these changes
+to some parts of the organization and we will continue to roll out over the course of the year.
+We believe pricing continues to help our gross and margin expansion. We expect more progress also this year. Furthermore, we have
+raised list prices substantially across all products effective beginning of January. We estimate we will realize a net increase of
+approximately 1% across the Group. In our laboratory and industrial offering we expect a somewhat higher realization. Our retail
+business, however, continues to face a challenging pricing environment and our expectation in that business is that we will not realize
+price increases for this year.
+Next I would like to give you an update on service. In  service grew a little less than our product sales. In recent years service has
+been able to grow faster than product sales and we expect to see continued growth in the years to come. As you know, service is also
+quite profitable with margins above the product business. With this background of high growth rates and high margins we are
+implementing a series of initiatives which should help us to capture the opportunities in service.
+Now I want to explain how we intend to capture these opportunities. It starts with clearly defining the service products we want to sell.
+Over the last year we have made a conscious effort to integrate the development of our service products into the product development
+process. When we launch a new product we want to ensure we are launching also a related service offering. Hand in hand with this
+approach is the development of marketing brochures and communication documents that articulate the scope and value of our service
+offering.
+These service marketing tools help our salespeople to affectively sell our service offering upfront with the product sales. We clearly
+recognize that the best time to sell a service contract is at the time of the product sale and we are now better equipped than ever to do
+this. Also in the service area we are unbundling our calibration offering in order to be more price competitive in the standard
+maintenance segment.
+Calibration has always been a core service offering and customers are now looking for additional calibration services to meet various
+regulatory and quality standards. As calibration becomes more value added we are separating it from our standard offering in order to
+more effectively market and price this offering. This also ensures that our standard maintenance offering remains price competitive. In
+summary, with our global network in which our customers can obtain uniform services throughout the world, we believe we are strongly
+positioned to capture opportunities in this market.
+The third strategic area is the one focused on the emerging markets and our strategies (indiscernible) on China in which we have been
+operating for  years. We had another year of solid growth in  and in  we estimate that China will become our second largest
+end-user market. We see continued strong growth opportunities as Western customers shift manufacturing to this region and domestic
+companies grow with the local needs as well as positive opportunities from the exports.
+To better accommodate for this growth we are making important organizational changes. Mainly [breaking] up our current Chinese
+organization into a new marketing organization and a separate producing organization. This is the same organizational concept we have
+a place in the Americas and in Europe. The marketing organization can focus their initiatives on capturing more opportunities by
+expanding our regional coverage in China and implementing many of the Spinnaker's proven practices namely in the area of segment
+marketing and regeneration.
+Our producing organization on the other side can further enhance our cost competitiveness, quality orientation also improve our product
+development efforts. As we mentioned last quarter, we will begin to replace the oldest of our three facilities with an expanded one,
+nearly doubling the capacity of the existing site. We believe these changes will enhance our already strong market share and further --
+and provide us further manufacturing efficiency thus allowing us to continue our excellent track record in this region.
+The fourth strategic focus area is the one of technology leadership and in  we continued to reinforce this leadership with a broad
+range of new offerings, particularly in the balance and product inspection business. We have a solid pipeline as we enter this year as
+evidenced by the upcoming launch of a high-capacity microbalance that has the ability to weigh with unprecedented accuracy various
+ 
+types of fine substances or chemicals. There is no comparable product on the market with this type of accuracy and it allows customer to
+(indiscernible) more samples directly in the container thereby reducing losses and improving productivity without sacrificing accuracy.
+Another lab innovation soon to the launched is a high-speed system to calibrate single and multi-channel pipettes, the only compact
+industry of its kind in the market.  times faster than conventional balances for calibration, this instrument and its use of (indiscernible)
+software speeds up a time-consuming process by allowing the calibration of all channels of a pipette being calibrated at once and
+guaranteed precision and accuracy of the pipette being assured. Pipette manufacturers, service providers and pharmaceutical and
+biotech companies can increase productivity, optimize service and minimize support costs and gain more secure results to meet their ISO
+requirements. These are only two examples of new launches, we have many other introductions in the course of this year and our pipeline
+is quite strong.
+Our fifth strategic initiative is that we're working diligently to improve our cost structure in a sustainable way. On the procurement front
+we have been able to offset commodity related increases with savings in other areas. We continue to consolidate our supplier base and
+are increasing sourcing components from low-cost countries. Although our supply chain has great complexity, we have been able to
+increase our inventory productivity. As you heard from Bill, we had further improvements in our IPO in the fourth quarter and also for the
+entire year. So this initiative as well as several others we believe we can gain cost efficiency and improve our working capital productivity.
+In addition to our strategic initiatives our financial strength gives us excellent position for the future. We believe our sales growth,
+operating leverage and earnings growth are a big advantage for us. Given that we don't have significant capital requirements our cash
+flow when combined with our strong balance sheet provides us with excellent ability to repurchase the shares. As Bill stated, during
+ we repurchased 3.2 million shares or 7% of our outstanding shares. We will continue to use our free cash flow for share
+repurchases as we believe it's an excellent way to return value to shareholders. Our balance sheet is strong and provides us also with
+ample capacity for acquisitions.
+That is all that I did want to cover with you. And I would like to have the operator to open the line for questions.
+QUESTIONS AND ANSWERS
+ 
+Robert Spoerry Mettler-Toledo Intl. - Chairman, President, CEO
+In the U.S. we had a very good performance in Q4 and in Asia, China had very solid growth. I think, Bill, you need to back me up here,
+Japan -- Japan was slightly down. But really the main growth in China or the growth in Asia came from China.
+ 
+Robert Spoerry Mettler-Toledo Intl. - Chairman, President, CEO
+I think some changes were made by how they are spending the money. Typically the fiscal year for many companies ends in March. So
+you typically have end of March a big spike. Last year, however, the law was changed and so many companies have also changed their
+spending patterns which leads to a better start into the new year after March, but somehow reduced spending a little later in the year. I
+think in general Japan is okay in terms of the economy and the overall investments cycle I think is more just a change in the pattern in
+last year.
+ 
+ 
+Robert Spoerry Mettler-Toledo Intl. - Chairman, President, CEO
+'05 was extraordinarily strong. We had really very, very strong growth driven by some big projects and these projects are just more
+volatile. You may have one or two more this year and then one or two less next year and that's just the way it is. But the fundamentals are
+still very solid off of that market.
+ 
+Robert Spoerry Mettler-Toledo Intl. - Chairman, President, CEO
+In terms of M&A, adjusting our growth trends, our main area of focus will be for laboratory products, just expanding our product
+offerings. Then also in process analytics where we will be interested to expand the parameters we offer to the market today
+(indiscernible) packaging expansion -- packaging inspection. You could also imagine further capabilities for controlling certain quality
+attributes in packaged goods.
+In terms of the acquisition pipeline, maybe also a few comments here. In the last two years we have been really launching this Project
+Spinnaker with a key objective of maximizing the organic growth. I think we see very good evidence that that program works. In that
+sense we believe also organic growth is something which provides a fast return for the investment of shareholders and therefore takes a
+lot of focus for just on the organic growth. That does not mean that we are [excluding] acquisitions for our future -- not at all. But of
+course it tells us that we are not dependent on acquisitions. We have a very good organic growth already without having to pursue
+acquisitions.
+In terms of current activities, of course, as usual we announce matters when they are ready to be announced.
+ 
+Robert Spoerry Mettler-Toledo Intl. - Chairman, President, CEO
+Not being too specific, but this increased R&D spending will be mainly for laboratory products.
+ 
+Robert Spoerry Mettler-Toledo Intl. - Chairman, President, CEO
+What you have seen in the past, that of course our laboratory product portfolio has grown over the years either through in-house R&D or
+adding technologies and products through acquisitions. If we enter a new field we always enter it with the objective of coming out a
+leader in that market and we have seen proof of marketshare correlating to return on sales. So in that sense we are not entering into
+segments where others are very strong and the market positions are well taken. And maybe some of those productlines you just
+mentioned before probably are well taken position and it would make much sense for us to try to compete with some of the big guys
+there.
+ 
+Robert Spoerry Mettler-Toledo Intl. - Chairman, President, CEO
+Both growth rate across the productlines and also the industry segments we serve.
+ 
+Robert Spoerry Mettler-Toledo Intl. - Chairman, President, CEO
+That target building is in facility. We -- industrial and retail products are going to be at capacity. We should have new premises up and
+running in April '07 and we'll double the capacity for the industrial and retail businesses.
+ 
+Robert Spoerry Mettler-Toledo Intl. - Chairman, President, CEO
+It's hard to say, but based on past growth we had we believe it's going to be sufficient for the next five to ten years. But it's also building
+and designing in such a way that it can be easily expanded in case we need it earlier.
+ 
+ 
+Robert Spoerry Mettler-Toledo Intl. - Chairman, President, CEO
+I think we'll do a little better than in past years. And we said two things -- we have certainly made a much bigger effort to have all the
+price increases in place by 1st of January this year. And then internally we're doing a better job of the managed discounts of salespeople
+and discounting behavior. So I think the net realized number is going to be slightly better than in the past.
+ 
+Robert Spoerry Mettler-Toledo Intl. - Chairman, President, CEO
+Our business is mainly a replacement business. And I think of the many new products we have is of course always a trigger to the
+replacement cycle. And we have really an excellent offering of new products on the lab side which, frankly, I hope is also going to help us
+this year because it always takes a while until you have fully launched a productline and every customer knows about it.
+ 
+Robert Spoerry Mettler-Toledo Intl. - Chairman, President, CEO
+Our European improvement I don't think was much different from what it was here in general. Of course we have a few big projects which
+may -- in P&L for example,  really strong in Q4 and made a difficult comparison. But our European business I think is greatly
+improving. We have seen an uptick last year and we will continue an uptick this year.
+ 
+Robert Spoerry Mettler-Toledo Intl. - Chairman, President, CEO
+Just quoting activity, lead generation -- these are all indicators.
+ 
+Robert Spoerry Mettler-Toledo Intl. - Chairman, President, CEO
+Thank you very much.
+ 
+Robert Spoerry Mettler-Toledo Intl. - Chairman, President, CEO
+Yes. The primary objective of Project Spinnaker is to improve of the organic growth of the Company. Of course at the end of today I want
+to be totally transparent. There are many, many things affecting the organic growth of the Company. For example, of course the
+economy and the industry cycle, but then also new product launches and of course our own sales and marketing program. So if you were
+to ask me how much Spinnaker -- how much is new product that's going to be a difficult question for me to answer. But there are other
+ways I can check the effectiveness of Project Spinnaker. And you asked about lead generation.
+Lead generation is actually way of year on year. We probably had  to 50% more leads last year than the previous year and we want to
+do the same this year again. But then also maybe to a another part of your question, yes, Spinnaker also has productivity improvement
+elements. In the past, for example, we (indiscernible) those leads to salespeople. Today, in most market organizations we have several
+marketing departments which do prequalify leads and so that makes the salespeople use leads in a much more effective way and freeing
+them up from a lot of calling and letting them have o more time in front of customers.
+So there is a lot of good evidence that really Project Spinnaker is working well. And maybe a soft factor which I would not want to
+underestimate, it aligns all the Company's objectives behind one common target. And it aligns all the (indiscernible) business lines,
+product lines, market organizations in the very same direction and I think that adds long-term a very tremendous positive benefit for the
+Company.
+ 
+Robert Spoerry Mettler-Toledo Intl. - Chairman, President, CEO
+We certainly have seen benefits of that in 2005. Spinnaker, as I have said many times in the past, is also [churning]. We are working on
+selected topics at this point in time, but we have an inventory of ideas which we will activate at the right point in time, mainly once we are
+really (indiscernible) of those first ideas and it's time to move on to the next one. But we of course want to do this in a very controlled
+manner.
+ 
+Robert Spoerry Mettler-Toledo Intl. - Chairman, President, CEO
+I'd like to thank you again for joining us this morning. As you certainly feel from our comments, we are very pleased with our performance
+in the fourth quarter and also the entire year 2005. I think we have a realistic outlook for the coming year, we are cautiously optimistic on
+the markets and we believe that we can continue to grow the Company.
+Our foundation for the future continues to be rooted in the hallmarks of our franchise, a franchise which can be described by market
+leadership, global presence, a diversified customer base and also product portfolio, leading technology and the culture of delivering the
+ 
+highest quality products and services around the globe. I think with continued focus on execution we will be well-positioned for growth
+this year and beyond in the future. Again, thanks a lot for joining us this morning and we wish you a very pleasant day. Bye, everybody.
+ 

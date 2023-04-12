@@ -1,0 +1,857 @@
+Tom Lynch Tyco Electronics Corporation - CEO
+CONFERENCE CALL PARTICIPANTS
+ 
+Tom Lynch Tyco Electronics Corporation - CEO
+Tom Lynch Tyco Electronics Corporation - CEO
+Thanks, Terrence. Just wrapping it up here. The fourth quarter was -- the first quarter was our fourth consecutive quarter of operating
+margins of 14%, in the $12 billion to $12.5 billion annualized range, of course excluding ADC. And it was a quarter with solid revenue in
+growth in most of the industries and in all regions. And it was a quarter in which, if you go back a year ago when we started -- when we
+were beginning to close the gap on our original goal of 12% at $12 billion, that was based around a $3 copper price. So, the team has
+done a great job of being able to deliver 14% at $12 billion and overcome about a 25% increase in metals overall.
+The market demand for the year is a little stronger than we saw it last quarter. As Terrence mentioned, due primarily to the strength in
+automotive. But we do expect virtually all of our businesses, with the exception of SubCom, to show solid year-on-year revenue growth
+across the balance of this year. And there is very good momentum in automotive and in our network infrastructure businesses. And this
+does assume -- this outlook does assume that consumer and DataComm begin to grow a little bit in the second half of this year. The ADC
+integration, while still in the early stages, is progressing very well. And we'll start to see a little bit of earnings accretion in Q2, and then
+the level picks up by Q3.
+And as we mentioned, the biggest challenge right now is the price of metals, but our view is with a combination of productivity, more
+aggressive pricing that's already underway, and the volume growth we expect in the second half, we'll overcome most of that and deliver
+this $3.05 to $3.20 EPS. So all in all, a good start to what we believe is going to be a good year. So let's open it up for questions now.
+QUESTIONS AND ANSWERS
+ 
+Tom Lynch Tyco Electronics Corporation - CEO
+Sure, thanks, Amitabh. Remember, ADC is only -- that $1 billion is only nine and a half months. So we only had $50 million in Q1. So, if
+you just took that run rate, it's close to $1.2 billion, what its run rate has been. Although, like our Telecom business, we see some
+momentum there.
+In terms of the step-up in earnings, a couple of things there. The networks business is in -- as much as there is momentum in it now, it's
+still in the winter. And so, both energy and Telecom infrastructure we expect first half, second half, will be up nicely due to market
+momentum, our position, and better weather. The normal seasonality. So that's part of it.
+ 
+And our consumer businesses that are muddling along a little bit right now, I'd say, not including automotive, we do expect as we get
+through the inventory adjustment that that's going to pick up a little bit. And then, don't forget, there's an extra week in the second half
+of the year. So, there is definitely first half, second half growth. I'd peg that to general economic growth, and a little bit of momentum on
+our side. But that's how we get there.
+ 
+Tom Lynch Tyco Electronics Corporation - CEO
+Sure. On NBN, I'd say the two pieces of NBN are -- there's no question that the combo of TE and ADC, if you go back a year ago and we
+looked at where we thought we would come out on NBN, when you risk-assessed it, the combination strengthens our position. The one
+thing it did do, is it slowed down the process for us a little bit, because the customer really didn't want to end their end of the detail
+negotiations with two companies and then have to harmonize that all. So we got started a little later. We fully expect -- I mean, would be
+very disappointed if it didn't come out this way and surprised, to get a nice hunk of business out of that. And so, I would say stay tuned
+over the next couple of months on that.
+In general, the pipeline that we mentioned, Spain, Brazil, a couple of other areas, we are seeing a nice pick-up where there has been very
+little fiber. We are not at liberty to talk about it yet, but we have been selected as the initial supplier on one of those. And those are
+typically $100 million-type businesses over three or four years to start. It's hard to call the whole -- if they do everything they say they are
+going to do, they are going to be very big. But you know how this business -- it kind of goes in fits and starts. But there is a lot more
+activity now than there was a year ago.
+And just as importantly, in the existing networks where fiber has been rolled out over the last five or six years, to go back -- there was a
+nice cycle back five or six years ago, then the last three years in western Europe and the US there has been a lull in that cycle. And for
+sure in western Europe, we're seeing that pick up. And that's our strong suit. So we feel good about that pipeline right now. And you can
+see it in our revenue in the Telecom networks business the last two quarters. The significant growth in the revenue. So there feels like
+there is nice steam in the engine.
+ 
+Tom Lynch Tyco Electronics Corporation - CEO
+You're welcome.
+ 
+Tom Lynch Tyco Electronics Corporation - CEO
+Sure. If you break up Europe into a couple of pieces, a big part of Germany, roughly half of their automotive production is export. And US
+and China are the two largest markets for their export. So I would say, most of the strength we saw in the second half year last year and
+the first quarter was largely export-related. Although, new car registrations are up for the first time in a while in Germany. And you see
+the outlook for the German economy is pretty positive right now.
+China, the market grew about 50% last year in production. We grew about 70%. We don't expect that kind of growth this year, and our
+outlook would expect a market growth in the neighborhood of 10%. And we would expect to grow well in excess of that, because we are
+very well-positioned there. So, still a nice growth coming off a huge growth in China. But it's getting to be such a big market, that you are
+not going to probably see 40% or 50% unit growth there.
+ 
+Tom Lynch Tyco Electronics Corporation - CEO
+Thank you.
+ 
+Tom Lynch Tyco Electronics Corporation - CEO
+Yes, and then I would say that just -- add on to that, that selective price increases in the last six months, which often shows up in less
+price erosion than normal, but going forward more aggressive price increases, but that's always tough. I mean, that's really a
+customer-by-customer basis in the customers where you are selling to the tier ones or the OEMs. It's not generally a broad-based
+increase, whereas through the channel and into the smaller customers you can do that a little more. So, I would say the discussions are
+always difficult.
+And even though supply is a little bit better than where it was, the good news is that customers are still generally pushing to make sure
+we can supply. So it's never easy. But our view is, we have to get a little more than we have in the past, when you break through $4 in
+copper and you are at $1,300 an ounce for gold.
+ 
+Tom Lynch Tyco Electronics Corporation - CEO
+I think inventory definitely started to balance out. We can see it in the sell-in and sell-out numbers, which we have a pretty good handle
+on. I don't think that build last -- that gradually happened in the last two quarters is really around pricing. I think it was more around the
+supply chain of the last year. Everybody was trying to cover themselves. And so, you have a little bit of double ordering. Not anything
+totally out of control, but definitely required a somewhat balancing out. But that feels like it's almost behind us now.
+ 
+Tom Lynch Tyco Electronics Corporation - CEO
+Thank you.
+ 
+Tom Lynch Tyco Electronics Corporation - CEO
+Yes, I would say a year ago,  months ago, I think we were worried that content would go down, maybe not significantly, but it would
+reverse its long trend and go down, because people might move to smaller cars. What we are seeing in every region, in virtually every
+model, the content keeps going up. There is just, the push for safety, the push for more fuel-efficient current engines, requires more
+electronics. And the push for more connectivity, in general, so you can bring all of your smartphones right into the car is definitely driving
+content across the board. That's the short-term, I would say, content driver.
+The mid- to long-term content driver is hybrid vehicles and electric vehicles. And pretty much every auto maker now, if they haven't
+introduced one, they are close to introducing one. So I think we are moving past it, it's really going to happen to -- because governments
+are pushing fuel efficiency. So that's not really driving content yet, which is an exciting part of the business. That's going to come.
+I think from a geography position, we are very strong in China. And in the last couple of years, we have made nice share gains in China, to
+the best of our estimates. We have always been strong in Europe, and we are maintaining that. And we are picking up some -- a little bit
+of share in the US, which historically was our smallest market because of the captive nature of the Big Three for most of their careers of
+their suppliers of connectivity. That's opened up. And then, we kept investing during the downturn, and I think that's starting to help us
+out.
+ 
+Tom Lynch Tyco Electronics Corporation - CEO
+Sure. I would say two things. In the commercial and industrial side, which is most of our business, the 12-inch screen or the 15-inch
+screen, now we're introducing digital signage, things like that. In that business, it's been a little bit slow related to the consumer
+slowdown. Typically slow late in the year. We're starting to see signs of orders pick up there.
+We aren't yet participating in the consumer screen business. That was an objective of the acquisition, the small acquisition we made last
+year, to be able to get some additional technology, potentially bundle it with our technology, and take a run at that. But we're not really
+in that business yet. So, if you were to take the entire world of touch, and say, hey, that whole market, what's our market share? From
+that perspective, it's down. I would say we are holding our share solidly in the commercial and industrial space. But as the consumer
+space is the one that's really high growth, we haven't participated in that yet. And this is a key year for us to introduce a couple of
+products there to get a beachhead.
+ 
+Tom Lynch Tyco Electronics Corporation - CEO
+It's much more an organic focus. Take that technology and link it with some of our other technologies to get a big thing in the small
+screen world is power, and can you do it with a minimal number of layers on the screen, which gives the rest of the device more flexibility.
+So that's what we are trying to drive to. We don't think it's a winning strategy for us to just replicate what's already out there, which is
+pretty established. So, that's our focus. And we wouldn't be looking at -- never say never, but we wouldn't be looking at doing that
+inorganically right now, based on the technology.
+ 
+Tom Lynch Tyco Electronics Corporation - CEO
+Thanks, Will.
+ 
+Tom Lynch Tyco Electronics Corporation - CEO
+We certainly are going to try to do that. Our outlook would assume that it doesn't get higher than that. Part of it is how your contracts are
+staged, and X amount -- about 20% to 30% of the business is what I'd call pay as you go. You do have agreements, but they don't tend to
+be long-term. The rest of the product you are shipping today does tend to have some type of term to it. Now, in some cases, you do have
+some flexibility to try to go in and adjust the price. But I would not expect, we're not limiting our efforts. But in terms of how we express it
+in our guidance, we're not counting on a recovery of more than that.
+ 
+Tom Lynch Tyco Electronics Corporation - CEO
+Yes.
+ 
+Tom Lynch Tyco Electronics Corporation - CEO
+Sure. I think your assessment is fair. I think if you look at our consumer business, you can break it down into a few pieces. The
+smartphone piece, tablet, PC, and traditional consumer electronics. Traditional consumer electronics, we're very selective in, and that
+part of the business hasn't been that strong. Obviously, the strength has been in smartphone and tablet.
+I would say the good news for us in the last six months is, we have a beachhead there. But that's clearly not our strong suit yet. We are
+not broad-based in those markets as we would like to be. Those are attractive markets. And go back three or four years, we weren't really
+in the mobile phone market at all. We did a nice job of getting established in the core business, and now we are going through the same
+thing in the smartphone business. Again, if you were to put it on our list of things we feel best about, the things we don't feel best about,
+you'd put this in the area we don't feel best about, but we have some momentum.
+ 
+Tom Lynch Tyco Electronics Corporation - CEO
+You mean about the segments?
+ 
+Tom Lynch Tyco Electronics Corporation - CEO
+I would think of the segments as kind of an organizational gathering place. If you look at our segment leaders and the people they have
+at the segment level, it's not a lot of people. Underneath, we are organized in about  business units. So, we tend to be organized
+around market segment, and we gather aerospace and defense, our relay business, our automotive and commercial vehicle business and
+transportation, our communications and industrial business segment, which we call CIS, has a bunch of segments in it. Everything from
+medical and circuit protection, touch, data communication, consumer devices, industrial appliance.
+And we try to group these things where there is the most synergy to be had. We like the businesses to be run vertically, so that somebody
+wakes up every day in a business like appliance or like Telecom networks in our networks business. But we group them where they are
+similar technology, because we have really a broad range of technology, and we also want to make sure we lever our scale, whether it's
+purchasing power, whether it's manufacturing footprint. So that's kind of the organizational philosophy. So you could expect, over time,
+the segments could be tweaked at times, like we have just done recently. But the units underneath them, the businesses themselves, are
+pretty well established and full fledged businesses that we don't mess with.
+ 
+Tom Lynch Tyco Electronics Corporation - CEO
+Yes, there is a lot of activity, and every time somebody announces a new smartphone, or smartphone continues to gain a bigger portion
+of the overall mobile network, or tablets for example, I think it's all good for broadband infrastructure. And it requires that structure to be
+augmented by things like distributed antenna systems that add capacity and coverage in a cost-effective way. One, it's not easy to build
+towers all over the place. And as you know, in a lot of buildings, your coverage tends to weaken.
+So it's a strategic product line for both our Telecom networks and our enterprise business. And that was one of the attractive things
+about ADC. I mean, it's still in the early stages, that whole portion of the market. But there is momentum there. There is a lot of RFP
+activity.
+ 
+Tom Lynch Tyco Electronics Corporation - CEO
+Of course.
+ 
+Tom Lynch Tyco Electronics Corporation - CEO
+More.
+ 
+Tom Lynch Tyco Electronics Corporation - CEO
+I think we are still very confident, even despite the headwinds. I mean, we have to be successful on the pricing actions we talked about.
+We have to be very successful with the integration of ADC, but that's off to a very good start and we're confident about that. We like the
+mix of businesses we have. Our day to day, grind it out productivity, we're better at that than we were three or four years ago.
+So, our view of -- if you take ADC aside, because it's going to take a couple of years to get that part of the business to 15%. But what I
+would call the core business, still looking at 15% at the $14 billion revenue range. So, hasn't changed. There's a little more pressure on
+that because of metal prices being much higher than we thought six months ago. But we would expect volume to be the biggest lever we
+have, too.
+ 
+Tom Lynch Tyco Electronics Corporation - CEO
+You're welcome.
+ 
+Tom Lynch Tyco Electronics Corporation - CEO
+Thanks, Jim. So let me talk to the last part of that question first. We view that much of that market is attractive to go after, and we are
+going after it. As you know, we are pretty much in every market, and in some, given our historical performance and expertise, we are
+stronger than others. I think we have been getting better in this market, but we're not happy by any stretch of the imagination with our
+position.
+If you go back a year ago, where we were in the big smartphone players versus today, we definitely have a beachhead, as the saying goes.
+So, we've won our first projects, we're shipping our first projects, and that's a start. I would agree that we have not benefited from the
+growth in this market as much as others. But it is an important market for us. And we are going to be in it for the long haul. So, we're
+investing in it.
+ 
+Tom Lynch Tyco Electronics Corporation - CEO
+Thanks, everyone.
+ 
+ 
+Tom Lynch TE Connectivity Ltd - CEO
+ 
+our updated outlook for the full year 2011. With me today are CEO, Tom Lynch and CFO, Terrence Curtin.
+During the course of this call we will be providing certain forward-looking information, and we ask you to review the forward-looking
+cautionary statements included in today's press release. In addition, we will use certain non-GAAP measures in our discussion this
+morning, and we ask you to review the sections of our press release and the accompanying slide presentation that address the use of
+these items. The press release and related tables, along with the slide presentation, can be found on the investor relations portion of our
+website at te.com.
+Finally, for the participants on the Q&A portion of today's call, I would like to remind everyone to please limit themselves to  follow-up
+question to make sure we are able to cover all questions during the allotted time. Now let me turn the call over to Tom for some opening
+comments.
+ 
+Tom Lynch TE Connectivity Ltd - CEO
+Thanks, Keith, and good morning everyone. Before we get into the detail of the call here I would just like to make a few opening
+comments about the earthquake in Japan. As many of you probably know, we have a very sizable presence in Japan and we feel very
+fortunate that all 2,000 of our people there came through the earthquake safely; and I really want to thank them in this venue for their
+commitment to keeping our operations running and supporting our customers during these incredible -- incredibly trying times over
+there.
+Just a little background on our business in Japan; we have been there for over  years; we have  factories; we generate over $1 billion of
+revenue annually there, serving virtually all the major customers in automotive, communications, industrial, and the consumer
+electronics industries. And about 50% of our revenue there relates to our automotive business; and, as we will talk about today, you can
+ 
+imagine there is an impact to our business over the next couple quarters from the unfortunate circumstances there.
+Now if you will turn to slide 3. A few quick comments about the quarter before I turn it over to Terrence. Our sales of $3.5 billion were up
+17% over last year and 7% organically. Our sales benefited from the ADC acquisition which added about $279 million of revenue
+compared to the prior year. Adjusted earnings per share of $0.71 was up 11% over last year. And, both sales and adjusted EPS were in our
+guidance range.
+Japan did cost us about $0.01 in the quarter. It happened late in the quarter, as you know . And, as we will talk about later, currently our
+estimate is that the impact is going to take about  million vehicles out of the global production forecast for the year.
+Overall, I would describe Q2 as a solid quarter for us. The quarters were strong in our automotive, industrial, and networks businesses,
+and our overall Book to Bill, excluding our SubCom business, was 1.05. So, I feel very good over -- about the trends leading into the
+second half of the year when, notwithstanding the circumstances in Japan, we expect to see a nice pick-up in revenue and earnings. The
+ADC acquisition integration is going very well, and we are on track to deliver our sales and adjusted earnings goals for the year of $1
+billion and $0.12 per share. And, importantly, and we talked about this on the last call, we were also awarded a $400 million 5-year
+contract to supply equipment for the Australian national broadband network; and this is the first big award leveraging the benefits of our
+combined product line.
+So, we feel very good about the timing of the ADC acquisition, both from an ability to stay on track with the significant cost synergies
+there, as well as the very robust product line it is giving us. And we had another excellent cash flow quarter, generating about $450
+million of free cash flow; and, as a result, we have now increased our full-year guidance on cash flow by about $100 million. So, we
+expect to do $1.3 million -- $1.3 billion in free cash flow for the year.
+A quick comment about our outlook, and we will cover this in more detail year later, right now our adjusted EPS outlook for the year is
+now  to 307. A quarter ago we got it to  to 320, so the change -- the entire change in our outlook and the reduction in our outlook
+is due to our estimates of the impact of the earthquake in Japan on our business. And, as you can imagine, it's -- it's not easy to get your
+arms around this, so we will talk about that quite a bit over the call and I'm sure that will be a big topic of the Q&A. We do expect a
+majority of the impact to be in our third quarter and, as I said, we will talk about Japan in more detail -- or the impact of Japan in more
+Tom Lynch TE Connectivity Ltd - CEO
+Thanks, Terrence. If you turn to page 13, I will talk real quickly about our orders. As you can see from the chart, and as I mentioned earlier,
+our demand trends are strong in most of our businesses; of course, there is going to be a little bit of an offset to that -- a bit of an offset
+to that -- from the reduction in orders, primarily related to Japan. I think the key point on this chart is that these trends really give us the
+confidence around the increase in sales we expect in the second half ex Japan. So, the backlog is building and it's building pretty much
+across the board.
+If you turn to slide 14, and walk through the third and fourth quarter outlook; we provided a little more detail here than we normally do,
+because there is probably more moving pieces, particularly with the Japan situation. But, to summarize Q3, we expect our sales to be in
+the range of $3.5 billion to $3.65 billion. This is an increase of 13% to 18% over the prior year and relatively flat with Q2 levels. This does
+include $320 million of revenues from ADC and, as Terrence mentioned earlier, the negative impact of about $135 million of revenue in
+Japan.
+We expect adjusted EPS to be in the range of $0.68 to $0.74. This range is a little wider than normally due to the uncertainty around the
+effect of Japan, which we currently estimate to have a $0.09 negative impact. The reconciliation on the left side of the slide lays out the
+key elements. I think the real key point here is that, excluding Japan, we would be at a mid-point of around $0.80, which is right where
+we were a quarter ago when we gave our full-year guidance. That is what we were expecting; in the third quarter we -- this the quarter
+ 
+we expected to see the sales ramp. In fact, if you go back as far as when we did our original guidance in November, this is how we really
+expected the year to play out. A few puts and takes in there; but, overall, the year, with the exception of Japan, playing out the way we
+thought.
+If you turn to the right side of the chart, we are providing an extra quarter's outlook here; again, to give you a little more granularity to
+understand the flow . We expect sales to be in the range of $3.8 billion to $3.98 billion. This is an increase of 22% to 27% over the prior
+year. And, we expect EPS to be $0.83 to $0.89, up from the mid-point of $0.71 in the third quarter. Now, this improvement from Q4 over
+Q3 reflects the benefits of the pricing actions that really start to take effect late Q3, a less impact from the Japan situation and our 
+week . And, we also expect our operating margins to back at that 14% range in Q4.
+If you flip the page to page 15; a real quick snapshot of what all this means in terms of the full-year. I think the main point here is, despite
+the impact of Japan, we expect it to be a strong year with adjusted EPS growth of 16% to 21% . And, if you look at the reconciliation we
+have on the lower left-hand side of this page, you get a sense of the big levers in the business. I think the real positive thing here is you
+can -- you see the contributions of the volume, the ADC acquisition, and the benefits of our cash flow more than offsetting the metals
+cost increase this year and the Japan disruption.
+And, then when you think about it, from the second half, we've got strong orders going into the second half, we've got the price increases
+going into the second half, and that is a day-to-day thing. You've got the contribution of $0.10 in the second half from ADC, and then you
+have another strong half of cash flow. So, this is enabling us to, despite the situation in Japan, have a nice pickup in earnings.
+When you wrap all this up, I feel good about the earnings power of the Company . Several key earnings drivers that are very powerful for
+us this year, and we expect them to carry forward into the future, which is strong positions in markets with attractive growth prospects.
+We go through our portfolio, I think we feel good about our position in 90% of the markets we are in, both from the market drivers, as
+well as where we stand and the momentum we have.
+We do need to improve in the consumer side, which is about a little less than 10% of our business. The operating leverage in the
+Company is better than it was several years ago, with all the restructuring and portfolio cleanup that you are familiar with. And we're
+running -- we're generating more cash in this business, which gives us the opportunity to do things like ADC or smaller bolt-on
+acquisitions that can contribute to EPS or return more capital to shareholders, and, as we mentioned, that's been about $400 million so
+Tom Lynch TE Connectivity Ltd - CEO
+Yes. Thanks, Amit. I guess two parts to that question. The first part, we would expect demand to recover over time, particularly I think it is
+a little harder to call the in Japan demand, because of all the disruption in the country. We would expect that's going to take longer, so
+that the cars that are not sold there in the second half of our fiscal year, I think that 'll take longer to come back. But, we would expect,
+ 
+much like we saw after the big downturn two years ago in the auto industry, the pent-up demand is pretty resilient and comes back
+pretty fast as the production is there.
+So, I would -- if we lose  million cars in the second half of this year, we would expect to get two thirds of that back in the first half of next
+year. I think that's what the experts are saying and we are talking to our customers that's what we would expect. I think you can expect
+the margin flow through of similar on the upside because we're not going to lay in any extra costs. So, what's really happening now is as
+the volume goes down, we're not taking people out of the factories in Japan, for obvious reasons . And, as it comes back, we wouldn't
+expect we're going to need to lay an extra variable cost to meet the volume. So, I would expect a similar flow through on those
+ 
+Tom Lynch TE Connectivity Ltd - CEO
+Yes, margins were down. I think we expected about, we expected most of that because of what we saw in the mix of our business, I think
+there was a little worse than we thought because volumes were lower in consumer and Datacom especially. And I think Datacom is an
+industry, more of an industry issue although Datacom grew year-over-year wasn't as much as we thought consumer, we just don't have a
+strong position there.
+So, yes a little more margin pressure than we thought, so you have less volume to offset the price erosion in that business in the metals.
+We do expect improvement by the fourth quarter. Datacom, again, would be more market demand whereas consumer hits us,
+establishing a little bit of beachhead in some of these markets that we're just not participating in today. So, our consumer business will
+take a little longer to improve, but, overall, we expect CIS margins to improve by Q4.
+ 
+Tom Lynch TE Connectivity Ltd - CEO
+Sure. I would say for us, our networks business are a little stronger than we thought. We expected -- we saw the signs because of our RFP
+activity that they were going to pick up. And they had been, as you know, kind of soft for a few years, so we expected a pick up. And, I
+would say a little bit stronger there in energy telecom networks which is down for the big carriers and in enterprise. So, that's a positive I
+would say. You mentioned auto, auto's definitely a little bit stronger than we thought and we expect it to be pretty robust this year.
+Overall, the Datacom business, which is selling to the companies that provide the gear that powers the Internet, that has been mixed for
+us, I think overall the year is going to be okay. But, probably a little slower than we thought and we attribute the first half of that more
+the -- that got hot in the middle of last year and I think we laid out that there's probably a little bit of inventory in the channel, not
+anything too over the top. So, I would say that one has been a little bit less than we would have thought and consumer a little less than
+we thought. We didn't have very high expectations because we know we knew where we were coming into the year on the platforms that
+were gaining momentum and we weren't very well-positioned, frankly, on the winning platforms. So, that is one that we knew was going
+to take us awhile to regain our momentum, but that has been a little softer. So, overall I would say revenues balanced slightly better,
+notwithstanding all the impact in Japan.
+ 
+Tom Lynch TE Connectivity Ltd - CEO
+I would say think of it as primarily an organic strategy. We have had intermittent success in that business over the last three or four years
+. I would say five or six years ago in the mobile side of it, we really did not have a position, and then we had a fair amount of success with
+two of the largest mobile phone suppliers. But, our product line wasn't broad-based enough.
+We need to -- we have a nice road map now, but most of this is stuff that is just an extension of our normal connectivity. I would not
+expect -- you shouldn't expect us to do anything significant around M&A in this. I'd never say never, but we believe that there is attractive
+relative improvement just by executing
+ 
+Tom Lynch TE Connectivity Ltd - CEO
+Thank you.
+ 
+Tom Lynch TE Connectivity Ltd - CEO
+Let me hit that one first and talk just a little bit about it. No, absolutely. When you look at the total market and how it's moved, we have
+lost market share. I would say the biggest part of that is because of the big horses we were riding are struggling in the market a little bit,
+but that is what it is. And, as I mentioned earlier, not a broad enough product line.
+No, we're committed to the business and the reason is Jim, it's just another flavor of our core connectivity business. I think if this was
+something totally different that we did, we might think about it differently, but we ought to be able to do a better job of leveraging our
+scale and leveraging our resources in this business to compete. So, I would say the only good news about it is, as bad as we feel about
+our performance right now it's all upside in the way and all we have to go and make it happen.
+That's not going to happen overnight, but, like we did when we really got broke back into it after being out of it years ago, we feel like we
+know how to do it. And, we've got much more focus on the business in the last six months from a structural point of view. So, we feel
+good in terms of the road map and things like that, but we've got to get them into the customer and sustain them in the customer. I think
+that's the key in this business, you've got to be broad based, similar to the way we are in auto, we are on every car. So, we ride the
+benefits of that. We need to be broader-based in this business. I will let Terrence answer the SubCom question.
+ 
+Tom Lynch TE Connectivity Ltd - CEO
+Sure. As you can imagine, we have a pretty extensive crisis management process around this. The big part of it based with our leadership
+team in Japan, which is a very seasoned leadership. So, we, every other day literally, between our automotive and our CIS businesses,
+because that's where this impact is, we get a read from our team in Japan on what they're seeing.
+And, I'd say there is really three big parts to it, there is our end customers and are they going to be able to ship products, which is where I
+would say the part that not that any of this is easy, but to get our arms around, because customer a or customer b says, we're not going
+back to full production until such and such, or this plant is closed for the next three weeks we know how much we are scheduled to ship
+them. So, that's a big part of this.
+The second piece is our own supply-chain, which the good news is we have been very fortunate there as well, that it is not too disruptive.
+We did have some suppliers that were, unfortunately, knocked out and we did have some single source parts, but that is a pretty small
+part of that I would say. Of our $225 million, it is single digit percent of that.
+And, the third piece, which is the hardest to really get our arms around, and, as I've talked to other CEOs, it is the hardest time they are
+having is the extended supply-chain. So, it's the supplier who supplies to another supplier, who supply to one of our customers. We may
+not have a problem delivering a part to them, but two levels down in their supply-chain, they might have an issue, and the trickiest part is
+there's always inventory in the channel, so we're only a month into this approximately, there's inventory to cover that. So, I think we all
+feel like we don't really know what we don't know .
+We've put a number on that based on the best information that we have and that's how we come up to this $225 million, I think it's fluid
+for sure, Wamsi, we hope it's better than that. It could be worse than that. I would say, candidly, the impact on order rates isn't that bad
+yet, but we also know from what our customers are saying, it's going to probably get worse before it gets better.
+So, it is elusive. This is our best way and then the way we sort of take a step back, take a big picture, do a sanity check around it is we do
+plus or minus $75 million to $100 million a month in Japan. So, that seems outlandish that we could have a two-month disruption over
+the next six months for all these customers that we serve in Japan when you consider the power outages and everything else, no. That
+doesn't seem that crazy to think about it that way, so that is really how we try to come into a number that we think is reasonable, that is
+not wildly optimistic or wildly conservative. Time will
+ 
+Tom Lynch TE Connectivity Ltd - CEO
+Yes, I'd say if you go actually and look at one of these bridges that we talked to over there, a little bit stronger volume in other markets,
+probably a little higher metals than three or four months ago. And, a little bit of a benefit from exchange rate, so when you net it all out,
+yes, I think we say $0.14 down from Japan and our midpoint is off $0.11, so slightly better, yes, you're right.
+ 
+Tom Lynch TE Connectivity Ltd - CEO
+No, there isn't any additional cost like that. I think the simplest way to think about it, Steve, is our margin right now is roughly 30%, 30%,
+31%, so you are going to at least have that. We're not really taking very much variable cost out of these plants in Japan, so the people are
+still there for a full week, not a partial week for a lot of reasons, right. And, because we think the short term, we want to be ready to
+ 
+produce. So, if you had a more of a sustained downturn in a business, you'd adjust your labor costs quickly and all your variable costs
+quickly.
+So, this assumes more than normal inefficiencies, we think that's going to be short-term, but that is why you would see a flow through, I
+think what you're basically saying is why isn't it just 30%, 33% something like that, your average flow through, because were not taking
+any other costs out.
+ 
+Tom Lynch TE Connectivity Ltd - CEO
+Hi, Sherri, this is Tom. This team has done a great job, did a great job managing through the downturn, and as you know, we're very
+aggressive getting our capacity in that business in order probably a little faster than we otherwise would've without that downturn, so
+that helped a lot.
+So, we do believe this is kind of the right level of margin and we will try to improve it, of course. It is coming off a little bit in the third
+quarter because of the Japan impact, again you're taking $100 million of automotive sales out, and, in there, we also have aerospace,
+defense, marine business which is our highest margin business in the Company and they are performing well, in addition. So, you will see
+a little dip in -- you will see some dip in transportation margin in Q3 and then we would expect that begin to recover and move back up
+again in Q4.
+ 
+Tom Lynch TE Connectivity Ltd - CEO
+Sure. As you know, when we went into the downturn, we had our boat  at  goal, the good news was we really got that to about 14%, a
+little bit over the $12 billion level and then kind of reset it 15% at $14 billion of revenue, excluding ADC. Because ADC is going to have a
+margin rate drag on it, as you know, because we picked that business up at mid-single digits. We will go out at the end of this year we
+expect to be in double digits and then by the end of next be closing in on our average company margin.
+So, for the non-ADC piece of the business, we still believe, even though metals are a little higher, quite higher than when we set this
+target that this is still a business that we should be able to get to the 15% margin range in the $14 billion, non-ADC business range. So, a
+little room to improve in the margin.
+ 
+Tom Lynch TE Connectivity Ltd - CEO
+In other words, a little bubble?
+ 
+Tom Lynch TE Connectivity Ltd - CEO
+Like an ordering bubble I think, Will, is what you are talking about? I'd say we see a little bit of that right now, but not really significant. I
+think $10 million, $20 million of a little extra ordering. We are watching for that because I think we're certainly mindful that it wouldn't be
+unusual for people to say I'm going to order more just in case, so we see a little bit of that, but we have not seen a lot of that right now.
+ 
+Tom Lynch TE Connectivity Ltd - CEO
+We think there's a number of areas where we could strengthen the Company through M&A. We have a fairly robust pipeline. We have
+been building this for several years after not being in that business so to speak for a long time. And, last year, we made a couple of, in
+addition to the big one in ADC, we made a couple of small technology acquisitions that have really strengthened our fiber connectivity
+capability. So, we're always on the lookout for that. I think the ADC types are going to be few and far between, primarily because there
+are just not that many out there like that.
+So, I think our priorities will be to number one, add technology through bolt-ons and then where can we had product lines that we don't
+have in some of our -- we've talked in the past around harsh environment, industrial energy types of businesses. So, we clearly think that,
+given our cash flow, that is a good way to build value in the business if we can find the right opportunities. We passed a lot more than
+we've decided to do, because it's got to fit our value proposition and, fundamentally, we feel that there's an awful lot of opportunity to
+improve this Company organically, both by organic growth through the broad range of technology and product lines we already have, as
+well as continuing through the P&L. So, it's going to be in our mix for sure, Will. I guess that's the way I would say it, but nothing
+imminent right now of any size.
+ 
+Tom Lynch TE Connectivity Ltd - CEO
+Thank you.
+ 
+Tom Lynch TE Connectivity Ltd - CEO
+It's hard to get specific on things that haven't happened for obvious reasons, because the customers don't really want us to talk about
+them yet. But, I think we're pretty bullish on the pipeline, a lot of activity. I've been out over the last couple months to a couple of the
+really big customers, and when you just look at the data that's being demanded, now that everybody is getting tablets in SmartPhones,
+it's taxing the system and while a lot of it is wireless broadband, you need quite a wired infrastructure, fiber infrastructure, to support
+that.
+So, we saw that our networks businesses were up 20% year-over-year and our telecom, non-ADC portion of that, just run apples to
+apples because I think that is the best indicator, was up 30%. Our last year wasn't a robust year, but the spending is increasing and we
+see a lot of activity in Asia-Pac like NBN, a couple of other big ones that RFPs are in the works down that way and we see a lot of activity
+in Europe. Both those areas have much less fiber in the network than the US does. Although we expect activity to be picking up again in
+the US, so that growth is really driven without much US growth in it, so we think it's coming into a good cycle for this business.
+ 
+Tom Lynch TE Connectivity Ltd - CEO
+It's an opportunity that's tough. The way that I would put it. We do have a decent beachhead now through the acquisition, but
+infrastructure in the big emerging markets is probably amongst the toughest businesses. But, we've good products, we have local
+products and combining ADC and ourselves gives us a more robust product line there. So, that's part of our growth assumption .
+We're not counting on extraordinary success there to drive this business. We're counting on being there and capitalizing on high market
+growth, being a player, but we don't really expect to have anywhere near the kind position we do in Europe or the US, or Latin America.
+Because it's a high-growth, it will
+ 
+Tom Lynch TE Connectivity Ltd - CEO
+Thank you very much, everyone.
+ 
+Tom Lynch TE Connectivity Ltd. - CEO
+ 
+Tom Lynch TE Connectivity Ltd. - CEO
+Thanks, Keith and good morning everyone. I will cover the highlights of Q3, a little bit of overview of Q4, and then I will turn it over to
+Terrence, and he'll walk us through the details. If you can please turn to slide three now. This was a very good quarter for us. Sales of $3.7
+billion were up 21% versus last year, and were better than guidance, due to a less than unexpected, unfavorable impact from the Japan
+earthquake, and the strong year-over-year growth was driven primarily by 5% organic growth that more than offset approximately $70
+million of less sales due to the situation in Japan, and also a significant contribution from the ADC acquisition of about $300 million in
+sales.
+Our adjusted earnings per share of $0.78 is a new high for us, and is up from $0.70 last year. We exceeded our guidance range primarily
+because of the lesser impact from Japan. We expected a $0.09 unfavorable impact and turned out to be $0.05. And really there, both
+our customers and our suppliers as well as our team did a terrific job in recovering faster than I think that anyone thought was possible at
+the time.
+ 
+We also had another strong cash flow quarter generating $340 million of free cash flow, and we returned the entire amount to
+shareholders in the form of dividends and share repurchases. As I think you know our increased dividend rate kicked in this quarter.
+Overall our performance in the quarter was driven primarily by continued strength in our automotive business, where we continue to see
+double-digit growth in all regions except Japan in Q3. Continued strong demand in our telecom networks business in every region, and
+the contributions from the ADC acquisition which as you know are part of our networks business, and almost now fully integrated in the
+telecom business. These positives more than offset the continued softness in CIS, which we expected.
+To highlight a little our network solutions business this segment had a very strong quarter generating $1 billion in sales, and delivering
+adjusted operating margins of 14%. And the ADC integration continues to progress very well. We are delivering the synergies we outlined
+a year ago, and the whole integration, I couldn't be happier actually, it is coming along very well, and we feel just about like one company
+already.
+Orders during the quarter were $3.9 billion and $3.6 billion if you exclude our Subcom business. Our book to bill was 1-to-1 excluding
+Subcom. Despite the macro uncertainty right now, our orders in automotive, aerospace, energy and telecom were solid throughout Q3,
+and have continued this way so far in July, and so all four of those businesses have been running double-digit order growth. The Data
+Comm business which we thought would be on track by now continues to be softer than expected, and we also did see a little softening
+in the distribution channel late in the quarter.
+For the fourth quarter our guidance is essentially unchanged, and we expect adjusted EPS in the range of $0.84 to $0.88, and just a
+reminder our fourth quarter has an extra week, and without this extra week we estimate adjusted earnings per share would be $0.79 to
+$0.83. This is another strong quarter year-on-year growth compared to the $0.72 we delivered last year. And for the full year we are
+increasing our annual guidance range to $3.06 to $3.10 of adjusted EPS, which is a little over 20% increase compared to the $2.54 we
+delivered in 2010. The increase in our guidance is due to the better than expected Q3 performance. So we are basically holding Q4 at our
+prior guidance level.
+So with those highlights I will turn it over to Terrence, and he will walk through the quarter in more detail.
+ 
+Tom Lynch TE Connectivity Ltd. - CEO
+Six to nine months is a long time out, but I will give you my best shot. From one perspective as I think we discussed throughout this recap
+here, if you look at two of our three segments, orders are strong in the infrastructure rebuild arena, or whether it be telecom or enterprise
+or energy, and for sure in automotive. And the signals from and I have been out to a lot of customers in the last couple of months, the
+signals from the automotive customers are very bullish. Now I know they want us to make sure we are ready with the production, because
+when things bounce back quickly a year and a half ago the whole supply chain was catching up, so we have to filter all of that. But I do
+believe that they are really bullish about next year, and the industry has been publishing numbers that are fairly bullish in terms of
+growth next year. Right now everything we see supports continued strength in automotive and continued strength in network.
+The CIS network is really mixed into three broad things. We are strong in the Data Comm business, we are well positioned there, we have
+a lot of strategic momentum with design-ins, but the market as you can tell from following the big companies that provide the routing
+and the infrastructure and the services, is really kind of all over the place. It is hard to discern a trend. For us it is going a bit sideways.
+Industrial is solid for us. It has been solid all year in terms of order growth. A little higher than normal growth. Slowed down a bit in the
+last few weeks, but we think that is more related to price increases and the summer. But we are watching that.
+And then the consumer business, which in parts of the consumer business, smartphone and tablet in particular that are very strong, that
+as we talked the last couple of calls we are not that strong. So we step back from the picture I think we feel, clearly we feel confident
+about Q4 given the order rate we have into Q4, and the things I just said. Beyond there is always in this business the visibility somewhat
+limited. I would say I feel more positive than negative overall for sure.
+ 
+ 
+Tom Lynch TE Connectivity Ltd. - CEO
+I think it as little hard to tell, Shawn. As we dig into it we definitely know we have and I am sure other do, the impact of when you decide
+to raise prices, the channel buys a little bit ahead, and there are ways we manage that with them. So we always have that impact. It is the
+summer so we always see a little bit around this time of softness. I think the wilder card is demand softening a little bit. We do see a little
+softening in Data Comm and Industrial. Some of that flows through the channel. There is an element of that that is softening. This is on
+the watch closely list. Don't assume this is just a blip. We are not assuming it is falling off the edge, but one that gets a lot of attention
+from our team to gather as much information as we can.
+ 
+Tom Lynch TE Connectivity Ltd. - CEO
+I would say if you go into the carrier part of the business it is pretty strong right now. You have to go by geography, and you have to go by
+segment in geography. Internationally, it is very strong. Less fiber deployed out there and we talked about NBN for example in Australia,
+all the way up to China has got more activity going, and Europe has a lot of activity going. A lot of quotes and a lot of building going on.
+The US is really kind of two stories. The big carriers pausing right now for a couple of different reasons that you are aware of. The
+secondary carriers buying as they have let fiber in the network, stimulus was geared in that direction, and then of course, this business
+that we acquired as part of ADC, this distributed antennae system to help coverage is very strong right now, in-building and around
+building and in major event settings. There are a bunch of different things driving it, but we do feel like we are in a good cycle, and when
+we look at our Subcom business, which is clearly related to all that, a lot of quote activity. More quote activity this year than last year.
+Always have to go through funding and everything, so we feel good about that particular business.
+Enterprise I think is moving along at a more steady level. Not on the growth trajectory of telecom, but lots of activity there. Similar
+drivers, more bandwidth, more security in the enterprise. And then the Energy business which is also in our Networks business as you
+know was flat to slightly down for three years, and I think the deferral of maintenance and upgrades has just caught up, and there is
+pent-up demand there, so we have been growing at double-digits nicely there, and would expect that to continue. All indications from
+our customers are that will continue. Terrence, you want to add anything to that.
+ 
+Tom Lynch TE Connectivity Ltd. - CEO
+As far as our appetite for additional M&A I think it really hasn't changed for the right strategic fits at the right size. We are definitely
+always looking, and building our pipeline. I think what ADC has done has given us confidence that we can do this well. This business is
+very well integrated, and it won't be long before we are not talking about ADC because it will be so well integrated that, I mean the sales
+forces are integrated. The factories are just about integrated. The lines of demarcation won't be so clear anymore, and of course that is
+how we get the rest of the synergy as well. I think we have the confidence to do more, we are selective the way I think about us, and we
+are strategic with them, not opportunistic.
+ 
+Tom Lynch TE Connectivity Ltd. - CEO
+Thank you.
+ 
+Tom Lynch TE Connectivity Ltd. - CEO
+Of course, we can't get specific, but I would say if you were to look at our pipeline, you would put most of what is on our pipeline list in a
+tuck-in category. As I said before, I wouldn't say we would never do a $1 billion-plus acquisition, if we had one that fit our strategic
+objective that fit our sort of value criteria we are more than willing to do it. But generally speaking in the industries we are in, and the
+industries that we want to augment through bolt-on acquisitions, it would be more the $200 million or $300 million sales level range in
+general.
+ 
+Tom Lynch TE Connectivity Ltd. - CEO
+The feedback from customers in terms of the product range and from the customer's perspective of more one-stop shopping has been
+really positive, and I have talked to several of them over the last several months. I think how we have integrated on the front end to bring
+ 
+the story to the customer has been received very well. We started to see what I would call small wins out there with the combined
+product line that supports our acquisition theory that we were going to be able to get some growth over and above industry growth by
+being able to bundle the products and come in and provide a simpler solution.
+I think in the US where ADC is strong in their carrier business, it is slow growth right now because of the potential M&A going on in that
+space, and the sorting out of how companies might come together, and what that implies for short-term capital spending. As I said, in
+the second tier it is strong, and in the digital antenna business it is extremely strong. So when we look at the acquisition case compared
+to where we were, it is really we are hitting on every element of our assumption.
+So we feel very good about it as each month goes by we feel like we hit this at the right time. The team is getting the synergy at or ahead
+of pace, and the cultural integration which is usually the toughest thing, and the one that could upset things is going very, very well,
+because we have basically taken the best-of-the-best approach, and if you look across that business and take the top management, it is
+a nice mix of ADC and TE. So we feel really good about it.
+ 
+Tom Lynch TE Connectivity Ltd. - CEO
+Thank you.
+ 
+Tom Lynch TE Connectivity Ltd. - CEO
+Thank you Jim.
+ 
+Tom Lynch TE Connectivity Ltd. - CEO
+Thanks, Jim.
+ 
+Tom Lynch TE Connectivity Ltd. - CEO
+I would add to that I think we are making very good progress. It is difficult progress but it was, we had to make some progress, and the
+team just stayed with it. I think this kind of pricing, industries aren't used to it in electronics. On the other hand we aren't used to the
+commodity costs, and we can't take them at the rate they are at. A lot of preparation, multiple meetings, but we are getting there with it.
+So I feel very good about the progress.
+ 
+Tom Lynch TE Connectivity Ltd. - CEO
+Thank you.
+ 
+Tom Lynch TE Connectivity Ltd. - CEO
+Thank you.
+ 
+Tom Lynch TE Connectivity Ltd. - CEO
+Could you repeat the questions on the customers again?
+ 
+Tom Lynch TE Connectivity Ltd. - CEO
+Oh yes, some new program launches with the guys that reported last night. I think last quarter we have a little bit of a beachhead. Now
+we are probably a couple of feet off the beach onto the land. So we are making progress it is really building up consumer team's
+confidence, but we still have a long ways to go, and consistency is what we need in that business. Making progress and making progress
+with the right customer. But we have got to string together three or four more quarters of that kind of progress.
+ 
+Tom Lynch TE Connectivity Ltd. - CEO
+Thank you.
+ 
+Tom Lynch TE Connectivity Ltd. - CEO
+Thanks everyone for your questions.
+ 
+Tom Lynch TE Connectivity Ltd. - CEO
+ 
+Tom Lynch TE Connectivity Ltd. - CEO
+Thanks, Keith, and good morning, everyone. If you could please turn to slide 3. This was a good quarter for the Company and a strong
+finish to our fiscal year.
+Sales in the fourth quarter of $3.9 billion were up 25% overall versus last year and were up 2% organically. And as a reminder, this
+excludes currency translation, acquisitions, and about $277 million in sales that happened in the last week, which was the 14th week in
+the quarter.
+Our Q4 growth was driven primarily by our Transportation and Network segments. In the Transportation segment we are benefiting from
+strong end markets and share gains. In Automotive, worldwide vehicle production was up 6% and our sales were up 13% organically. I
+am really pleased that we continue to execute very well in this business across all geographies, especially China and North America.
+ 
+In our Networks segment, the acquisition of ADC contributed revenues of $323 million in Q4. We did see continued strength in global
+broadband infrastructure investment, and we continue to see the benefits of the ADC acquisition with our much stronger end-to-end
+product line.
+Energy infrastructure investment also continued to grow around the world, and we had another strong quarter in this business. In total,
+the strength in Transportation and Networks more than offset weakness in our CIS segment, where we continued to experience soft
+market demand and distributor inventory corrections.
+Adjusted earnings per share were $0.89, up 24% versus Q4 of  and above the high end of our guidance range. Excluding the impact
+of the extra week, adjusted EPS were $0.81, which was in line with our guidance and up 13% versus the prior year.
+Free cash flow is a very strong $560 million in the quarter. As a result of our expectation for continued strong cash generation, our Board
+increased the share repurchase authorization by $1.5 billion and approved a recommendation to increase the dividend by 17% beginning
+in the third fiscal quarter of 2012.
+Let me say a few words about the full year. Sales were up 19% overall and 6% organically. I feel this was good overall growth considering
+the challenging macroeconomic environment of the past year.
+We had very strong performance in our Automotive; Aerospace, Defense, and Marine; Telecom; and Energy businesses. And this more
+than offset the disappointing performance in the CIS segment.
+Adjusted earnings per share of $3.12, which is a record for us, was up about 20% from $2.54 in fiscal 2010. This increase was primarily
+the result of organic sales growth and productivity improvements, the acquisition of ADC, and the benefit of share repurchases.
+Free cash flow for the year was $1.4 billion. Our strong, consistent cash generation enabled us to make the ADC acquisition, which gave
+us a leading position in broadband infrastructure markets -- and this is a market that we continue to get more and more excited about --
+and as well as enabled us to return $1.2 billion to our shareholders this fiscal year. This balance of acquisition and return of cash to
+shareholders is consistent with our strategy and consistent with the strategy that we launched four years ago.
+Now let me turn it over to Terrence, and he will discuss fourth-quarter performance in more detail, and then I will come back to make
+some final comments and discuss our outlook.
+ 
+Tom Lynch TE Connectivity Ltd. - CEO
+Thanks, Terrence. If you can turn to slide 14, in  we expect organic growth of 2% to 6%. This compares to 6% in 2011. This is in line,
+I'd say, with current expectations for a slight slowdown in global economic growth in our fiscal 2012.
+For the first quarter, we expect our sales to be in the range of $3.4 billion to $3.5 billion. This is an increase of 6% to 9% over the prior
+year. On an organic basis, which excludes the ADC acquisition, this is essentially flat versus the prior year; Terrence touched on that a
+little earlier.
+In addition to normal seasonality, Q1 will be affected by continued weakness in CIS markets. By segment, we expect continued strength
+in Transportation and expect this segment to be up about 10%. Networks will be flat, and CIS will be down about 10%.
+Our Q1 EPS is expected to be in the range of $0.68 to $0.72. This is down slightly versus the prior year. The essence of this is that the CIS
+weakness is more than offsetting the benefits of having ADC in the quarter.
+For the full year, sales are expected to be $14.3 billion to $14.9 billion. Adjusting for ADC and the additional week in fiscal 2011, organic
+growth is expected to be 2% to 6%. The midpoint of our guidance is $14.6 billion and the major assumptions underlying this are as
+follows.
+We expect and the industry expects auto production to grow about 5% to  million vehicles. We expect continued growth in telecom
+and energy infrastructure investment. We expect SubComm sales in the range of about $600 million. And we do expect the market
+served by our CIS business to begin to improve in the second half of the year.
+ 
+This translates into an adjusted EPS in the range of $3.10 to $3.40. And that compares to the  adjusted EPS of $3.03; and again, that
+is excluding the extra week in 2011.
+At the guidance midpoint of $3.25 EPS, this is approximately 7% earnings growth, driven by the sales increase, increased further ADC
+synergies, and the benefits of our strong cash generation.
+Just to sum it up before Q&A, I would say  was a very good year for the Company with many positive accomplishments. We had
+strong sales growth and record EPS coupled with $1.4 billion of free cash generation.
+We improved our share and capitalized on the positive trends in the Automotive, Aerospace, Defense, Marine, Energy, and Telecom
+markets.
+I am really proud of what the team did in completing and integrating ADC. This is a tremendous addition to our Company; and again,
+welcome to all the folks from ADC who are doing a great job for us. This integration, as I said, is right on track and the operating margins
+have doubled inside the year of acquisition, as we committed.
+As I mentioned earlier, performance in some of our CIS businesses was not up to expectation. This was a business had a great year in
+fiscal '10. The market hit us; we didn't quite react as fast as we could have in '11. But I am confident that we are getting this back on track
+and we are going to see improved performance in the second half of the year as we get through the inventory adjustment.
+So all in all, a good year for the Company. I really feel like we are a stronger Company than we were a year ago. And although we are in a
+bit of uncertain times I am really confident that if the market is flat we will do -- we will perform solidly; and if the market does pick up we
+will perform well. With that, let's open it up for questions.
+QUESTIONS AND ANSWERS
+ 
+Tom Lynch TE Connectivity Ltd. - CEO
+Jim, thanks. No impact from Thailand -- no noticeable impact, although we have a little business there. It really boils down to CIS.
+A year ago CIS was ramping. As I mentioned, through  we had a very good year. We expected the business to continue to grow. We
+had been chasing it up, I think like a lot of companies in 2010, and we were making sure we got in sync with what we expected was a
+growing market.
+It started to slow down throughout 2011. So if you think of a year ago, we were ramping; now we are still adjusting downward. And that is
+the whole impact.
+So that is more than offsetting ADC. The balance of the business is very good. So it is really a CIS issue.
+ 
+As we get through the inventory adjustment you will again see the operating leverage that you saw throughout the Company in FY '11 kick
+in, in the second half of FY '12.
+ 
+Tom Lynch TE Connectivity Ltd. - CEO
+We have been adjusting our costs down. I would say tightening down; it is more that than any big restructuring. I will let Terrence get into
+a little more detail in a minute.
+So yes; as we saw the slowdown was going to continue three to four months ago we began ramping down. Our total headcount is down
+over 3,000 in the last  days.
+With respect to the 15% margin, I would expect us -- if we get back to normal revenue growth early next year to be on that. That's still the
+right next step for us. I don't think there is anything fundamental that is in the way of that. The pricing that we were able to do this year
+has offset some of the material costs.
+About the only piece of our business that is really weaker fundamentally I would say than a year ago is consumer. We have been talking
+about that. But that has stabilized; and even at the current levels, that is not going to hold us back from getting to 15% margin.
+Terrence, you want to elaborate on the restructuring?
+ 
+Tom Lynch TE Connectivity Ltd. - CEO
+Sure. Let me just reiterate the fundamental assumptions underneath it. So it is predicated on auto production of 5% to 6% getting to
+about  million units. So we would expect our Automotive business to grow higher than that, as is typical. We would expect the
+Networks business organically to grow in the low to mid single digits, largely impacted by the slowdown in North America right now,
+ 
+which is related to everything going on and the potential consolidation of the carriers there.
+We will pick up the benefit of ADC. So overall that gives us about growth in the 7% range.
+In CIS, it is really a tale of two halves. Down about  to  in the first half; up  to  in the second half. And that is year-over-year
+comparison. So those are the major assumptions embedded in that.
+ 
+Tom Lynch TE Connectivity Ltd. - CEO
+I would expect in that range. I mean we had another very good year. As you know, Shawn, we are strong in every single market in every
+part of the world.
+We clearly, by every angle we look at it, picked up share in North America and in China. I would say we held on to our very strong position
+in Europe. So I would expect that we will continue to grow above the production rate -- probably not quite as much as we did in FY '11, to
+be candid.
+I think we are not reducing our expectations, but with an exceptional year part of that was still the benefits coming out of the downturn
+when we kept investing. But we would expect to inch our share up a little more in '12, but probably not have as big a jump as we did in '11.
+ 
+Tom Lynch TE Connectivity Ltd. - CEO
+I'll tell you, we look at it every hour of every day. I wouldn't say warning signs. I mean, clearly softness in car purchases in Southern
+Europe, but that is not new. That has really been going on for four or five years.
+The German market continues to be strong. I don't think as bullish as two or three months ago. It was really -- our customers are really
+bullish and you have seen they are still bullish, but maybe not quite as much.
+Continue to expect strong growth in China, probably a little slower than last year but still very robust. So we -- everybody is our customer;
+we are very plugged in; we are super sensitive obviously from three years ago. So we have our tentacles into every place we can to pick up
+any insights.
+But if you look at even the most recent orders we are not seeing any signs yet. And we know our customers are also more in tune and
+ready to react to any unfavorable indicators. So I wouldn't say warning signs, no.
+ 
+Tom Lynch TE Connectivity Ltd. - CEO
+Thanks, Steve. Yes, I guess the way I think about it is, you just look at the fundamental demands on the networks and no end in sight. The
+capacity is being stretched. Coverage needs to expand. The throughput needs to expand. So there's fundamental drivers.
+I think we are always going to see a lumpiness in demand. In my entire career around this -- and I have spent most of my career around
+this business -- it has always been lumpy because it is significant investments that go in and then a pause. So I think the combination of
+what is going on in our Q4 in North America, on top of the last year a pretty robust investment around the world, means it is going to
+grow slower.
+We grew 14% organically in the Network business in fiscal year '11. So it was a tremendous year of both market growth and share growth
+for us. Add on top of that ADC, so a big year for us.
+We see that organic growth being kind of in the low single digits in the midpoint of our assumption for fiscal '12. So we definitely expect it
+to slow down a bit. I don't think we are unrealistically optimistic with that kind of assumption.
+We do hope things get worked out in North America soon. There is certainly the need for the investment. That is what our customers are
+telling us, to stay ready.
+But we had a lot of experience in this market, so know that it can be lumpy. But we are positioned very well in the product range and we
+are positioned very well in our cost structure, so we will capitalize on the upside and we will manage through any slowdown.
+ 
+Tom Lynch TE Connectivity Ltd. - CEO
+Probably I'm not going to get that detailed; but I will say we are -- that is another group. We do an awful lot of business through the
+channel, so we are -- and I am personally in touch with my peers there all the time. We are seeing pretty much all the same trends, which
+-- there is a little bit too much inventory in the channel. And adjustment for that we all expect.
+They are more the eyes and ears for us. We really rely on that, that Q2 -- through Q2 we expect it to level out.
+We are not seeing it drop off as much as we did over the last couple months, so we are seeing a flattening out, which is encouraging. And
+as long as end demand stays okay I would expect we will be through this in Q2.
+ 
+Tom Lynch TE Connectivity Ltd. - CEO
+So let me answer the smartphones first. If I understood the last part of your question, just to clarify, I wouldn't say we are not
+participating deliberately. I think you know the story for us is -- we had a decent position in the handset business. When it shifted over the
+last couple of years more to smartphone, and there was a customer shift we didn't react to it very well. That is really -- I would call that
+execution issues on our part.
+So we like the smartphone business. We believe there is no reason we can't do better. We have most of the right products.
+Now we have a bit of a new approach to the market. We have had some success, as I said, in handsets in the past. So I think we know how
+to compete there; and I am a lot more confident now that we have stabilized our position.
+So that is a market that we expect to do better in. It is not going to happen overnight, but there is no fundamental reason that we can't
+do better in that market.
+ 
+And the first part of your question was where we made the (multiple speakers)
+ 
+Tom Lynch TE Connectivity Ltd. - CEO
+Yes.
+ 
+Tom Lynch TE Connectivity Ltd. - CEO
+Boy, you really have to go by region to get that. As you know, content is quite an aggregated average number. It's in the emerging
+markets; it is just an increase in features across-the-board.
+It is more safety. It is more antilock brake systems. It is things like that.
+It is reduction -- a drive to reduce weight, which actually helps us. Even though the size of our products go down, there tend to be more
+complexity.
+In the Western world it is the gradual -- and it is still a small part of the business -- but it's the gradual increase in hybrid electric vehicles
+that as you know have a lot more content.
+But overall, content hasn't moved that much. It continues to steadily march up; that 5% or 6% a year is what we see.
+Then what we're really excited about, that is sort of the tipping point for HEV hits in the next three, five, six years. Then you will see a nice
+-- that average content will go up higher than that.
+ 
+Tom Lynch TE Connectivity Ltd. - CEO
+Well, as you know, with all the metal cost increases we faced over the last few years I think the industry in general -- certainly speaking
+for us in particular, we raised prices. Modest price increases. But those are in place now.
+If we were to see another spike we are ready to do that again. It is to a point where when copper is raising 20% or 30% a year and gold
+30% to 40% a year, we have to add that on. So I think that was an important accomplishment for our organization in the past year.
+ 
+Tom Lynch TE Connectivity Ltd. - CEO
+I would say both. DAS or distributed antenna systems was very strong this year. That product is used (technical difficulty) demand
+coverage and capacity in and around buildings and in large venues like stadiums. So that was the strongest segment within ADC.
+The other benefits we have seen are a number of big deals around the world where we now walk in with a very comprehensive
+end-to-end product line. So we certainly have seen strength outside the US of the combination of that. The first half of the year was a
+solid year in the traditional fiber copper in the US, and then it slowed down in the second half.
+ 
+Tom Lynch TE Connectivity Ltd. - CEO
+Again for next year, I would say we expect another strong year in DAS; a little bit slower year in the fiber and copper connectivity.
+ 
+Tom Lynch TE Connectivity Ltd. - CEO
+Yes.
+ 
+Tom Lynch TE Connectivity Ltd. - CEO
+Sure, Sherri; thanks. I would say number one it is the inventory correction. That is the biggest thing.
+Slight improvement in end markets. And I would expect a slight improvement in our consumer business. Nothing miraculous, but kind of
+steady, extent, beachhead kind of improvement.
+ 
+Tom Lynch TE Connectivity Ltd. - CEO
+In terms of the last question, yes, very -- I feel very good about our profit margins there. And of course you have to run very fast to keep
+that.
+ 
+Clearly, our strongest position there is in automotive. If you think about China, there are kind of three submarkets is how I think about it.
+It's the markets driven by local consumption that are served by multinational competitors and local competitors. In Automotive, for
+example, we are strong with both.
+Energy and telecom and enterprise, which is all local consumption, again I would say we are pretty strong in telecom, especially with our
+recent acquisition, although it is a very fragmented market. And in enterprise, which is also a fragmented market, but we have a strong
+market position.
+And energy is an extremely fragmented market. We are growing with the market, but there's hundreds of competitors and we have a
+small market share.
+The balance of the third piece of the way I think about it is a piece that it's really manufacturing for export. There is local demand; but
+PCs, handsets, DataComm infrastructure, all of that. And that really follows more the global demand patterns. We are there for lower
+cost manufacturing.
+So I think that really follows our position in our other markets. So in consumer we are not so strong; we are solid in DataComm; we're
+pretty strong in industrial, for example. I don't know if that gives you a little bit of an answer to your question.
+ 
+Tom Lynch TE Connectivity Ltd. - CEO
+(multiple speakers) unusual. It slowed down in the middle of the year in all the markets. Automotive slowed down a bit but it picked up
+nicely in the end of the year, and we had a very strong, very solid level double-digit automotive growth in the fourth quarter.
+I would say it is probably a little slower the second half of this year than the first in telecom infrastructure. A lot happened over the last
+few years; that has slowed down a bit. Again nothing -- it is not a rapid decline or anything, but definitely seeing a slowdown there.
+And the balance of the markets are kind of following global demand.
+ 
+Tom Lynch TE Connectivity Ltd. - CEO
+It seems to be more inventory, I would say, because the trends for us through the channel on point-of-sale -- you know, the sellout are
+better than the sell-in, which is definitely a reflection of inventory adjustments. So I would say most of it appears to be inventory right
+now. I think we all expect once we get through that to get back into growth.
+ 
+ 
+Tom Lynch TE Connectivity Ltd. - CEO
+Our guidance reflects that optimism, cautious optimism. I wouldn't say it is highly confident optimism, but cautious optimism based on
+the trends we see right now.
+ 
+Tom Lynch TE Connectivity Ltd. - CEO
+Yes, I am extremely pleased with our progress in the electronic distribution channel. Very pleased.
+I speak regularly with my peers there. I think we are working together better than we ever have. Thanks for the question.
+ 
+Tom Lynch TE Connectivity Ltd. - CEO
+No, our strategy remains the same, that we want to continue to strengthen our position. Most of our focus is through products, but
+largely also in markets if we don't have the right market position. And our priorities continue to be around industrial and energy and
+commercial there. So this doesn't change our strategy at all.
+ 
+Tom Lynch TE Connectivity Ltd. - CEO
+It will extend through Q2 is our current estimate.
+ 
+Tom Lynch TE Connectivity Ltd. - CEO
+If it plays out as we think, by the second half of Q2 we will see evidence that it is over.
+ 

@@ -1,0 +1,2439 @@
+John Gifford (ph) Maxim Integrated Products - President, Chairman, CEO
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+Thank you, Carl. In our first quarter, Maxim generated $130 million in cash and we used $69 million to purchase two million shares and
+then another $39 million to purchase equipment. This quarter and going forward, we are improving manufacturing costs and reducing
+below the line spending and as a result, we will continue to show improved financial ratios.
+This is coming about as a result of increased production efficiencies, yield improvements, controlling costs, reducing hiring, and we have
+realigned moderately our sales and applications organization to accommodate a changing customer list which was brought about by the
+reduction of significance of certain customers and actually more than a few that served primarily the telecommunications and the
+dot-com markets. We believe this realignment will put us in very, very focused situation relative to recognizing who and where our future
+revenues will result. Our objective, as I mentioned in our last conference call, it was achieve below the line spending levels of  percent
+or less. But this will require some help from continued revenue growth, although you will see as you can see this quarter and next, we
+have made significant progress. Our gross margins should continue to increase slightly as manufacturing and yield improvements kick in,
+in Q2 and beyond. In Q1, operating income increased by two percent over Q4 levels to  percent of sales. In this quarter, we announced
+ new products, up from  introduced in Q4, and  introduced in Q3. And although this is a  percent increase in new products
+comparing Q1 to Q4, it was a  percent increase from the Q4 levels relative to engineering man months of engineering that were
+introduced and we explained and discussed that concept in our last meeting. Dallas Semiconductor continues to run smoothly and
+contribute significantly to our company. They contributed last quarter  percent of our sales and  percent of our profit.
+Dallas Semiconductor gross margins continue to increase and in Q1, uhm, they realized a  percent gross margin and for those of you
+ 
+that have not followed this closely, that's up from  percent gross margin just a year ago in Q1 of fiscal '02. Very impressive
+improvement. During the first quarter, we shipped about  percent of the orders that we booked for turns. I mentioned that in this
+comment because almost every meeting I get asked that during the discussion. We believe that Q1 and Q2 shipments are approximately
+equal to the customers' consumption levels for our products during both Q4 and Q1, both Maxim and our customers continued to reduce
+inventories. In Q1, you'll notice that our weighted share count decreased by  million shares.
+That was due primarily to  million shares that were taken out of the count due to the treasury method calculation for option shares and
+we repurchased  million shares. It appears in hindsight that our wireless customers significantly overbooked above their consumption
+levels in Q4 and adjusted to consumption levels or below in Q1 bookings on Maxim. Also, during Q1, our distributors resales of our
+products increased by  percent over their fourth quarter resale levels. At this point, I will stop the prepared comments and we'll open
+the conference call to questions from our audience.
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+Well, our best shot is about as visible as -- it's probably not going to be very accurate because it's very hard to predict anything right now.
+Right now, we're expecting that we'll book above last quarter's levels. We expect our revenue will be -- well, I ought to correct myself. I
+misunderstood your question. Actually, you asked about bookings levels or revenue levels?
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+Okay. I misheard you. Our bookings are -- are not as predictable as our revenue. As I said, we expect to book above last quarter's level
+but we couldn't tell you if that's going to happen at this point. As for our revenue, we also expect that our revenue will be about equal to
+last quarter's revenue and we expect that our earnings will be slightly above last quarter's earnings per share.
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+Mostly, yes, aha.
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+Well, not refocusing our product direction. It's -- well, it's refocusing where we apply our applications and salespeople in the field. And
+it's exactly, Michael, it's what you said. It's more a reducing the focus on the telecom and the dot-com type customers.
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+Well, the -- to answer the second part first, we expect Cap Ex to be below last year's Cap Ex, which is about  million. We think it will be
+between  and  million this year. And, yes, you answered your own question pretty accurately. We're spending for, you know, where
+we can get bargains on state-of-the-art equipment for our wafer fab we're buying and that equipment, and we're buying some test
+equipment.
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+No, not really. And that was the single glaring highlight or low light it was definitely noticeable.
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+That's correct. Lead times are almost -- they were identical.
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+Well, you know, I don't think that's probably going to be, uhm, the primary -- I think we are going to get reduced below the line spending
+as a percent because we are going to get sales growth. We will get spending reductions in Q2 which will come about in a number of
+areas, R&D being one of the -- not one of the major ones. In fact, not at all basically. We'll be getting it primarily in other reduction areas
+in the below the line category.
+ 
+We actually intend to hire over  people in our R&D organization during the next  month. We have gotten reduction -- we have
+worked very hard on spending reductions below the line and, of course, things like working plates to make masks for new products that
+we have had -- we have been successful in achieving lower costs there, uhm, materially, and things like that so it's an overall expense
+control thing and then we have had been able to reduce spending on people in some of the non-R&D areas.
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+It has with regard to turns. I think bookings are up slightly quarter to date from last quarter. I think our turns are up about  percent
+quarter to date from last quarter. So that's all I can tell you right now. That's after about four weeks.
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+Yeah, Torey, I do. It's about a million less than last quarter's. It's about $6.9 million.
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+We can ship $500 million a quarter. -- from where we are right now.
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+Well, you know, it was asked to you, Alan.
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+Sure. Well, let's keep in mind Dallas adopted the Maxim sales force, and did away with the costly network of reps and heavy reliance on
+distribution. With that said, the precision which Dallas -- new product ideas come back from the field has improved. And over the long
+haul, the hit rate for the Dallas product introductions ought to be a lot better. So Torey, I couldn't say much beyond that that would give
+you an insight but obviously from my comments it has been an improvement.
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+You know, there was definitely an improvement in the mix that helped. And there was some cost reductions that did help in Q1, but
+primarily -- I would think that it primarily -- Carl if you can help me -- I'm thinking half came from each. But I'm guessing. I know we had
+a flow-through that helped.
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+Was it mostly? Okay. But I know that it was a mix --[INAUDIBLE].
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+That's correct.
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+Wireless in notebook products are lower margins than the other products and so anytime you know they -- you know, it's not a big
+ 
+percentage change. But, I mean, they are not  percent margin products by any stretch of the imagination. But I'm just, you know,
+trying to be helpful to you and tell you that, yeah, there was a little bit of a mix change away -- we probably shipped a lower percentage
+of wireless products in Q1 than we did in Q4.
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+But Carl --
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+As Carl said, he corrected me, that most of the change actually came from production efficiency.
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+I think all of you or probably most of are you aware that the notebook market did not have a good, you know, a boom Christmas build.
+And I think we saw that as well as everybody. And so I think their bookings were below what we expected in Q1.
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+None of them.
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+All right. No visibility. I mean, I'm not trying to be cute here. You know, it's just, uhm, there isn't visibility.
+ 
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+No. I think we're -- our belief is that our turns will go up both as a percent after revenue and percentage of bookings and as a total
+absolute number. That's what we're seeing right now.
+So, you know, we're -- and there's no inventory out there. So that -- those two correlate. Inventories continued to go down and turns are
+up. So people are buying, you know, still -- I have no real interest in placing orders out in front of themselves, you know, a couple of
+quarters ago the wireless people, you know, overbought and they readjusted that last quarter and I think we'll see bookings up this
+quarter from last but we believe right now -- our people tell us that the consumption rate for our products, you know, are, you know, in
+the  --  million level and that's about where we're booking right now.
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+I don't know. I don't know yet.
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+No. We're having -- no special plans. We're running normally.
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+I do. I can almost -- I think I pretty much memorized -- roughly  or  percent in the US and  or  percent in the PAC rim. And about
+ percent in Japan. And the rest of it's in Europe.
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+We really don't communicate that.
+ 
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+I think I -- I -- the only thing of any relavance I commented on which was the wireless situation.
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+Well, none of that the -- officers took no -- had no bonus last year, and we -- none of us have will have a salary this year, so... that -- but
+that hasn't impacted, you know, really any of the numbers we're talking about for Q1or Q2. You know, we have attrition which, you know,
+we hired I think last year, and Carl if you have a better number, correct it, but I think we hired between  and  people last year and
+our plan right now is to hire 120. So those kinds of things, uhm, you know, our bonuses, uhm, for our people will be, you know, probably
+down, you know, maybe  percent from last year's level based on how, you know, those kinds of things but those are the kinds of things
+we're planning.
+Of course, we're looking at, you know, we're not adding overhead. Wherever we have people that are, you know, that -- where like we said
+we realigned our field applications and sales organization and, you know, there were dislocations there where, you know, if people
+couldn't move or transfer, you know, there were people that were resigned. But those are the kinds of things we have done and are doing.
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+Say that again?
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+No, I didn't say that.
+I'm sure I didn't say that. But that's not -- that's not correct. We need to get somewhere in the neighborhood of, uhm, I don't know, three
+hundred and -- 330,  million a quarter.
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+We don't walk away from anything.
+ 
+Joseph Osha Merrill Lynch
+Uhm, are you finding that not walking away involves maybe giving more on price --
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+I don't know. Our margins -- our gross margins went up.
+ 
+Joseph Osha Merrill Lynch
+Yeah, but you have been obviously you are making the organization more efficient which is great.
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+I said -- well, manufacturing efficiencies, lowering costs, improving yields. That's how you become a price leader. We -- you know, people
+-- we don't want people competing with us. We try to discourage them whenever we see somebody that's doing that, we are, uhm, we
+don't take any prisoners on price. So... we don't start those wars. But if somebody wants to try to do that, it's -- we're not the right guys to
+mess with.
+ 
+Joseph Osha Merrill Lynch
+I guess I'm just stipulating that you guys have done a good job. I'm just trying to get a sense as to how vicious that war is right now.
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+Not very vicious. Your margins can't go up if you have a vicious price, right? It's not an issue.
+ 
+Joseph Osha Merrill Lynch
+Okay. Thanks.
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+Yup.
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+An officer is -- we have  or  Vice Presidents and we have a CEO.
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+And last year, none of us got -- none of us got a bonus.
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+Zero. And this year, we've all -- I -- well, let's see. We have air, uhm,... I think the -- -- I took -- I'm getting no salary this year starting in
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+We've also, uhm, just -- we might as well add to this, uhm, a group of us have also put back or cancelled about a million and a half
+shares of options which we put back into the pool so that we could -- so other employees who could get those options so -- that were
+reissued to other employees.
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+Well, you know, we don't like to disappoint people. And we like to be able to operate without -- and you know, on a daily basis and be
+able to sleep at night. I don't think the company -- that's the way the company was always run. We want to make sure that we are not
+struggling to make our numbers.
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+We're ahead of our plan.
+ 
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+Well, no. At  million a quarter, we would be running at about  or  percent of capacity.
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+That's correct.
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+We are about  percent utilization at the current levels.
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+Let me -- I think I understand you. You never want to run at  percent capacity. Okay? So --
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+You know, you approach  percent. At that point you really don't have  percent capacity to use. You understand that?
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+Okay.
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+A lot more excess capacity than I would like to have and if we can get up to  or  percent we'll have a material improvement in gross
+margins.
+ 
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+I think it's too long of an answer to be -- to give justice to the question to do on this conference call.
+I've talked to you about it if you would like to call in afterwards but we're quite pleased and as now excited about that opportunity and we
+have done well. I mean, we've booked a couple of -- we've booked not a couple. We've booked a $700 million order, which -- I'm sorry.
+$700,000 order. [ Laughter ] Which is indicative of the fact that we do have something to contribute in that area. So... I -- I think -- we'll
+talk about it later if you would like.
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+I'm ignorant of that -- of the Lexmark/Dell relationship but the answer, you are correct we do have a good relationship with Lexmark and
+I would imagine that if it causes Lexmark to sell more it would help us.
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+I hope not. You know,  million of that came from the stock price going down. You know, I don't know how familiar you are with the way
+the Treasury method of counting shares is, but you don't count a share if it's below water. And an option share. So, uhm, you know, it
+would -- they would go down -- it wouldn't go down materially unless -- the stock price continued to go down.
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+Well, I think most of what was going to go on for the holiday season happened mostly last quarter. So I think you could -- you obviously
+have other people you can ask that same question too. But it's my -- and I don't pay a lot of attention to studying the consumer market.
+ 
+But I don't think that the notebook sales are going to be -- you know, what, you know, if -- booming for the -- for the holiday season.
+Other than that we're not really having -- we don't have any visibility for the consumer market per se. We could look at the notebook as
+being a consumer market to a large extent. To some extent. Handsets, phones, I mean, those are not -- those are consumer product but
+they're not holiday-oriented. So -- but I would -- I mean, I'm anxious as you are to see how retail sales go during the holidays. I just don't
+have much visibility right now.
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+Yeah, you know, I really don't comment on those things. I do know, of course, but I'd rather not comment.
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+Well, yeah. Q4 was -- let me put it -- let me see if I can give you this in context. Q4 was above Q3 by about  percent. Yeah. Q4 was
+about  percent up. From Q3. And then Q4 was down about  percent -- Q1 was down about  percent from Q1.
+So if you drew a line through the booking trends over some number of quarters you'll see that the wireless was growing but they just --
+they went out and bought a place out of panic probably. I mean, but probably a poor choice of words but their anticipation of growth and
+demand for their product several wireless companies you know, placed orders and, you know, in Q3 that they're burning off inventory in
+Q4. And Q1 and Q4. So it wasn't like that market was down. It was -- they just really overbooked in Q4. So the trend line -- if you drew -- if
+you ignored Q4, the trend line between Q3 and Q1 would be up.
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+Mm-hm.
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+You know, those are, first of all, the answer is no, I really can't talk about the first question. It's -- that's obviously proprietary. That's
+ 
+where we're focusing and what people we are looking for. And I just don't want to talk about that. And the other question, I -- I -- hate to
+be not helpful here but the other question is just, uhm, you know, too complicated to get into any meaningful discussion on, on this call
+so I would talk to you about the second question if you want to call back in.
+ 
+Steven Rossin Lynn Capital Management
+Okay. I'll follow up on that later. Thank you.
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+I think you are coming over to see us anyway, aren't you?
+ 
+Steven Rossin Lynn Capital Management
+We hope so. We don't have a date yet.
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+Okay.
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+What was that Peter? Nothing surprises you.
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+Oh. Okay.
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+How many shares?
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+I always listen, you know, and, you know, I don't always -- and I listen to that gentleman and I thought about it some more and, uhm, I
+thought about, you know, well, what's wrong with a dividend?
+And what's right with a dividend? And we came to the conclusion that we're a very stable company. Our earnings are very predictable.
+ 
+We have certainly the wherewithal to pay dividends. And I think a dividend reflects largely that a company is stable and has predictable
+growth and so in that light, we decided that it would -- our shareholders should receive some small dividend. And we think it's overall
+positive. There are also some investors who can't invest in a stock if the stock --
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+-- doesn't pay a dividend. So in taking it you know, everything under consideration, it seemed like that gentleman's idea was not as off
+the wall as I may have made it sound in that call. And we -- and it cause immediate to think about it.
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+I can't clear thank you.
+It's your observation. It's not mine. I can't clear it up. It didn't occur to me that it had anything to do with growth. If you don't grow and
+don't have a good future, I don't think you should be looking at paying a dividend. But I would look -- I look at it just the opposite.
+To me, if you have, you know, if you are not going to need all of your money and certainly our dividend is in no way a large -- we earned --
+I mean, our dividend, I think, is worth about $30 million a quarter. I mean, we earned $130 million in cash this quarter. I mean, it's a small
+number. You know, I think our dividend -- I intended our dividend to reflect just how much money in cash we do generate.
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+ million a year I guess is not --
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+ million a year, right? What did I say, 30?
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+I meant a year. No wonder. I meant a year. We'll make, you know, we'll a make $400 million in cash and earnings and  million of that is
+10% of that.
+ 
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+Well, most people are more -- I mean, most people are more -- I hope and I believe that people really think a lot more than that. I mean, I
+certainly didn't even occur to me that a dividend would be a negative thing.
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+My only concern at paying a dividend is do we need, you know, can we use that cash to either buy back more stock or to buy equipment or
+for an acquisition. And if I felt that that lack of -- that that cash would detract from opportunities in any of those areas, then I would
+probably wouldn't do it but, you know, we've scaled it to where it's a non-issue, right?
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+Mm-hm.
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+You know, that is the right number. And I can't give you any more information on it than that I just don't have any more insight. You mean
+I'm assuming you -- you are asking, you know, is it in one sector, one equipment area, or something like that? I just don't know. It's across
+the board, I would imagine.
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+I looked at it as a positive sign, but, of course, we're all looking for positive signs. I mean, I was -- I was comforted by the fact that the
+resales were up and they weren't down which means that there's not a negative trend going on there for our product lines. That's all I can
+tell you I just draw the same conclusions that you might or anybody else might. I just don't know a lot more. If the distributor resales are
+up  percent, not too much bad is probably going on.
+ 
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+It would be a  percent guess. We'll both guess and bet a dollar on it.
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+I just don't know.
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+Could you speak up a little bit, please?
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+Uhm, you mean after four weeks? Is that what you're talking about?
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+Well, I tell you, these four weeks are a little better -- marginally better, you know, than they were the first four weeks of last quarter, but,
+you know, we were looking into the holidays and a thought we were looking in a growth second two months of last quarter and that really
+didn't happen. They didn't -- they didn't pick up as I thought they might. Will they this quarter?
+I don't know. I mean, I hope they do. I think they will. I mean, it's our feeling that we're going to book more this quarter than last quarter.
+But... we don't have any basis for it other than that we think last quarter was depressed by overbooking in Q3 and we do think there is a
+growth trend. Going on here. We don't think it's -- we think it's not a -- a -- a -- an aggressive growth trend per quarter but we do believe
+that there is growth. I mean, if he would can get these cycles or these per it your [INAUDIBLE] out of the way, we think there's growth. I
+ 
+don't think we're looking right now, we don't believe we're in a  percent per year growth situation. But I think we'll see bookings up
+slightly maybe up, I just don't know, maybe up  million? Our business units think we're going to book the demand is about  million.
+In this quarter. That's what they think [INAUDIBLE] is. But so we'll have to wait and see.
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+Oh, okay.
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+I wasn't being responsive. We just listened. We could have just just as easily listened and thought about it and we don't really agree with
+you.
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+Well, you not you're counting a hell of a lot on hindsight, okay? I mean, anybody can just like you know guess building Dusty Baker and
+the Giants but that's great on Monday but you know, you don't know -- what you have to do is you have to look at, you know, how much
+do you believe in your company and where is it going to get to? And if you believe you are going to do $2 billion and make $2 a share or
+$2.50 a share and you believe in truly there will be a set of companies that are valued at 30-1, PE, 40-1 or whatever, and if you are -- and
+if you do have stock option program where there is, you know, there is dilution, as a result of it, there is a clear strategy and a logic that
+ 
+leads you to buy shares back every quarter. -- because you feel it -- you know, I feel that it is in our shareholders' best interests to do that
+and that's the way we think about it. Sometime most -- and I think store cloudy we have been absolutely correct in doing that. And I think
+going forward we are going to be correct in that, too [ historically ]
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+It's going -- it's the same as what it is except it's going to go up by whatever  or  million is divided by did  years. You know?  or 
+years. So it will probably go up about, you know,  million over what it was the rate it was last year.
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+Yeah.
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+You really want an exact number, call Carl Jasper and he will give the number. We know exactly what it is. There is not going to be any
+dramatic increases.
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+Mm-hm.
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+Hi.
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+I think that, uhm -- it's going to happen when it -- oh, it's going to happen. When it happens I'm not sure. But it happens -- has to happen
+because inventory levels are too low and any source of growth in demand will accelerate and [INAUDIBLE] that event. I think that what is
+probably going to, you know, we are going to have to wait until fundamentally the economy has digested the unemployment that's
+occurred and, uhm, and maybe is not completely over yet. And some of the spending that was going on by these companies that now
+aren't spending or don't exist anymore.
+And I think everybody is kind of guarded to see what the -- what grassroots base level we're a and we don't still know that yet. And so,
+you know, we're probably, you know, 4,  months away from getting to a baseline. And I don't think you are going to see any --ny, uhm,
+any renewed enthusiasm until that happens. I think as far as economic growth, as far as stock price growth I think that's almost
+disconnected to business. I think we need, you know, I happen to believe that this housecleaning has to occur and it's good that we need
+these regulations and we need the scrutiny of these CEOs and these companies. And I think the accountant have been overblamed for
+the problems that are really the result of investment banking and the analyst system and the company managements. And I think I think
+they are doing the correct job in -- in cleaning that up. And I think once that cleans up, we are going to, uhm, people, investors will be
+able to take a deep breath and say I can trust this situation now. And, you know, I think that's an important event to occur or to get
+beyond us.
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+We have not changed anything. So I'm not sure what you're talking about. We have not done anything different. Maybe you can tell me
+what you're referring to because we don't know what it is.
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+Oh, product announcements. Oh, I think -- yeah, we are. We did actually do that. [ Laughter ] Uhm, if you want to call me back in, I'll tell
+you why we're doing that but that's -- nothing -- yeah. We did do that. We announced some product over press releases over the wire. We
+had a -- we have a tricky reason for doing that. Not very -- not very strategic.
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+No, it's just the RF stuff.
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+Our wireless business unit includes cell phones, space station, all the radios, nothing to do with battery management or any sort of
+processing. But it's the radios, the cell phones, the wireless LANs, satellite, and space stations and consumer RF.
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+Uhm, out of that business unit, we ship just what I told you. The one that I said had that dramatic --
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+Okay.
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+Uhm... yeah. I think that most -- we are going to realize some productivity improvements in the coming  months in our engineering
+efforts but I think most of that was due to body -- just an added labor. Added engineering.
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+Yeah. I think coming forward -- going forward, we will get productivity improvements which we have done because we have done an
+ 
+enormous amount of work and installed the systems that are going to we think result in some significant improvements in productivity.
+But -- in engineering, our product development area. But we have not realized those yet. They have not kicked in. So what we reported
+there I reported there was really a more a result of the added engineering that we've added over the last  months.
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+So, I don't want to give any more color on it. I think you can figure it out. We are not trying to be tricky. We have had a linement of
+customers. You can all figure out what, you what's hot and what's not. What's changes and what doesn't exist any more. What does.
+And even geographically, so, you know, it was -- it's needed, you know, you don't sit there with that same key customer list and operate
+on that when they aren't the same people anymore. Some of them aren't there anymore.
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+Aha.
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+Oh, gosh. Wow, this is not going to help you much. But, you know, we have  product lines --  product lines and they -- they're all
+developing new products. There's not any dramatic emphasis where we're emphasizing and one is dominating it. I would say it's across
+the board really.
+ 
+Robert Burleson Investec
+Okay. That's fair. My other question is on the interest income line, are you guys seeing further maybe decrease to that interest income
+from lower interest rates like other guys out there are seeing?
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+Well, we're pretty flat now. But we -- you know, we had -- my approach to managing our money is that it's not our money it's our
+shareholders' money and we are not in the business of trying to make money on money and the worst thing you can do as a CEO is lose
+you know, lose money fooling around financially with it. So we've always had the philosophy of investing in 90-day -- we have gone out
+maybe to a year, you know, treasury. So we hit -- you know, we went down from whatever,  percent down to 1.5 percent interest rates.
+But we have been down there, you know, already. So there was no real change this quarter over last. Okay, great. Thanks a lot.
+ 
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+Hey, yeah capital.
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+You are going to have to speak more clearly. We can't understand you.
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+Well, my thoughts on that -- the law allows you to treat -- from a tax point of view, tax law lets you take that as a deduction. And we do
+that. And it's a significant -- it helps our shareholders tremendously in terms of creating cash for us. So it's a positive thing for
+companies, for corporations and shareholders, that the tax law let's do you that.
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+Well, it depends on how you think about it. If Maxim, 96,  percent of our employees have stock options. And they probably couldn't
+have those stock options if we didn't have some way that allowed them not to be, you know, to get -- we get some benefit from the gain
+they get in the options. I mean, I don't know that -- if you want to be altruistic about it, the government is giving back to 7,000 employees
+a tax cut. Effectively.
+I mean, they are getting a stock option as a result of this -- they are giving a tax break because to us to our shareholders because we give
+a stock option to one -- to 7,000 employees. We can come up with all sort -- I know that's a legitimate way to think about that there's
+other benefits like, you know, that are given by the government, tax breaks, when do you things for people. And this is our shares are
+going to our employees.
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+I'm sorry. Speak more slowly.
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+Right.
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+All right. Thanks.
+ 
+John Gifford Maxim Integrated Products - President, Chairman, CEO
+We really don't have any closing remarks.
+If there's anything that's not clear relative to what I said or further amplification on it, we'll be happy to take calls and clarify those things.
+And both Carl Jasper and myself are available to do that. Thank you.
+ 
+Jack Gifford Maxim Integrated Products - Chairman, President, and CEO
+CONFERENCE CALL PARTICIPANTS
+ 
+Integrated Products. On the call today from the company are Jack F. Gifford chairman, president, and CEO. Amanda Lazar, managing
+director of corporate policy and communications, Alan Hail, vice president, chief financial officer of Dallas semiconductor, and, myself,
+Carl Jasper, vice president of finance and chief financial officer. Before we get started, i'd like to take care of a couple of administrative
+items. First of all, we will be making forward looking statements on this call. In light of the private securities litigation reform act, I would
+like to remind you, statements we make about the future including our intentions or expectations, or predictions of the future, including
+but not limited to, possible statements regarding bookings and terms orders, revenues and earnings, inventory and spending levels,
+manufacturing efficiency or capacity, projected inmarket consumption of our product, and any other future financial results are forward
+looking statements. If we use words like anticipate, believe, project, forecast, estimate or variations of these words, and similar
+interpretations relating to the future, they are intended to be forward looking statements. It is important to note the company's actual
+results could differ materially from these projected forward looking statements.
+Additional information about risk and uncertainties associated with the companies business are contained in the company's SEC filings
+on form 10-k for the year ended June 29th, 2002. Copies can be obtained from the company or the SEC. Secondly, in keeping with the
+SEC's fair disclosure requirements, we have made time available for question and answer period. This is your opportunity to ask
+questions of management concerning the quarterly results and expectations for next quarter. An operator will provide instructions at
+that time. Hopefully you have all had a chance to read the press release covering our Q2 results. For those of you who have not seen it, I
+will now cover the financial contents of the release.
+Net revenue for the fiscal second quarter ending December 28th,  were 286.1 million dollars. An increase over the 247.1 million
+reported for the second quarter of fiscal 2002, unchanged from reported revenues for the first quarter of fiscal 2003. Net income for the
+quarter was 77.1 million dollars. And increase over the 62.6 million reported last year and an increase over the 73.2 million reported for
+the previous quarter. Diluted earnings per share were  cents for the second quarter. An increase over the  cents reported for the
+same period a year ago and up from the  cents reported for the first quarter of fiscal 2003. During the quarter, cash and short-term
+investments increased $158 million to $945.7 million. After the company repurchased 500,000 shares of its common stock for $18.3
+ 
+million, paid dividends of 6.4 million and acquired a total of 8.4 million of capital equipment. Accounts receivable decreased by 12.9
+million dollars in the second quarter to 122.6 million. And inventory decreased 8.4 million dollars to 127.9 million. Inventories have
+decreased $19.8 million from the third quarter fiscal  levels and no inventory growth is anticipated for the third quarter of fiscal
+2003.
+Gross margin for the second quarter increased slightly to 69.7% after increasing inventory reserves $3 million, compared to 69.5%
+reported for the first quarter. Second quarter bookings were approximately  million dollars, up slightly from the first quarter level.
+Returns orders received during the quarter $139 million, an 8% increase over the  million received in the prior quarter. Returns orders
+are customer orders that are for delivery within the same quarter and may result in revenue within the same quarter if the company has
+available inventory that matches those orders. Order cancellations continue to be below historical levels. Bookings increased in the
+Pacific Rim in Europe, but decreased in the U.S. and japan. Second quarter ending backlogs shippable within the next  months was
+approximately $201 million including  million requested for shipment in the third quarter fiscal 2003. I will now turn the call over to
+Jack Gifford who will provide a commentary on the quarter.
+ 
+Jack Gifford Maxim Integrated Products - Chairman, President, and CEO
+Thank you, Carl. During Q2, corporate bookings were up slightly. Maxim's bookings were up 4%. The following was with Dallas bookings
+which were down 20% over the last two quarters,  percent in the last quarter. We have identified the cause of the Dallas decline as
+primarily lost business through our U.S. Pac Rim and China distributors. We've taken corrective action and we expect significant growth
+in Dallas distribution bookings in Q3. Corporate turns that were up 8% quarter over quarter and again Maxim's were up 63% of bookings.
+The Dallas turns were down 16%. We also expect Dallas third quarter turns to grow significantly from the Q2 level. Overall bookings for
+the corporation were up slightly, I'll go through a little bit of color here on the various geographic markets. Q2 bookings in the U.S. were
+down primarily as a result of the end of the purchasing period for christmas manufacturing, which occurred in mostly in the quarter
+before that. Our Industrial networking product line, however, did see growth in the U.S.
+The Pac Rim bookings were up due to no booking computer rated product. Europe the bookings were up due to industrial, major orders
+from major industrial companies in Europe. The Telecom and the base station markets did not recover, however. Japan was slightly down
+from the Q1 levels. Our distribution business in the U.S. as far as their in market bookings was actually up, although the Dallas portion
+was down. We were up $55 million compared to  for Q1. And our distributors shipped  million dollars. So, they had a positive book to
+build. Q2 beginning backlog was down 8% for the corporation overall from the beginning Q1 backlog. Bookings in turns, however, for Q3
+to date are ahead of Q2. If we discounted the first week of the quarter, new year's week, the last three weeks we're averaging at a rate --
+averaging such that the quarterly rate for bookings would be over  million dollars for the quarter. We have to wait and see, but this
+could be good news. We do expect to book over  million.
+Below line spending was lower in Q2 primarily due to lower prices that we were able to obtain for engineering services, such as, working
+plates and other things, controlled discretionary spending such as travel and entertainment. We also had salary freeze and we reduced
+bonuses for below line personnel. These -- the freezes and the bonus reductions will be reinstated as soon as revenue growth improves to
+levels that are acceptable to us. As a result of the improved below line spending, we've gone from the beginning -- in the last  months
+from Q1 of '03 -- I'm sorry from Q1 of '03, we've gone from 32.7% below line spending to just under 31% in Q2 just ending. And this was
+done without -- while we increased our circuit design head counts. Of below the line during Q2, below the line head count dropped 
+Jack Gifford Maxim Integrated Products - Chairman, President, and CEO
+Thank you.
+ 
+Jack Gifford Maxim Integrated Products - Chairman, President, and CEO
+We think that our revenue, Mike, will be no worse than what we did last quarter. As you can tell from the numbers that I gave you, we do
+need to grow bookings which we think will happen. Depending on what our bookings end up and the turns, it will determine the revenue.
+Our plan is to fundamentally have the same revenue that we had this quarter. Great. Gross margin you talked about some cost savings
+from the Dallas side. What would gross margins have looked like without that. Was it a material impact and is it stable going forward. It
+is stable going forward, part of our grand plan to get Dallas's gross margins to the maximum levels. They are running at about 63%. And,
+you know, therefore, if our blended is somewhere in the 70% area, Maxim is running higher than that. So, we think that slowly they will
+improve to those levels. There is some inherent low margin products. Some of those products will not be able to achieve that level. The
+new products they are introducing, they have been quite prolific in launching and introducing products, we are quite optimistic we can
+achieve this goal. I would say that we are not in the short term meaning in the next year going to really see any gross margin fall off in
+Maxim corporate.
+ 
+Jack Gifford Maxim Integrated Products - Chairman, President, and CEO
+There is always competition, but we are in  product lines. So, you know, some of them more competitive and price competitive than
+others. For the most part there isn't. And we pride ourselves on being, you know, the lead low cost producer where we have products in
+our markets. We have room. We don't, as I said before, we really don't consider price attrition a material issue.
+ 
+Jack Gifford Maxim Integrated Products - Chairman, President, and CEO
+They were basically two product lines that were not managed as well as they should have been. If you don't tend the store, you can lose
+business. And, you know, I could blame the distributors but, frankly that's not their problem. We're supposed to be paying attention to
+our business. So, we've corrected that and we consider it to be an aberration. Unfortunately, we didn't detect or really recognize the
+issues. We could have recognized that earlier but we spent -- we now have and have done the things we need to do.
+ 
+Jack Gifford Maxim Integrated Products - Chairman, President, and CEO
+Yeah, I really -- it would be difficult to comment because it's customer by customer. And we're not in the hand set business in the general
+Jack Gifford Maxim Integrated Products - Chairman, President, and CEO
+We are very concerned that it's completely frivolous. We have examined all the patents. They by the way have never served us which is
+unbelievable. But we believe they have -- it's filed as a marketing ploy. If so, we will go to whatever extent it takes to prosecute on that
+basis. We believe it was filed to intimidate customers who are completely licensed by Qualcomm. So, we think it's a marketing ploy. They
+still have not talked to us, yet we have now talked to -- made calls saying if we don't hear from them soon, we will file a complaint. And
+we've examined the patents extensively, our patents, we checked with our customers about their licenses. They say there is absolutely --
+they have no problem buying from somebody other than Qualcomm, so we're very upset by this. It hasn't hurt us but it was intended to.
+ 
+Christopher Caso SoundView Technology Group
+Right. Okay. Just one final question regarding your comments on, you know, not continuing to decrease your inventory going forward.
+Does that -- I guess does that suggest an increase in production at the fabs, will you be running the fabs at the same levels over the next
+couple of quarters.
+ 
+Jack Gifford Maxim Integrated Products - Chairman, President, and CEO
+It will be an increase in production. We will increase probably 10% in the fabs.
+ 
+Christopher Caso SoundView Technology Group
+About 10%?
+ 
+Jack Gifford Maxim Integrated Products - Chairman, President, and CEO
+Maybe more like 8% but in that ballpark.
+ 
+ 
+Christopher Caso SoundView Technology Group
+Okay. All right. Thank you.
+ 
+Jack Gifford Maxim Integrated Products - Chairman, President, and CEO
+I do. Carl will have to look it up. It was quite low. We did one thing that made it a little higher. We have a policy that since our products
+are highly proprietary. We have to be careful about what our distributors buy. Often times they will buy for inventory, and we will make
+the product, and they will return it. We have nonreturn policy on several products. That encourages are distributors to buy only what they
+can resell. So having said that, I think it was  million. What was it last quarter.  million last quarter.  million this quarter.
+ 
+Daniel Gelbeck CIBC World Markets
+With regard to product mix, do you offer a breakout of that?
+ 
+Jack Gifford Maxim Integrated Products - Chairman, President, and CEO
+Of what.
+ 
+Daniel Gelbeck CIBC World Markets
+Your product mix. Power management, process control, mixed signal.
+ 
+Jack Gifford Maxim Integrated Products - Chairman, President, and CEO
+Revenue.
+ 
+Daniel Gelbeck CIBC World Markets
+Revenue points of view.
+ 
+Jack Gifford Maxim Integrated Products - Chairman, President, and CEO
+No, we don't.
+ 
+Daniel Gelbeck CIBC World Markets
+All right. Thank you very much, then.
+ 
+Jack Gifford Maxim Integrated Products - Chairman, President, and CEO
+Sure.
+ 
+Jack Gifford Maxim Integrated Products - Chairman, President, and CEO
+Yeah. I think there is going to be -- it's hard for me to be exact. That's our plan. It could be down slightly because some of the stuff we are
+doing is ongoing. There is room, particularly Dallas to improve. But generally, yeah, the -- most of it has been affected but it will be
+slightly -- moved slightly down. Margins will continue to improve slightly.
+ 
+ 
+Jack Gifford Maxim Integrated Products - Chairman, President, and CEO
+Now?
+ 
+Jack Gifford Maxim Integrated Products - Chairman, President, and CEO
+I would be guessing right now. It's not as big as it's going to be in the next  months. Let's see. What is -- Carl, what is wireless's
+revenue?
+ 
+Jack Gifford Maxim Integrated Products - Chairman, President, and CEO
+Jack Gifford Maxim Integrated Products - Chairman, President, and CEO
+I think the wireless business unit will grow, one of the faster growing business units. We're a leader in the wireless lan area, satellite area,
+you know, even the  megahertz low frequency RF area, were in that area. We are in power amplifiers. We got a lot of vehicles, base
+Jack Gifford Maxim Integrated Products - Chairman, President, and CEO
+I think -- that's a good question. A thoughtful question. We are clearly going to, you know, watch where we know that we have volatile
+products, turn at the last moment or tend to, we will put more inventory in on those products.
+ 
+Jack Gifford Maxim Integrated Products - Chairman, President, and CEO
+Stop reducing the inventories. That has the same effect.
+ 
+Jack Gifford Maxim Integrated Products - Chairman, President, and CEO
+Yeah, I do.
+ 
+Jack Gifford Maxim Integrated Products - Chairman, President, and CEO
+Okay. The -- inmarket bookings, let me deal with inmarket bookings. This is a pie chart. This will be just as well. The U.S. Is 32%. Europe
+-- that's down from  last -- I'm sorry. Down from -- hang on one second. Yeah. That's down from 35% last quarter. The Europe was
+20%. That's up by one -- up from  last quarter. Pac Rim is 11%, which is -- no, I'm sorry. These lines are -- Japan is 11%. Down from 12%.
+And the Pac Rim is 36% up from 34%.
+ 
+Jack Gifford Maxim Integrated Products - Chairman, President, and CEO
+That is inmarket bookings. Those are orders from a real customer. As opposed to a distributor. I'm sure you are aware a lot of Pac Rim
+stuff is U.S. Designed material that they buy and build in the Pac Rim.
+ 
+Jack Gifford Maxim Integrated Products - Chairman, President, and CEO
+Yeah, I can. We have to look at it here. I'm just going to tell you in terms of up or down, okay? The portable equipment business was down
+slightly. Communications market was over all down slightly. That has telecom in it that drug it -- drag it down. Telecom was down again
+from -- it continues to go down. Our data converter business was up materially. Our standard products business, which is the most broad
+of all of our business units, it covers everything, it was up slightly -- up measurably. And, you know, that pretty much in broad categories
+covers everything.
+ 
+Jack Gifford Maxim Integrated Products - Chairman, President, and CEO
+Well, yeah, I think the Fall business will be up. The notebook business will be up. And the Industrial sectors, they were up last quarter. I
+think they will be up this quarter. We've seen three good weeks in a row. That's at high levels. That tells me -- I really believe that we will
+see a significantly better quarter.
+ 
+Jack Gifford Maxim Integrated Products - Chairman, President, and CEO
+It's a completely a function of where the bookings end up and how much of it are turnable and whether we can turn them.
+ 
+Jack Gifford Maxim Integrated Products - Chairman, President, and CEO
+Sure can.
+ 
+Joseph Osha Merrill Lynch Global Securities
+Wonder if you could comment a little bit specifically on the notebook and market. There seems to be a lot of design activity being driven
+by the introduction of Banias. Is that something that could move this slice of your business up materially and I have a follow-up?
+ 
+Jack Gifford Maxim Integrated Products - Chairman, President, and CEO
+I don't believe so. It's already -- we are established in the sectors we are in, and I think we will make progress in the display area, but
+there is also competition in some of the other areas. I expect it won't change a percentage of our business.
+ 
+Joseph Osha Merrill Lynch Global Securities
+Okay. The second question, it seemed based on the calls I was making that there was a rather hard draw down of inventories held by
+distributors, especially in the latter part of the December quarter, and now perhaps that that might be reversing. I was wondering if you
+could comment, particularly in light of the effect that we will enter a little bit of a dead period here because of the lunar, new year, then
+pick back up. I'm wondering what the tone of what you are getting from your distributors is relative to the end of last quarter.
+ 
+Jack Gifford Maxim Integrated Products - Chairman, President, and CEO
+Well, actually, the distributor inventories did go down. But, frankly, we had an aberration that I alluded to in terms of the Dallas booking,
+and had the Dallas results been as expected, we would have actually had significant increase in bookings and felt it more so than I
+reported. So, I would say that the distributors are actually seeing a better business environment right now.
+ 
+Joseph Osha Merrill Lynch Global Securities
+Do you think you might be getting loaded up here a little bit in front of a quiet period, first part of February because of lunar new year.
+ 
+Jack Gifford Maxim Integrated Products - Chairman, President, and CEO
+You mean the lunar new year.
+ 
+Joseph Osha Merrill Lynch Global Securities
+Chinese new year.
+ 
+Jack Gifford Maxim Integrated Products - Chairman, President, and CEO
+No, no, I think our distributors are inventory conscious. They really don't start to do that until they are feeling shortages. So -- because
+they compete with one another. In our case that doesn't happen that often. We have two distributors in the U.S. and they have the same
+part. I don't expect any bizarre behavior or ordering patterns to occur.
+ 
+Joseph Osha Merrill Lynch Global Securities
+Just to confirm, other than Arrow, your other large distributor is who?
+ 
+Jack Gifford Maxim Integrated Products - Chairman, President, and CEO
+Abnet.
+ 
+Joseph Osha Merrill Lynch Global Securities
+Okay. Thank you.
+ 
+Jack Gifford Maxim Integrated Products - Chairman, President, and CEO
+Well, you always ask a number of questions. I have trouble remembering. The first one, I would like to see if I can go back and answer the
+first one -- the first question first. Dallas's revenues are approximately 25% of our business. And their profits are also, you know, rather
+less than that because of the margins, but not much less. So, they have that kind of an effect on us. And the problems that they had were
+very tactical and not strategic. I mean, they -- they just were very -- I mean, in their defense, I mean their business management people,
+guys that run the business, are focused on new product development, new product definition and they take for granted a little more than
+they should, they did. What is happening on a daily business relative to the orders, winning, losing and pricing and that sort of thing. And
+the people that -- in the trenches doing that were not really the -- as experienced and as good as doing that as they should have been.
+General manager wasn't paying as much attention as they should have been. Errors were made that shouldn't have been made. But very
+correctable and have been corrected. And that's the answer to your first question. Is that right?
+ 
+Jack Gifford Maxim Integrated Products - Chairman, President, and CEO
+Second question, I believe, is having to do with what should you read into the fact that we're going to slightly increase our wafer move.
+We certainly -- well, we have -- we have a fixed expense pretty much to make -- run our fabs. And the fabs without spending any more
+money could produce easily 10% more wafers, you know, other than a small amount of money for starting materials or whatever. And
+we've chosen -- up until now, we chose to actually not do that. We would just run with less efficiency. So -- we still wouldn't increase the
+output if we didn't anticipate that we could benefit from the output in some market or business way. So we are going to increase the
+output of wafers which would create an inventory profit, a small amount. It would go from -- probably have flat inventory growth this
+quarter rather than down. But that helps the productivity of there fab. That's not why we are doing it. We are doing it because, I believe, I
+can't remember Joe or somebody asked earlier, what will are you doing to help yourself with turns. If you want to turn more business.
+One of the things, having more material on products that you guess are going to be the ones that turn will help that. We also, because,
+mostly, some of the markets we are in are very -- the customers are hand to mouth and we just hate to get into these expedite modes
+where they miss forecast and they have growth and then, you know, we have the same problem, they need product, we have to scramble
+around which is very disruptive. We are trying to minimize the effect of that in the next cycle. We will try to guess where to build some of
+that stuff.
+ 
+Jack Gifford Maxim Integrated Products - Chairman, President, and CEO
+For which quarter.
+ 
+Jack Gifford Maxim Integrated Products - Chairman, President, and CEO
+For Q3? I think our inmarket number is very close to 290. I'm trying to -- I saw the number. I don't know where to look to find it right,
+again. I think that is our shift demand number what we call it. Yeah, basically 290.
+ 
+Jack Gifford Maxim Integrated Products - Chairman, President, and CEO
+Between  and 292.
+ 
+Jack Gifford Maxim Integrated Products - Chairman, President, and CEO
+The consumption is predicted to go up at a higher rate it's been going up. That's what we are told.
+ 
+Jack Gifford Maxim Integrated Products - Chairman, President, and CEO
+Well, first of all, the reason we go to the man month is almost impossible to do -- to get -- to equate it to products. We have products
+that are only like, basically, three man months to develop and we have others more than a few that are in excess of  man months, as
+high as  man months of product. So, it just gets to be, you know, so it becomes confusing -- we are really confusing you and I don't
+want to say misleading, but the fact is you really don't have much of an idea at all, as to the productivity, if I talk to you products. I need
+to talk to you about man month's introduced. That's meaningful. Having said that, our man months introduced this quarter were less
+than the man months introduced last quarter. But that happens. I mean, it's not a linear thing because if you can imagine, the number of
+products we have in development and some of them have three man month maturities or design times and others have 40. You got
+peaks and bubbles. We expect clearly for the year that our man months introduced will be up from last quarter, last year's man months
+introduced. There is irregularity quarter to quarter. Remember a couple of quarters ago there was a big blip, positive blip. I think we
+introduced 46% more man months in one quarter over another, if I recall. And, you know, that's not normal either, right.
+ 
+Jack Gifford Maxim Integrated Products - Chairman, President, and CEO
+We -- no, obviously, we've done some things that we want to -- you know, we didn't feel across the board in the entire company we didn't
+feel it was appropriate to pay bonuses out as if we were blowing the balls off things and so everybody in a cooperative way have had their
+bonuses reduced in some cases -- my case 100%. On average, the cash reduction of bonuses has probably been 50%, maybe lower.
+Maybe 40. But it's in that ballpark. We want to restore it which we think that we are delivering results that people are going to -- our
+share holders will be happy with. Same goes for, you know, we have a salary freeze for everybody which, you know, has -- which started a
+couple of -- started in Q1 I guess but that's -- that has -- if you take average increase of 3, 4, or 5%, we aren't doing that, so we won't
+reinstitute that until -- our thought was it would be four quarters from Q1, because we wouldn't be fair to the ones getting reviewed in the
+fourth quarter to not have a freeze and the other ones to have it. Our objective is to restore that as soon as possible. The other thing,
+though, that we are planning on doing, going forward here, our first priority is to meet our head count requirements in the product
+development area and we feel that, as I told you in previous meetings, with the acquisition of Dallas, fortunately we have abundance of
+engineering might be too dramatic a statement, but our head count already puts us in good status to meet our new development plan
+ 
+without adding anybody this year. We are, though, going to hire, continue to hire critical engineers as they become available to us. That
+can make contributions.
+ 
+Jack Gifford Maxim Integrated Products - Chairman, President, and CEO
+There is no doubt that the Dallas people are making a significant contribution in engineering productivity. We are very happy with the
+products that are launching, the minute we reduced the iteration rate, the definition quality is improved and ability to improve
+tremendously. They are well along, they are ahead of the plan we had for them as to where they would reach this level of maturity and
+professionalism. I'm quite happy with them. They are right now as good as anybody else has got or probably better. We are getting that
+pickup. There is no doubt about that.
+ 
+Jack Gifford Maxim Integrated Products - Chairman, President, and CEO
+53% last -- wait a minute. Am I right on that, Carl? I'm not right.
+ 
+Jack Gifford Maxim Integrated Products - Chairman, President, and CEO
+Turns shipped, as Carl hands me this,  -- I'm sorry. You better just -- Q2 actuals Maxim and Dallas. What am I looking at? This is the
+wrong column. Q1 turn ship was 61%. The Q2 turn ship were 75%.
+ 
+Jack Gifford Maxim Integrated Products - Chairman, President, and CEO
+Shipped  -- we shipped  million out of  turned and quarter before we shipped  million out of  million.
+ 
+Jack Gifford Maxim Integrated Products - Chairman, President, and CEO
+No. No.
+ 
+Jack Gifford Maxim Integrated Products - Chairman, President, and CEO
+Yes. That's right.
+ 
+ 
+Jack Gifford Maxim Integrated Products - Chairman, President, and CEO
+First question absolutely identified it. We're counting on turns. That's shakey. You got to be able to ship the turns, too. We don't want to
+get something, you know, better could happen but we can't predict -- we have to execute on that.
+ 
+Jack Gifford Maxim Integrated Products - Chairman, President, and CEO
+I don't have it. I should have it, but I don't. I'll find it out if someone wants to call. I can give you that advice
+ 
+Jack Gifford Maxim Integrated Products - Chairman, President, and CEO
+I just don't know what it is right now. It's up enough that I should know it.
+ 
+Jack Gifford Maxim Integrated Products - Chairman, President, and CEO
+We will take that to death. We are going to take that to commodity stage. We will be the leader in 802.11 chipsets. We have good
+partners. We are doing everything anybody would want. Our technology is -- we get better performance and high levels of performance.
+We're doing the B, the A, the A+G, all of them.
+ 
+Jack Gifford Maxim Integrated Products - Chairman, President, and CEO
+We already are. Absolutely. We are definitely -- I think you could confirm with our customers that we're more than a threat to them. I
+think you got it backwards.
+ 
+Jack Gifford Maxim Integrated Products - Chairman, President, and CEO
+I'm trying to see. Why would it come back.
+ 
+Jack Gifford Maxim Integrated Products - Chairman, President, and CEO
+No. No. We didn't write off anything that didn't have some -- we're not doing that. We don't do that. The inventory we write off has some
+basis for being written off.
+ 
+ 
+Jack Gifford Maxim Integrated Products - Chairman, President, and CEO
+Yeah. That's right. You said it.
+ 
+Jack Gifford Maxim Integrated Products - Chairman, President, and CEO
+We want to be -- with revenue growth, we would like to be back where our total below the line is in the  to 27% area.
+ 
+Jack Gifford Maxim Integrated Products - Chairman, President, and CEO
+That's just due to them reducing inventories. You know, improving their book to bill or whatever you want to call it, and we're part of that
+problem, if -- it's not a problem, but we are careful about not shipping into inventory for them. We don't want them to have inventory,
+particularly because in some cases they can return it, you know, and at Maxim it's difficult we don't have policies that allow it. It's just as
+much our inventory management of their inventory than anything else.
+ 
+Jack Gifford Maxim Integrated Products - Chairman, President, and CEO
+Okay. You're welcome.
+ 
+Jack Gifford Maxim Integrated Products - Chairman, President, and CEO
+I wish that some of the business managers had heard that comment. I'm laughing because obviously they took some prisoners. But there
+is no -- there is no basic pricing problems out there. But we don't want to lose business on price. We don't want to be -- we don't want to
+be destroying markets either, but if we got -- most of our business comes from products we designed in. In the Dallas cases, they lost
+orders on businesses they had invented, which they won't do any more because they didn't choose to be competitive, either consciously or
+unconsciously. We got the cost structures to not lose orders. So, we won't lose them. But I don't -- nothing has happened since the last
+conference call that changed that environment.
+ 
+ 
+Ross Seymore Deutsche Bank Securities, Inc.
+Great. A bit more of an industry level for quite some time we have been hearing that turns orders historic highs as a percentage of total
+revenues and visibility was at historic lows and people keep saying that that can't last but it seams to be more persistent than anyone
+imagined. In your experience, what will turn that around other than the obvious answer just simply being demand?
+ 
+Jack Gifford Maxim Integrated Products - Chairman, President, and CEO
+You know, the visibility, the customers are just -- are not prepared. They want flexibility. They are realizing their markets are fickle.
+Today's world is -- quick is good and slow is dead. They got to anticipate what people are going to buy, and have it. So their interest in
+inventories is more than an economic one. They just oftentimes don't -- have a lot of notice as to where they will get to and go to and
+which products are going to sell and which are not. We don't like to -- I can remember years ago that it was sort of a statement to say,
+"I'm in the consumer business." But frankly, a lot of what has sold in micro electronics today is a consumer product. If it's -- an
+automobile is. Computer as consumer product. Like it or not, we and our customers are in the consumer business. We are not, you know
+-- our industrial market segment is material, but it's not a majority of it. So, any time you are selling product that depends on the
+consumer's desires, it ripples back to us, too. They want flexibility, our customers do, and I think this idea of long -- of no long-term
+planning is really actually is planning. They really want to be able to react quickly to change. Now, where that blows up on them is where
+they are so hand to mouth, and so ready to move in one direction or another, which something does take off or we have a turn, we have
+growth which we will have, they get in situations where their suppliers can't react. That's what you will have happen.
+ 
+Ross Seymore Deutsche Bank Securities, Inc.
+Great. Thank you.
+ 
+Jack Gifford Maxim Integrated Products - Chairman, President, and CEO
+That's not correct, by the way. That's not a correct statement. Our major competitive is not Linear.
+ 
+Alex Burmann NG Edwards
+I guess [INAUDIBLE] would be similar company.
+ 
+Jack Gifford Maxim Integrated Products - Chairman, President, and CEO
+That's not even correct.
+ 
+Alex Burmann NG Edwards
+Okay.
+ 
+Jack Gifford Maxim Integrated Products - Chairman, President, and CEO
+ADI are more similar than it is to us.
+ 
+Alex Burmann NG Edwards
+Okay. Got it. Fair enough. They talked about some issues with ASP's, not a problem but due to package sizes and mixed shipping to the
+consumers, they talk about a pricing sort of coming down to them in the last quarter. Is that a trend that you have seen at all, or do you
+think it's an industry trend. I want to get your take on that?
+ 
+Jack Gifford Maxim Integrated Products - Chairman, President, and CEO
+Not to delve in ltc's business, I don't know it very well, our ASP's frankly -- our products are being more integrated, a higher level of
+integration, which doesn't say they are any more profitable but that means ASP's will not go down, they will probably go up. In other
+ 
+words, if you go from building chips of one size to chips that are now 50% bigger, you must be selling more content, so you get a higher
+ASP. It doesn't say anything about your gross margins. So, I don't think ltc -- I know, they don't sell the level of integration that we do. For
+instance, they don't build any of the wireless lan stuff. They don't build the phone stuff, the complicated data converters that are big. So
+-- and expensive. So, it's not surprising that there ASP's might go down. It doesn't mean the margins will go down, and consequently
+because it doesn't go down or up doesn't mean the margins will go down or up either.
+ 
+Alex Burmann NG Edwards
+Also, do you -- just looking through the 30,000 [INAUDIBLE] you are thinking of yourself as a 30% growth company. I guess you are
+looking at the end markets, if I look at a lot of them, they appear like they have slowed not so much for GDP reasons, some they slowed
+like wireless, pc, they don't grow as fast in the future as they did in the past.
+ 
+Jack Gifford Maxim Integrated Products - Chairman, President, and CEO
+You got a lot of insight that I don't have have. I just see the wireless business exploding. I can't imagine anything being built in the future
+that doesn't have a wireless connection. We disagree.
+ 
+Alex Burmann NG Edwards
+I'm pointing, specifically to the wireless hand set.
+ 
+Jack Gifford Maxim Integrated Products - Chairman, President, and CEO
+I guarantee you that analog phone sets won't grow and GSM won't grow. That's small, nobody expects them to be growth areas. What
+you are implying is that low cost data, voice and data is not going to be desired more in the future than in the past. I just don't agree with
+you.
+ 
+Alex Burmann NG Edwards
+No, I agree with you that demand will grow, I'm saying if you look at each of the end markets, it seems that the growth rates have slowed.
+ 
+Jack Gifford Maxim Integrated Products - Chairman, President, and CEO
+I really can't comment on that. You are much closer than I.
+ 
+Alex Burmann NG Edwards
+Fair enough. One final question. Just, I mean, it seems like most of the other companies in semi's that I follow break down revenues in
+application and it's helpful to investors. I know you haven't done it in the past. I'm not suffer if it's something that you -- a lot of people
+ask. Every conference call people ask what is the revenue per application. You say you don't want to say.
+ 
+Jack Gifford Maxim Integrated Products - Chairman, President, and CEO
+It's Proprietary. Where our product planning and direction goes is, you know, that's proprietary as the product itself. We are not
+interested in having our competitors know where we are focusing.
+ 
+Alex Burmann NG Edwards
+All right. Thanks.
+ 
+Jack Gifford Maxim Integrated Products - Chairman, President, and CEO
+I want to comment one more time on that last question. I also don't believe our shareholders who own our shares would be pleased with
+me giving away that information because it's not in their best interest either.
+ 
+Joseph To Lehman Brothers
+Jack, I missed the beginning of the Q&A. Could you go over the revenue and market guidance. Gross margins.
+ 
+ 
+Jack Gifford Maxim Integrated Products - Chairman, President, and CEO
+Gross margins in the 70% area. Revenues will be right now as best we can tell will be flat.
+ 
+Joseph To Lehman Brothers
+Okay. Secondarily you guys purchased a bit of capital equipment this quarter. Any specific reason? Cheap or increase capacity or what
+was the reason behind that?
+ 
+Jack Gifford Maxim Integrated Products - Chairman, President, and CEO
+We actually have, you know, the equipment we are buying is to increase our test capacity, actually. There is growth. The growth are
+requiring in different packages. It's been a package evolution. So, we are buying handlers for packages that, you know, we didn't have
+enough of. And -- very little, I mean, it's a small number. It's not a strategic issue. There is no news other than that in our capital
+purchases.
+ 
+Joseph To Lehman Brothers
+All right. Thank you very much.
+ 
+Jack Gifford Maxim Integrated Products - Chairman, President, and CEO
+I think -- yeah, I think our process technology helps us immensely. Because of what we can do with our process and with the -- it allows
+us to use architectures that basically give higher performance than our competitors. The -- these are things like noise slowers, other
+things that are sensitivity determining issues. It also allows us to do that and provide a high level of integration. And I think we are clearly
+benefiting from that. Having said that, there is definitely a price floor or price ceiling. It is a cost driven market, not driven as much by our
+competitors as by the applications. So, you know, I think we have -- I think we have advantages both in performance and I think we have
+advances in cost as a result of our process technology and design choices. But I think we also did a good job of recognizing that this was
+an area that -- To be in and we began in that area early. And that's always a key thing to do. Mostly deciding what not to do and what to
+do. And that's how you win or lose. And, so, we made the best in that area versus other bets we didn't make and I think we will be in good
+shape because of it.
+ 
+Tore Svanberg U.S. Bancorp Piper Jaffray
+Very well. Would you care to comment on a ballpark number how much your revenue comes from silicon, germanium wafers.
+ 
+Jack Gifford Maxim Integrated Products - Chairman, President, and CEO
+ or 15%.
+ 
+Tore Svanberg U.S. Bancorp Piper Jaffray
+Okay. Very well. Just finally, you know, just based on some of the questions that were asked earlier, comparing with other companies, if
+you look at Maxim today, how much would you defined Maxim being pure analog versus mixed signal.
+ 
+Jack Gifford Maxim Integrated Products - Chairman, President, and CEO
+Pure analog less than 10%.
+ 
+Tore Svanberg U.S. Bancorp Piper Jaffray
+Excellent. Thank you very much.
+ 
+ 
+Jack Gifford Maxim Integrated Products - Chairman, President, and CEO
+Okay. Yeah, it's not something that has just occurred Clark. It's going on a couple of years, maybe longer. But it is obviously -- it's
+something that the distributors have had to do to stay in business, frankly. The conduit manufacturers have said we want this inventory.
+We will not be responsible for it. If we don't want it, we can't use it, we will give it back to you. It had a result, we did take an action a year
+ago as a result of that, what was going on and what was happening, our distributor, the distributors, I don't blame them for this, but they
+have these arrangements with integrated circuit companies which for years to me have been untenable but they would be able to return
+inventory that they bought from a semiconductor industry company at -- with no liability. In other words, they could order whatever they
+want. If they said I want a million of these parts in my location and be able to return them, the distributor could literally order that from
+Texas Instruments or us or ADI and we would build them and ship them and give them to the contract manufacturer and if the contract
+manufacturer could only use half of them, he would return the other half and they would then return them back to the semiconductor
+company and they are allowed to return 5% what have they buy every quarter. So they could get them all back to the IC company. The
+thing that is disastrous about that, these parts, they would buy them in such big quantities, that there wasn't another market for them.
+And because Maxim's business is highly proprietary meaning there aren't multiple sources for most of our stuff and this was a really
+dangerous situation that was expanding, we developed a policy which is called noncancellable, nonreturn parts. So -- and most of our
+product line is that. And it was put together primarily to eliminate that liability for us. In other words, if a distributor buys one of these, he
+owns it. If he wants to buy them and give them to a conduct manufacturer and take them back, he can do what he wants to. But he can't
+pass on that liability to us.
+ 
+Jack Gifford Maxim Integrated Products - Chairman, President, and CEO
+We don't actually take any accounting advantage of that, although we could, clearly could. But we just treat all of the inventory with our
+distributors as consigned inventory from an accounting point of view and only take as revenue the delta that they ship. But we could, in
+fact -- do what you said with you we won't do that.
+ 
+Jack Gifford Maxim Integrated Products - Chairman, President, and CEO
+That's correct. And they have -- I don't have the exact number, but I think they have return privileges on probably maybe 30%. Less than
+half of our product.
+ 
+Jack Gifford Maxim Integrated Products - Chairman, President, and CEO
+We don't make base end processors. We do.
+ 
+Krishna Shankar JMP Securities, LLC
+So other companies with the baseband.
+ 
+Jack Gifford Maxim Integrated Products - Chairman, President, and CEO
+We do.
+ 
+Krishna Shankar JMP Securities, LLC
+Are you shipping the 802.11A and G transceivers and power amplifier in volume now.
+ 
+Jack Gifford Maxim Integrated Products - Chairman, President, and CEO
+No, not in volume.
+ 
+Krishna Shankar JMP Securities, LLC
+Okay. Thank you.
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+CONFERENCE CALL PARTICIPANTS
+ 
+Tore Svanberg US Bancorp Piper Jaffray
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+Thanks, Carl. I'm going to begin with some prepared remarks and then we'll take your questions. As the press release stated, orders were
+up for the company overall 14% from last quarter. And last quarter we indicated that while Maxim's bookings without Dallas were up 4%
+for the previous quarter, Dallas bookings were down 10%. For the quarter just ended, Maxim's bookings without Dallas were up 11%, and
+we are happy to report that Dallas's bookings were up 22% from the second quarter levels.
+Having said that, we would like to see Dallas bookings rise from their current levels of  million a quarter up to over  million a
+quarter, and our basis for that desire is that -- prior to our acquisition of Dallas, they had a peak bookings quarter of approximately $200
+million. Of that,  million were bookings from their telecome business unit which today is only booking  million per quarter. But as you
+can see, netting out the difference, the division should be capable of realizing bookings above their current levels.
+Turns orders for the third quarter were $165 million or 54% of net bookings, and we shipped approximately 72% of those terms. The high
+percentage of turns orders coupled with continued low cancellations tell us our customers are continuing to order for their immediate
+needs. There is no inventory build up with our distributors or customers. In fact, inventories at our distributors have gone down for the
+past several quarters.
+Breaking out geographic revenue -- our revenue geographically, our bookings for the third quarter were: 35%, the United States, 36% in
+the Pac rim; 20% in Europe; and and 9% in Japan, not changed from the previous quarter. Although most of you know, we don't provide
+a breakout of our bookings by end mark. I would say the bookings for our power management business units which were more than one
+were collectively up 18% over the previous quarter and bookings for the wireless and wire line business units were up 25% and our
+standard products business units which are the broad broadest of all in the company were up 17%.
+Despite continued U.S. unemployment, demand for Maxim products continues to grow. We attribute the growth to our success in new
+product markets, that it required three to four years to penetrate. This penetration of new markets is part of our long-term directions,
+most of you know, and we believe that we are on plan.
+Bookings for or first four weeks of the fourth quarter are fairly encouraging and running approximately 13% ahead of where they were for
+the first four weeks of the last quarter, but we are not jumping to any conclusions based on four weeks of data which typically, you know,
+could not be representative of the quarter. But we don't have to sustain that right either to have a good fourth quarter. We currently plan
+for revenues to increase sequentially in this fourth quarter with a penny increase in earnings per share to  cents a share. But I'm going
+to wait -- we're going to wait until we are further into the fourth quarter to be more specific about revenue growth. Our current plan
+depends on our booking and shipping about $110 million of turns orders during this quarter.
+We would like to begin building backlog so we are not as dependant on turns as we have been in the past couple quarters, and we did
+some of that last quarter. We would like to go forward with that plan. Historically, Maxim's quarterly revenues have been derived from
+shipping less than 40% of its turns orders. As I commented earlier, last quarter we shipped over 70% of our turns orders.
+ 
+Gross margins for the company overall were 69.9%, up slightly from the second quarter gross margin. The increases were due to product
+mix and manufacturing efficiencies we realized during the quarter. We very proud of the improvement of Dallas Semiconductors' gross
+margin over the past several quarters. And this quarter, Dallas Semiconductors' gross margin continued to increased about a half a
+percent to 63.2%. This is higher than almost all semiconductor companies. We have continued to make progress reducing on shore costs
+at Dallas. We have almost finished moving all of their end-of-line operations offshore to the Philippines. During this quarter, Dallas costs
+will continue to go down as a result of continued moves offshore, conversion to 8-inch wafers and improvements across the board in
+manufacturing yields.
+Operating margins for the corporation were 39.2% of net revenues. As we have stated before, we are continuing to work toward our goal
+of achieving a below-the-line spending level of 25% of revenues. This will come primarily as a result of revenues increasing. Although
+R&D spending was down slightly in the third quarter, we did add  development engineers and plan to add another  development
+engineers in the quarter we are in. Generally speaking, we have not seen any real degradation in average selling price over -- and we
+attribute that almost entirely to the fact that our products are -- an overwhelming majority of our products are proprietary and owned by
+Maxim.
+During the quarter, we generated $11 million of cash after spending $20 million to repurchase 650,000 shares of stock. By most
+standards, our consistent cash generation has been and continues to be very impressive. Based on our profitability and our outlook and
+our need for cash, the board has voted to increase the quarterly dividend from  cents a share to  cents a share as Carl pointed out.
+During the quarter we introduced  engineering man-month of products in the quarter that ended April 26th, and this is compared to
+ engineering man-months of new products introduced during the quarter. Many of you know now that we are measuring our
+productivity, our product development efforts in terms of the man-months contained with a product, as it is a better account for the
+increase and variability in the product complexity.
+New products continue to be extremely well accepted in this marketplace. This quarter, we had important design winds in the latest
+generation of notebook computers, in 02.11 wireless lands, cellular handsets, portable medical devices, high speed data networks,
+security equipment and other areas. Our fiber business unit is continuing to diversify their direction into high speed applications and they
+are also experiencing -- beginning to experience revenue increases in the -- primarily in the data com area.
+Talking now about manufacturing, our conversion of processes to 8-inch wafers in our fabs in San Jose and Dallas are proceeding
+approximately on schedule. Dallas is behind a little bit but San Jose is on schedule. The conversion to 8-inch wafers at our San Jose fab is
+complete, and if demand allows, we will shutdown the 6-inch production over the next several quarters. At our Dallas fab, we are
+running qualification lots and planning to ramp 8-inch production over the next several quarters. While we are doing this, we are
+incurring approximately a million and a half dollalrs a quarter of R&D expense. We have over the last couple quarters and it will continue
+until the qualification is completed.
+By end of fiscal  which would be beginning of -- well, beginning this quarter, a year from now, the company will be shipping 45% of its
+revenue on 8-inch wafers. Our three wafer fabs are running today at about 55% capacity. We currently have a capacity in place,
+equipment and facilities to ship over $500 million dollars per quarter. We are shipping approximately  million per quarter. With
+additional equipment in our existing facilities, we could ship approximately $1.2 billion per quarter. This increase -- these increases in
+output would obviously further reduce our manufacturing costs.
+Although we had hoped to increase our inventory slightly in the third quarter, our inventories actually fell $4.2 million. Our plan for the
+fourth quarter is to increase manufacturing output above third quarter levels to support our expected increase in demand. During the
+fourth quarter, we expect to purchase land in Thailand in which we will build a new end-of-line facility, but construction will begin this
+quarter and end by fiscal -- by the end of fiscal '04. At that time, we will be able to ship approximately half of our production from that
+facility. We currently ship about 28% of our product from a manufacturing facility that we in Thailand, that is on -- in a leased building.
+Some one of you will probably ask something about SARS and its affect on Maxim. We have no fab or test facilities or manufacturing
+ 
+facilities in China. Therefore, we are not going to be affected.
+I would like to talk a bit about stock option expensing if you will allow me. In Maxim's view on the possibility of new regulations that
+could impact effectiveness of many technology companies and, therefore, the growth of our economy in the United States. We are
+opposed to the expensing of stock options and stock option expense regulations currently under review, and we are opposed on two
+fronts. First, it is bad accounting, pure and simple. Secondly, we strongly believe that if these regulations are put in place they could
+severely damage the U.S. leadership position over other countries regarding technology innovation.
+The United States has attracted the best talent from all over the world because -- through options, shareholders have been able --
+entrepreneurs and employers to share in the success of their companies. We are at risk of weakening the tremendous employee
+commitment that has successfully fueled our U.S. competitive advantage. The potential damaging long-term affect of our nation -- on
+our nation's economy and our lifestyle that would result from the force expensing of stock options should be taken very seriously.
+Maxim has always obtained stockholder, shareholder approval for our employee stock options. And our shareholders have approved our
+plan each year for the last  years. They have approved our plan because the company has performed well for them as shareholders.
+And this partnership has been in place, you know, since almost the beginning of our company. We totally support making stockholder
+approval of stock option plans mandatory. We also strongly disagree with the effort being made to expense stock options. With that, I'll
+open the call to questions.
+QUESTIONS AND ANSWERS
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+Yeah. I commented on that. Our company runs much better if we're only requiring to turn  or 40% of our available turns in on a given
+financial period. So we would like to not be having to turn 70% of what we book for turns or ship 70% of what we book for turns during
+the quarters. So that's -- to use your phrase that's kind of what's behind it.
+ 
+Tore Svanberg US Bancorp Piper Jaffray
+Very well. And 14% increase in bookings, can you talk a little about some of the areas of strength that drove that level?
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+Yeah. We were -- we had strong bookings in virtually every -- every business area. I think  of our  business units had increases of over
+10% quarter over quarter and I think  of them had increases of maybe as much as 20% quarter over quarter. I don't remember the
+number exactly. We only had one business unit that did not have increases, and that was the basically in the ATE area. But other than
+that, we saw growth everywhere. Fiber -- you know, I'm comfortable or I feel a lot better about their direction and they are beginning
+actually to have growth again.
+ 
+Tore Svanberg US Bancorp Piper Jaffray
+Okay. Very well. And finally, I think last quarter you indicated that about 15% of your wafers were silicon-germanium based. Is that
+primarily for own internal production or does some of that include foundry services as well?
+ 
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+Yeah, there is a small amount for foundry services. But you're right, Tore. We do provide a servoce like TSMC, and like IBM. We have
+technologies others don't have. And we do offer it to our -- in customers to do designs with. But it is not a material number.
+ 
+Tore Svanberg US Bancorp Piper Jaffray
+Excellent. Thank you.
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+Well, Michael, thank you for your nice comment about the company, but I want to make sure based on your question I want to make sure
+I didn't confuse people. I said we needed to ship for turns  million. But like as you know or as you may know we did turn last quarter,
+and, in fact, for the last couple quarters we booked for turns over $160 million or $164 million last quarter which was a record quarter. I
+think we have to go back almost two years where we found a quarter where we booked for turns as much as we did last quarter. It was a
+very -- you know, it was a positive quarter. And my  million number was simply a number that if we, you know, that we are now looking
+at as a drop dead low number that we would need to turn to ship an acceptable number. I also commented that we don't have a revenue
+plan finalized yet for the quarter. We want to see how the quarter goes forward before we finalize that.
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+It's in.
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+We will actually get a -- excuse me. Carl is collecting me.. There is a little increase. Maybe you want to comment on that?
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+I think the net result is not much -- whatever. If you need the number we'll give it to you. It is not a material number.
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+One thing that will come off. I mean, we're spending a million and a half for expense to qualities processes. So that will stop -- sometime
+during the year.
+ 
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+None. No further correspondence. Our position has not changed.
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+Well, lead times moving out is a negative issue. You know, they come about because customers place orders on you that you don't
+anticipate. You know, when your turns orders are as high as ours are now, people are very much in jeopardy of having lead time
+problems. Because on average our lead times haven't moved out. There have been areas where they clearly have because of these
+accelerated, unpredicted and unplanned booking levels.
+ 
+Ross Seymour Deutsche Bank
+Okay. So you think that will be more the disruptions of the supply chain that will bring it up quicker than just an over all increase in
+demand these days?.
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+Well, it is the increase in demand that brings it up. It is the fact that customers are operate -- it is amplified by the fact that customers are
+number one, don't have as good a visibility in long term -- their changes -- change is in demand and demand changes occur to them --
+occur on them -- occur to them, excuse me -- without a lot of visibility. So I believe as I commented last quarter, I think that's happening
+more often now than it has in the past. They aren't having to react and they can't see very far ahead and I think they are -- they are seeing
+increases and changes in demand, and I think the other thing that's maybe causing their -- the high level of turns that we're getting is
+that they, again, still are trying to not end up with obsolete inventory, and they want to control their inventory levels in their spending.
+But I think the two together do result in disruption and longer lead times, and I think you are going to see these disruptions. You know,
+they are occurring -- they are occurring now. You just don't see them in the overall numbers.
+ 
+ 
+Ross Seymour Deutsche Bank
+Okay. And One follow-up on the other side of your wireless business, the wireless land business. You have some good traction in the B
+market, specifically with your radio. And I wanted to see two things -- one, the pricing in that market, have you noticed material changes
+there? And the second point, with that market in general moving over to 802.11G in a little bit more volumes, do you have that in the road
+map and product to be introduced anytime soon?
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+Yeah, I think -- as I have seed before, anytime you sell products into a regulated product description, you can expect a blood bath. And
+we went into the business knowing we were going to have to be the low cost producer and we are. And it is not one of our high profit
+margin areas, but we obviously planned for that. So, you know, there has been price attrition which certainly we anticipated and are
+comfortable with, and the G business is one that we intend to be a leader in that particular 802.11 arena with regard to all the variety.
+ 
+Ross Seymour Deutsche Bank
+Okay. Great. Thank you very much.
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+I don't know the answer to that question on this phone call.
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+I don't look at it as a negative toward Maxim. I think Dallas has the potential to do very well. We wouldn't have bought the company if we
+didn't see the potential in the people and the proprietary product lines and the technologies that are proprietary, and its breadth as I
+tried to point out. They actually had the potential to book a couple hundred million per quarter, and they have done that. I am
+disappointed-- we are all disappointed that they were hammered so badly during this downturn. But we're not surprised -- would not be
+surprised for them to do materially better than they are doing.
+ 
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+That was -- like I pointed out, that was an abberation and it was not a strategic issue then or now.
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+We actually did not achieve our objective of increasing our moves to the level I reported we were going to try to do, you know, at the last
+conference call. We increased them and I don't have the numbers at my finger tips. Sorry about that. I can give them to you later. But we
+-- had we -- had we achieved the moves increase we planned on, we would not have built the -- we would not have reduced our
+inventories all of the $4 million.
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+The fab moves?
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+I have the number, but, you know, I'm going to be guessing if I try to remember it.
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+I don't have it in front of me. I'll have to give it to you off of this call. Okay?
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+Call me.
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+As to whether or not gross margins will increase or in terms of what we report in Q4?
+ 
+Brian Wu Bear Stearns & Company
+Yeah, is that a possibility?
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+I would expect that we my see -- we might see a couple of basis points or something, you know. It is a slow process but we're not -- you
+know, as we get toward  or 80% utililization, it would be a material number, and I think as Dallas gross margins continue to increase it
+will be material, but you are not going to see a material affect in Q4. You will see it maybe -- I mean, it will be flat to up slightly gross
+margins.
+ 
+Brian Wu Bear Stearns & Company
+Okay. And follow-up, with you guys not giving sequential revenue guidance today, does that imply you might be holding a mid-quarter
+update sometime during this quarter?
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+It definitely implies that as soon as we know for sure what the revenue -- what we're going to ship, we will communicate it. We haven't
+yet. It is just too early in the quarter. And we had a big -- we have had two quarters of big booking screw-ups. We went from  million
+to --  million to  million and now we're up to  million bookings. I want to see the slope of the line first. I want to see what
+happens this quarter before I write in stone some sort of a revenue number.
+ 
+ 
+Brian Wu Bear Stearns & Company
+Okay. Thanks a lot.
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+Actually it is more product oriented than macro economically oriented. I think relative to your point -- your question though. In the metro,
+the telecom segment, we are -- the inventory situation has been pretty well corrected, and I think there is some buying there, you know,
+of telecom-related fiber products. In the datacom area, you have a different scenario altogether. There never really has been an inventory
+problem. As you may know, the datacom market has -- the datacom products from a performance point of view have gotten very fast,
+and they really do need fiber connections on their back planes. And we have been, you know somewhat innovative in these areas, so our
+new products are enjoying some success in new equipments. That's really what we're seeing there. But I think it is a long-term positive
+trend and you will see the value of fiber products and the datacom market continue to increase.
+ 
+Christopher Caso SoundView Technology Group
+Okay. Great. Just a follow-up. Maybe you can comment about the impact of Intel [Centrino] launch on your notebook revenues. I know
+have you a good share there. If you could talk about it perhaps in what you saw, you know, benefit from [Centrino] units and extra
+contents in [Centrino] during the quarter.
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+I mean, you are asking me a question about whether Intel sales -- notebook sales will increase because of the wireless connection, aren't
+you?
+ 
+Christopher Caso SoundView Technology Group
+Well, maybe you could put it in terms of -- you know, what changes for Maxim as you go from P4 notebooks to [Centrino] notebooks in
+terms of maximum content. Maybe you can put it that way.
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+I don't think [Centrino] by itself, other than the radio helps our revenue cross-section in the notebook market. I think the notebook market
+-- we're gaining content because we're -- in the notebook, because we are doing a load of functions that we weren't doing. The [Centrino]
+idea is going to help our wireless product sales because all old and new notebooks are probably going to have a wireless connection, but
+I think probably we're going to get more benefit from the after-market sale of notebook -- of radios than -- you know, I guess I'm a little
+presumptuous here with to be commenting on what Intel has spent hundreds of millions of dollars to figure out, and that's whether or
+not a wireless notebook is going to increase the sales of -- the overall annual sales of notebooks. I would rather them answer that
+question than me. I don't build notebooks. My opinion and yours would be about equally weighted there.
+ 
+Christopher Caso SoundView Technology Group
+Okay. Sure. Safe to say as far as your content and perhaps some increase due to wireless content but --
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+I think, clearly, it will increase. But this is not because of [Centrino]. We believe that the notebook is a more useful tool if it is wireless
+connected. People have been selling notebooks with slots for wireless cars for well over a year. And I think, you know, if you take a look at
+the install base of notebook, they are all a potential to be made wireless, right?
+ 
+ 
+Christopher Caso SoundView Technology Group
+Sure. Sure.
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+And so that's got to help sales of radios and people who make components that go into radios should benefit from that.
+ 
+Christopher Caso SoundView Technology Group
+Okay. Thank you.
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+Yeah, he was speaking of Japan. In our press release we said that our bookings were up in all markets except Japan. They were down
+which is accurate also, but that included -- those were our distributor orders on Maxim for Japan. But if you look at customers in Japan
+big Maxim products for our distributors they were up. But the Japanese distributors didn't order from us.
+ 
+Brian Wu Bear Stearns & Company
+I see. Okay.
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+We wanted to clarify that because -- for the reasons you are asking, actually.
+ 
+Brian Wu Bear Stearns & Company
+Jack, the -- we have been in these environment so long, I was wondering whether its going back to the original Maxim model where you
+only ship 40% of the turns orders you get. Is viable until you have much higher operating rates. I know you like to have visibility.
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+We will go to 70% to 40% in one quarter. I agree with you. That is not realistic. But clearly a Maxim would run -- I mean, we're going to
+operate better if we can move that number down as reasonably as we can.
+ 
+Brian Wu Bear Stearns & Company
+Uh-huh. Jack, based on what you see out there --
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+let me make one more comment on that, David. It would not be in our best interest to create delinquencies in order to do it. We're not
+going to do something stupid.
+ 
+Brian Wu Bear Stearns & Company
+Okay. Jack, if you look at your total end markets, if ten of your  business units have bookings north of 10%, other than those two
+business units of Dallas in the past -- making up past strengths, would you say that the breadth of your recovery of your bookings right
+now leads to you to suspect maybe the -- your customers are more optimistic than what they are telling investors in the conference calls?
+I would think the bookings are more realistic -- it's like their expectation of the June quarter as opposed to what they officially guide to
+the street.
+ 
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+I think we are in the early quarters of seeing some healthy growth. I think their being conservative is probably -- I think they are being
+reasonable. I don't think they are euphoric. You have to remember that what you're probably seeing now, and as a general statement, is
+you're probably seeing business as normal. I mean, inventories have been depleted and what you are seeing now is true consumption. I
+think you are also seeing companies change pecking orders, places on the pecking order list by having to do with which companies have
+got their products designed into the new generations of -- well, a theoretical example, I don't want to you run back and say Jack said
+we're dominating SISCO, but to use SISCO as an example, SISCO's new generation equipment may have a higher percentage of Maxim
+products than the old generation. The pecking order's changed. That's truly a theoretical example. But that can cause some companies
+to have growth in -- with just normal -- you know, normal market growth now which I think is still embryonic. But maybe you will see
+some of that. But I would not -- you know, unemployment is high. We still have got -- I mean, consumer confidence has to get -- has to
+improve. When that starts to happen you will see more growth, but I think you will see companies that have higher growth rates than
+others primarily because their new products have shown up and have gotten into the new generation of equipments and other company's
+products haven't.
+ 
+Brian Wu Bear Stearns & Company
+Okay. Thank you.
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+I think there is no doubt we are benefitting from things we did three years ago. We have gotten ourselves into equipment we weren't in,
+and we have had a big jump -- I think we have had about a 20% jump compounded -- and I may be wrong on this number, but it is in the
+ballpark of 20% over the last three years, increase in engineering man-months introduced. Largely, as a result of ,-- we acquired a lot of
+man-months from Dallas. We had a huge influx of engineering effort. We've been able to invest over the last -- in the last  1/2 years. It
+has to help. It can't hurt. I think that's a fair assessment.
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+If you let time pass by -- I have  years experience in this business. If you have a period where people are burning off inventory or
+equipment sales have slowed down -- you can be in a design -- you can be in a generation of equipment and never sell anything. When
+business starts up again, your customer is starting to ship a new generation of product and you are out of it. So you can miss a family of
+products, can miss a whole generation if there is no demand for your product at the time. They don't just sit there with the old design for
+four years, you know, waiting -- they design a new generation. I don't know if I made myself clear.
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+Well, I think people are going to miss a major portions of a product cycle, yeah, I really do. I think enough time has gone by, what, two
+years? I think there will be some of that, for sure.
+ 
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+I mean, I may be an optimist and obviously I am biased, but I think we will benefit from that.
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+Sure, you can. I would rather do it without tieing everybody up here, -- okay. But price per product is increasing. Complexities are
+increasing. I tried to allude to that. We have this huge inventory of man-months lost and then waiting to announce. So it is not a real nice
+smooth number. But I would be happy to -- I mean, relative to our long-range plan and generally that being on tack, we feel we are on
+plan. Relative to the products we needed to announce and launch and what we have launched and announced.
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+Yeah. We can. Let me just see if I can get to it. Okay. Quarter over quarter -- Carl, catch me if I get one of these wrong. The U.S. is up 8%,
+right?
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+9%. Oh, I've got the wrong end market book, is that right? What is that?
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+Oh, that's dollars. Okay. The U.S. is up 9%, Europe up 16, Japan is 5, Pac rim is 12.
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+Yeah, I said our business units have -- I have to interrupt, I didn't get to finish my sentence. I said our business units, you know, have
+demonstrated a more optimistic view of consumption. Their projections for the fourth quarter consumption of our product is up from
+what they projected, you know, a quarter ago and they are projecting currently it is over -- it is over  million, and if you go back, you
+know, a quarter, a little longer than a quarter and they were projecting something in the neighborhood of  million. So they are more
+optimistic now than four months ago.
+ 
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+That's an altruistic number. I don't know what a good use of the word is. That's a consumption number of that one I gave you, the one
+north of 320. They believe that's what is going into equipment.
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+Inventory -- in general inventory. Distributors' inventories or their own inventory.
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+That is a good question. That's a great question, and I'm going to find that out. I don't know the answer to that. I will analyze that. I
+would tell you if I knew. I hadn't even thought to look at that. We should.
+ 
+Casey [INAUDIBLE] Semiequity Capital
+Another question is on the management business. Do you see a lot of competition from Tiawanese, and can you comment on your gross
+margin going forward in this business?
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+Power management, it is a very broad field. I mean, if you looked at LTC, they call -- I mean, they sell mostly power management but
+they break it into-- they call their communications business -- they call our power management business in communications,
+communications. It is wherever you are selling a power supply related product, that kind of equipment. You know, that's what that is.
+And we -- I would say that we're, you know, we're having -- we're doing well in that area, we're penetrating new markets and we're doing
+more than holding our own in the existing markets. I mean, there are some businesses -- account by account, we could be losing designs,
+but overall we are gaining market share and power management.
+ 
+Casey [INAUDIBLE] Semiequity Capital
+What about in the desk top?
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+We're not in the desk top at all. That's the one area we are not in.
+ 
+Casey [INAUDIBLE] Semiequity Capital
+And what about notebook?
+ 
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+We are big in notebook and we have -- we have between  and 70% of the markets, you know for -- you know for -- well, for the
+products we have, I mean, we have large market shares in, you know, in each -- for each of the products. There are maybe as many as
+seven different segments of about -- in a notebook.
+ 
+Casey [INAUDIBLE] Semiequity Capital
+Okay.
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+But I could be wrong in that number  too. So don't hold me to that. And I do know that we have lost market share in one area, but we
+gained market share in several others. I know overall we have gained market share.
+ 
+Casey [INAUDIBLE] Semiequity Capital
+Okay. Good quarter, guys. Thank you.
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+You know, -- that's a good question. I would -- stock options got us here. I would be a fool to change our corporate business strategy. I
+believe what's going on is a political witch hunt. I believe it is illogical. I am going to completely ignore it. We are going to run our
+company as our shareholders have told us to. And as we do, we're going to continue to issue stock options. Maxim generates -- we
+basically could go -- do a pro forma cash accounting and you couldn't tell the difference. I mean, when we make $100 million of profit
+you could look in the box and find a $100 million in cash in Maxim. Regardless of what they do, we're going to continue to issue stock
+options and we're going to report both our -- if we're required to report expensing options we're going do that, and we'll report pro forma
+cash accounting. I'm confident that fund managers and people who manage money will -- they have already concluded that for them to
+determine how a company is doing they will have to look at the cash accounting and subtract out all these other ridiculous things. So,
+long answer to your question, but it won't change how we operate a bit.
+ 
+David Einhorn Greenlight Capital
+So then, I don't understand the -- if you are not worried about the earnings impact and the stock price impact from the options, what
+exactly then do you see as the threat to the nation's economy lifestyle?
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+If other companies are panics by this, and don't have the wisdom, the experience and they do short sheet their employees, and what
+caused them to grow, and they underestimate, you know, how important that commitment on the part of the company is to their
+employees are, what that will do to them. I am not worried about Maxim one bit. I think it can hurt the country terribly and it can level the
+playing field which Europe would love to have happen if companies have a knee jerk reaction. And try to run to a drummer that doesn't
+make any sense. It is more senseless in my opinion than companies trying to run their business in order to accomodate analysts --
+quarterly report and estimations of what you are going to do quarter to quarter. If you run your company trying to do that you can't run it
+well either. And we will not change how we run our company, and I hope others won't either. My editorial had to do with trying to sound a
+bell for them to not -- to ignore these also, but we're going to ignore it.
+ 
+David Einhorn Greenlight Capital
+Great. Thanks so much.
+ 
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+I'm sorry, would you start that over?
+ 
+Krishna Shankar JMP Securities
+I want to get a strength of the booking strength and newer products versus, you know, quote, unquote, old products, to what extent are
+we recovering bookings for all the products versus a products design in the last two years?
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+Well, you know, it is impossible to answer that question. Obviously, our new products have to succeed our older ones in new markets or
+we can't meet our plan. Our plans are dependant on that. I mean our older products atrophy out over a five to eight year period. The
+answer is -- the general answer to your general question is our new products are succeeding them and penetrating new -- not only new
+designs, but new markets and we have a plan that does require that to happen.
+ 
+Krishna Shankar JMP Securities
+Okay. Thank you.
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+Which quarter? The quarter we were just in, just finished?
+ 
+Parish Maneer Premier Financial
+Yeah, the one we just finished, the December quarter.
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+Well, would you have to take -- we had to ship 70% of our turns in order to do that, so does that answer your question?
+ 
+Parish Maneer Premier Financial
+Was it a conscious choice made by the management not to increase shipments?.
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+I think those of with you operational experience will realize that it is very difficult to be trying to ship more than 70% of what you turn or
+80%. It is chaos, so you don't want to be in a position where you are having to react to turns much higher than that. So obviously it was a
+conscious management decision, yeah.
+ 
+Parish Maneer Premier Financial
+Okay. That's what I wanted to know. And it wasn't a matter of not having the right mix, it was a matter of conscience, management
+position.
+ 
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+Well, it is a combination of things. There was a segment of turns we couldn't ship because the orders came in, you know, out of mix. I
+mean, there is some of that too. But I think -- we feel good that -- you know, we planned to ship 70% of our turns and we shipped 70% of
+our turns and I think we're more comfortable shipping a lower percentage of turns.
+ 
+Parish Maneer Premier Financial
+Thank you.
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+You will have to explain to me what you mean.
+ 
+Tom Thornhill UBS Warburg
+Multiple -- products where you are putting, say, DC to DC convertors in [INAUDIBLE] perhaps, and on a single substrate, or multiple
+LDLs on a single substrate versus the the traditional analog building products.
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+Okay. You mean an analog being like it is an amplifier or comparitor or reference, a single function, is that what you are talking about?
+Both being monolithic
+ 
+Tom Thornhill UBS Warburg
+That's correct. I'm asking if we're seeing more growth in the more integrated products.
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+Yeah, I think somebody asked a question similar to that a few quarters ago. They were surprised by the answer. But, we -- yeah, at
+Maxim, we call ourselves a mixed signal company. And that means a couple things. It means, number one, a large percentage of the -- of
+the electronics on a -- on our microchips is actually digital. Probably on average I would say that maybe 60% of the content of any -- on
+average of a Maxim product is digital. As far as having multiple functions that are either digital or analog, I would say that somewhere in
+the neighborhood of final 95% of our products, our revenues come from product that's have -- that are what you called multiple
+functions, you know, integrated where they are doing, you know, LDO's or combinations of microcontrollers and A to D converters. We
+have very little business that is pure analog.
+ 
+Tom Thornhill UBS Warburg
+Understood. Another company introduced a single-chip DSL product in the last few days integrating line drivers and power management
+into this, all -- the whole product into a single piece of silicon. Does this product threaten to change the demand for the power
+management functions or those sockets over time or is this a small event?
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+No, I think it is a natural progression. I think that -- I don't know the product you are talking about, but in some -- that could make sense.
+I mean, it depends on the partitioning of the customer and whether the voltages ranges allow it and -- but, there are some things that
+don't make sense to integrate, but that could make good sense. I can't tell without knowing more.
+ 
+Tom Thornhill UBS Warburg
+Thank you.
+ 
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+Not if I have a choice? No, I mean, historically if we go back through the many years, I think we average closer to 35% turns.
+ 
+Matthew Chan Merrill Lynch
+I'm sorry. I wasn't referring to turns business. You said you shipped 70% of -- of the turns orders that you got you only shipped 70% of
+that?
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+Yes, that's what I just answered. What did -- yeah, I said historically we have not shipped probably more than 35% of the orders we have
+got for turns in a given quarter. 70% is one of the higher numbers we have shipped.
+ 
+Matthew Chan Merrill Lynch
+Right. Right. And going back to that  million figure you gave us earlier. It seems through listening to a couple earlier questions that
+that's really kind of your bottom line threshold, the minimum amount of turns you expect in this quarter. Am I interpreting that correctly?
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+I can understand how I have confused you. That's a number that we would need to turn -- to ship for -- from our turns to meet a
+minimally acceptable number. I think that's what you just said, actually.
+ 
+Matthew Chan Merrill Lynch
+Okay. Great. That answers my question. Thanks for the bookings break down. I was wondering, I know you don't typically provide sales
+breakdowns, could you tell us what was your best performing business in terms of sales? And perhaps what the worst performing
+business in terms of sales in the just-ended March quarter was?
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+The worst performing is the ATE business. A lot are doing well. Every business unit had bookings up. I don't want to pick any favorites.
+I'm obviously much more pleased this quarter than I was six months ago. But, yeah, I think things are on a definite uptick.
+ 
+Matthew Chan Merrill Lynch
+Finally, turning to gross margins, how much gross margin upside do you think we have here? We have a couple things happening and
+you are moving more to 8-inch manufacturing and you probably still have more room in the Dallas business for gross margin expansion.
+Perhaps, if you can offer a longer term outlook here?
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+Well, our longer term outlook is in the low 60s over four or five years. We expect to be, you know, our gross margins will be in the low
+60s. But, you know, in the short-term, we see nothing that's going to erode our margins, you know, below the current levels.
+ 
+Matthew Chan Merrill Lynch
+But do you see gross margins expanding further?
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+Well, you know,, obviously they will when we get manufacturing efficiencies, but, you know, there is a blending going on because we are
+entering markets that have got great profit growth opportunities for us that to be in them you need to be comfortable with you know,
+55% gross margins. We have a blending going on. It is not a parameter we use to run this company. People mostly understand that now.
+ 
+ 
+Matthew Chan Merrill Lynch
+So, what I'm hearing is perhaps there is some upside due to manufacturing, but, over the long run, if you are going to grow revenues you
+have to enter new markets where have you to accept lower margins?.
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+We know if we're going to produce 30% gross in profits, gross in profits year over year after the long-term, you've got to grow revenues.
+And it is -- it is much -- it is a safer business strategy to grow revenues than to try and optimize gross margins.
+ 
+Matthew Chan Merrill Lynch
+Okay. Thank you.
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+I would like to know -- I would like more time to pass. We're seeing, you know, changes in the environment, and I would like to watch it.
+ 
+Gregory Calleri Midwest Research
+Okay. So, even though you got a good view and bookings are up, there is something out there that is still causing you some concern here.
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+Concern? No. I'm euphoric. I mean, I was -- no, I'm actually in one of my more euphoric moods. I'm not concerned. I mean, I don't want to
+put, you know, something down that I don't -- you know, that I don't feel like I need to do right now. It is not very important right now for
+me to guess at a number. I want to -- you know, I know we're going earn -- our bookings will be up and we'll earn more money than we
+did last quarter, and that's really all I what president to talk about right now. We don't have the backlog to say a lot more. I only have
+$200 million in backlog shippable in the quarter. I mean, I'm really -- we're not where we want to be. We would much rather have a
+higher backlog in the next  days.
+ 
+Gregory Calleri Midwest Research
+I understand.
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+And not to have to ship, you know --
+ 
+Gregory Calleri Midwest Research
+but you have given guidance with less backlog in the past.
+ 
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+Have I given guidance, not really. I really haven't. I have given minimum numbers which I have basically given here. I mean, I have given
+what I know we can do.
+ 
+Gregory Calleri Midwest Research
+Okay. And you had talked about a little bit of weakness in your test business. Do you think that's just people burning through inventory, a
+pause here? Can you give us a little more color on that part of business?
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+The semiconductor equipment companies, wafer fab and test equipment just aren't getting orders, yet. There has to be -- I think the test
+equipment guys will start to get orders before the fab guys, but that could be imminent, frankly. Unit demand is up and you can't -- you
+know, you can't build the stuff without testing it. The problem is there was a lot of equipment sold -- you know, when everything peeked
+about two years ago. A lot of that equipment is useful. They are not selling equipment.
+ 
+Gregory Calleri Midwest Research
+Okay. And then you talked about no inventory at your distributors or your end customers, but that's about as far as you can see. You
+wouldn't know stuff was building in finished goods?
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+No, I think I would.
+ 
+Gregory Calleri Midwest Research
+So you believe everything is pretty clean out there, all the way through to the end customer. Being the consumer for PC's or cell phones
+or whatever?
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+Well, I'm sure there is some consumer product that is just -- the stuff is coming out the windows and it is over inventoryed. Don't nail me
+to that cross.
+ 
+Gregory Calleri Midwest Research
+I'm not trying to pin you down on one. I'm trying to get a sense of how far you can see.
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+Yes, I agree. I said that in the press release and I think I said it in my comments that we think the inventories are very healthy out there.
+Low.
+ 
+Gregory Calleri Midwest Research
+Okay. Thank you for your time.
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+We don't -- with four weeks gone by, we haven't analyzed -- I couldn't tell you where those bookings were coming from right now. But we
+don't pay a lot of attention to what's happened after four weeks other than the fact that if nothing, if we book nothing we get panicked.
+But so far the quarter is ahead of last quarter and if I -- and I -- our wireless -- I know qualitatively that -- where it is up and at least for
+ 
+four -- in the early part of the quarter I mean, it is up and the wireless business is up, you know, over where it was last quarter. You know,
+the fiber use business is up and our notebook business is up over last quarter. I know those things. Our telecom business was up, but it
+was aat such a terrible low, it is up, but up materially. These things don't mean a lot after four weeks. That's what I'm trying to tell you.
+ 
+Clark Fuseman Fulcrum Partners
+All right. On the $100 million booking target from Dallas -- actually, one small one before that. You said that the end demand in your
+markets for the upcoming quarter was in excess of $320 million. Do you think that's about where the bookings level is going to wind up,
+or do you think bookings will be up in the quarter, you know, or they are so far in the quarter, it is hard to judge, but do you think they will
+end up being up?
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+Well, you know, remember this consumption number we have in infinite detail comes from human beings that live or die by trying to
+guess at what their customers are telling them, what's going to happen. And they have emotions and they go from pessimistic to
+optimistic. Like I tried to point out, they change their optimism from  million-dollar number four months ago to a number in excess of
+320. A lot of it had to do with they were hearing more optimistic stuff. The people who project the bookings, this is a consumption
+booking number -- the people that project the bookings, they pick a number, you know, that's a little lower than the guy who projects the
+consumption, but still it is in the $320 million range. One is  and one is 327. But remember, they are just groups of people that we add
+their projections up and it is affected by emotion. And optimism and pessimism. They talk to customers. They believe them, but they are
+biased by what happened the previous quarter?
+ 
+Clark Fuseman Fulcrum Partners
+Great. And specifically to Dallas on that $100 million target on bookings, obviously you won't get there in one quarter. We would love to
+see it, but you're not goint to get there.. What is your time horizon on that? Is is that over the course of the next the four quarters or
+something sooner than that?
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+I would -- yeah, I think -- I just don't know. We don't have -- I will tell you this: We do not have demand projections for them to be over a
+ million in the next quarter. That's not there. I didn't mean to imply that.
+ 
+Clark Fuseman Fulcrum Partners
+No. No. No. You didn't.
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+The potential is clearly there for them to book over a  million. It could happen later. I just can't tell you right now.
+ 
+Clark Fuseman Fulcrum Partners
+Great.
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+We have new businesses there that will help us when they kick in. And one is this microcontroller business. But I didn't mean to imply
+that next quarter we will book  million in Dallas.
+ 
+Clark Fuseman Fulcrum Partners
+No, you didn't do that. but thanks for that. The one -- one little housekeeping question, modeling question. What do you expect out backs
+to do in the fourth quarter? flatish? down a little? up a little?
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+What parameter? Which one?
+ 
+Clark Fuseman Fulcrum Partners
+Operating expenses.
+ 
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+Below the line? Is that what you mean, below the line expenses?.
+ 
+Clark Fuseman Fulcrum Partners
+Yeah. R&B, SG&A.
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+We will add  or  people. We're going to basically increase operating expenses as we grow revenues, but with the control that our
+primary objective is to try and get in some -- as we grow revenue to get that as a percentage of sales, you know, closer -- closer to 25%. It
+will be controlled. It will go up maybe a million dollars. I'm really guessing. I mean, it won't be flat. But it won't -- it will not certainly track
+revenue growth.
+ 
+Clark Fuseman Fulcrum Partners
+Great. So up a little is the operative word here.
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+Yeah. We remember -- remember, we have enough people -- enough technical people in place which we have had for over two years to
+execute our long-range plan. We're not having to manipulate it to grow into it -- to hire people to grow into it anyway, frankly, but we are
+not on a treadmill to need those people. That was a result of the  -- or  product development people we acquired with Dallas. So
+that's actually -- you know, that put us in a comfortable position. We would like -- you know, as I have said, we believe our below-the-line
+expense of percentage of sales is too high right now. But we need to grow into it. But we have been able to benefit by having these
+people and having that expense for the last two years. We got something for it. So it has been a good investment, but it hasn't made our
+numbers as nice as we would like them to have. But we're going to get the benefit of having that 35% below-the-line spending we have
+had for the last two years.
+ 
+Clark Fuseman Fulcrum Partners
+Great. Thanks.
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+Tore, I really can't. I don't want to comment on your model. I just don't want to do that.
+ 
+Tore Svanberg US Bancorp Piper Jaffray
+A second follow-up. What is your current bookings run rate?
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+Sorry, what?
+ 
+Tore Svanberg US Bancorp Piper Jaffray
+Your current bookings run rate?
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+What is that? I'm not sure I know your question. What do you mean by current bookings run rate?
+ 
+ 
+Tore Svanberg US Bancorp Piper Jaffray
+Where you stand today, what is the run rate?
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+What have we booked to date?
+ 
+Tore Svanberg US Bancorp Piper Jaffray
+Your run rate for the next  days?
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+Well, -- if we -- you mean if you take a linear extrapolation of what we've booked to date?
+ 
+Tore Svanberg US Bancorp Piper Jaffray
+Yes, exactly.
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+You can do that as well as I can. About $330 million.
+ 
+Tore Svanberg US Bancorp Piper Jaffray
+Great. Thank you.
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+Thank you, operator. This does conclude Maxim's conference call. We want to thank you for your continued participation and interest in
+Maxim. Thank you.
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+CONFERENCE CALL PARTICIPANTS
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+Thanks, Carl.
+We will begin, as usual, with some prepared remarks and then take whatever questions you would like to ask and provide you our best
+answers. The fourth quarter bookings were up approximately $5 million from the last quarter, and for the year, our bookings for the
+corporation were up 11% year-over-year. For Maxim without Dallas, our bookings were up 15% year-over-year, and Dallas's bookings
+without Maxim included were flat year-over-year. We do expect Dallas bookings to improve over the next few quarters. Turns orders for
+the fourth quarter were approximately  million, or 51% of our net bookings, and turns orders continue to be high relative to historical
+levels, which indicate to us that our customers are still ordering for their immediate needs. Turns orders have been about half of our
+bookings since the beginning of fiscal '02 when our bookings were at their lowest level.
+Inventories remained low at both our customers and our distributors worldwide. The geographic break-out of our bookings for fourth
+quarter were 34% in the United States, 37% in the Pac Rim, 20% in Europe, and 9% in Japan. And year-over-year, the growth came 9%
+from the U.S., 12% in the Pac Rim, Europe was up 10%, and Japan bookings were up 15%. Although we don't break out comprehensively
+our bookings by product market, I will tell you that we would highlight that this last quarter our business unit, or, excuse me, our data
+convertor business unit had increased bookings of 23% over the previous quarter, and our wireless and our wire line telecom business
+units, communications business units, bookings were up 22% quarter-over-quarter.
+Bookings for this current quarter, Q1, are going according to plan, in fact. We are through the first six weeks booking at a pace of
+approximately $350 million for the quarter. Our ship demand projections from our business units say that consumption -- projected
+consumption, will be in the neighborhood of about $330 million. Based on that, we currently plan to ship net revenues, or report net
+revenues of $310 million for this quarter and increase our earnings by a penny a share to  cents a share. There could be some up-side
+depending upon our bookings this quarter. But as I mentioned last quarter, we would like to continue to build backlog so that we're not
+so dependent on turns.
+Gross margins for the company were 70%, in Q4 which is approximately the same as in Q3. But during the fiscal year, our gross margins
+have increased, and particularly Dallas's growth margins have increased 6.3%, from 59.9% in the fourth quarter of fiscal '02 to 66.2% in
+the fourth quarter of fiscal '03. This is a result of -- primarily of improved margins due to moving manufacturing offshore, the increased
+productivity at our wafer fab and individual product yield improvement, as well as some contribution from the profitability of the new
+products that have been introduced over the last two years.
+Operating margins for the corporation also improved throughout the year from 34.4% a year ago to 40.1% this last quarter. Impressively,
+Dallas Semiconductor operating margins improved from 26.3% a year ago to 30.7% in the fourth quarter of this year. Operating margins
+for Maxim without Dallas improved from 37.6 % to 43.2% for the same period.
+Our R&D spending for the fourth quarter was 67.2 million compared to 66.8 million. SG&A spending levels were fundamentally flat on a
+dollar basis quarter-over-quarter, and in balance, our below the line spending decreased to 29.9% of net revenues for the fourth quarter,
+with Dallas below the line spending at 35.6% of our net revenues and Maxim, without Dallas, at 28% of our net revenues. And we're
+continuing to work, and our goal is to achieve a 25% of sales below the line spending. And that's going to be the resultant of primarily
+increased revenue growth.
+We increased our cash in short-term investment by $107 million during the quarter after we spent  million to repurchase 1.3 million
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+Yeah, I can, Michael. Give me one second. I have to look that up . Yeah, we shipped  million -- 70% of what we booked, we turned. Of
+what we booked for turns, we shipped. [INAUDIBLE] We booked  million of turns. What was your other question?
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+Yeah, they were overall $6 million. That's up very slightly from last quarter. The last four quarters, the cancellations have been  million.
+Going to Q1 of '03,  million, 7.8 million, down to 6.2 million.
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+Well, we expect both Dallas and Maxim to grow, you know, over 20% in the next  months. And Dallas could grow faster than that,
+maybe as much as 30, but that's our plan, or our projections, based on our knowledge of the economy, our belief in where the economy
+is, and where our products are designed into equipment tell us that we should have bookings and growth in that ballpark for both
+companies.
+ 
+Rick Schafer CIBC World Market
+Is there any reason that the profitability of Dallas wouldn't be able to get up to corporate average over time?
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+No, it should get to -- we're running it and making new product decisions with the same criterion that we make at Maxim, so we will
+[INAUDIBLE] approach that.
+ 
+Rick Schafer CIBC World Market
+Okay, then --
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+Well, we're projecting significant growth in notebooks in the next months, and I think one of the factors that you're probably aware of is
+that these low-cost notebooks that have been introduced by Dell and HP have been very, very successful, are taking market share away
+from the desktops, so we think that's a strategic trend that I think was underanticipated or estimated by maybe you guys, but it's
+happening.
+ 
+Rick Schafer CIBC World Market
+All right. Well, thanks.
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+It very well probably will. I mean, maybe that's just the nature of buying. Maybe everybody buys at the beginning of the quarter, and then
+they slow down. I think that's possible. You're right, I mean, that could be the way the buying habits occur.
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+I don't think so. Hang on a minute. No, I think Dallas bookings -- hang on one second. No, Dallas bookings did not grow last quarter.
+They were flat.
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+Yeah.
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+No, I don't think -- I think Dallas -- we're very comfortable with Dallas's growth plan, and we think we understand -- I mean, it's all based
+on new products and being in projects. And there's no -- we're dealing with a consolidation, which was significant, much more significant
+than Maxim, because they had a large percentage of their business in the telecom market, and they had a huge amount of inventory and
+distribution. But all in all, you know, Dallas has been slower to consolidate and get to a baseline where all of the excesses are out of the
+system. But other than that -- and, again, they did have a large commitment to the telecom market which they had to digest, or we had
+to digest. We think their growth prospects are very similar to Maxim's.
+ 
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+But quarter-to-quarter is not very meaningful. I mean, things happen. You have to really look at a longer term than quarter to the
+quarter, which I've said forever. But you don't pay much attention to quarter-to-quarter things.
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+Well, like I said, I mean, you know, we expect to grow from -- we expect to because -- we think consumption is about  million, and
+that's up quite a bit from the consumption levels of last quarter. So, yeah, we're -- we're digging out. This economy is growing now, and
+Maxim is growing. Dallas is no different than Maxim. I mean, I break them out simply so you guys can continue to see, you know, how the
+acquisition is being managed, and how it's doing, but I'm not breaking them out because they're different. There's not -- they basically
+are not serving different markets. I think that the company is very much like Maxim.
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+I think I separated out -- I think I gave you Maxim's bookings and then Dallas's. I said Maxim was up, and Dallas was not. And so we had
+no bookings growth in Dallas last quarter.
+ 
+Ross Seymore Deutsche Bank Securities, Inc.
+Okay. But either by end market or by product, was there something that offset the strength in the data converter side of the business?
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+Nothing relevant, really. There was no equipment area that was down.
+ 
+Ross Seymore Deutsche Bank Securities, Inc.
+Okay. And then I believe recently you've eliminated some salary freezes. I was wondering what that is going to mean going forward with
+the operating expenses, how we should go about modeling that. It has an effect of approximately 5% increase in our salaries for the year.
+I think in below-the-line spending it amounts to maybe a half million dollars a quarter increase. For each of those categories or just split
+evenly between the two?
+ 
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+I'm sorry, what do you mean?
+ 
+Ross Seymore Deutsche Bank Securities, Inc.
+R&D and SG&A.
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+Let me put it this way: It's insignificant; it's irrelevant. Not going to make any difference.
+ 
+Ross Seymore Deutsche Bank Securities, Inc.
+Gotcha. One end market question about the notebook market. There's been a bit more competition there.
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+Can I just -- I didn't intend to dismiss that question. I mean, it is -- we think that the combination of bonuses and salary that we're
+reinstating will have an effect of about $20 million of pre-tax profit for the year on us, which is incorporated in our plan.
+ 
+Ross Seymore Deutsche Bank Securities, Inc.
+Okay. Fair enough. Then over to the notebook side of things: You seem to be growing quite well in there, and you discuss that the
+booking strength, that bodes well for the unit side of things. Is the pricing side more competitive than in the past, less competitive, or just
+about the same?
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+It's the same. It's not a -- there's not a margin problem in our businesses, so if you get bookings, the margins are usually fine.
+ 
+Ross Seymore Deutsche Bank Securities, Inc.
+Then the final question is: What sort of target levels should we think of with inventory? You said you wanted to try to increase it a little bit
+this quarter. Should we think about it as an absolute dollar, as a turns level that you're shooting for?
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+No, we're trying to build a die bank. We're trying to increase our unfinished product inventory, and it really will come about, or needs to
+come about by getting the 8-inch wafer capacity up. And so I would probably maybe -- maybe I shouldn't have even brought that up,
+because I think if we do increase inventories, it's going to be small, a million, maybe $2 million, if we can. We'd like to. We'd like to
+increase inventories probably $10 million this year, but I don't think -- we're not going to make much progress on it probably this quarter.
+ 
+Ross Seymore Deutsche Bank Securities, Inc.
+Okay. Great. Thank you.
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+The telecom -- the traditional telecom bookings, or business, is up slightly. There's some growth there. From, you know, basically the
+metro and the short haul, and there is a need for equipment there, so I'm sure you're seeing that from other telecom companies. Our fiber
+business is growing, you know, at a pretty good rate now. It was destroyed, but it's coming back now, and it's back to about half of the
+level it was at its peak. That's both telecom and datacom related. Then our wireless, you know, the cell, you know, the handset business
+is doing well, as well as the wireless land business. Those are the areas.
+ 
+ 
+Christopher Caso SoundView Technology Group
+Maybe you can comment on some others during the quarter that talked about some inventory build in handsets during the quarter. Is
+that something that you guys saw? Was it significant for you guys?
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+No. You mean on the part of our customers?
+ 
+Christopher Caso SoundView Technology Group
+That's right.
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+No.
+ 
+Christopher Caso SoundView Technology Group
+Okay. And just following on, onto your comments on building inventory, where do you stand with wafer starts now? I think you said you
+were looking at building wafer starts in the first quarter of the year, increasing those. Are you going to increase them again in an attempt
+to build inventory?
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+We increased them last quarter, but we didn't end up building much inventory. We'll increase them another 10% this quarter.
+ 
+Christopher Caso SoundView Technology Group
+And you increased them 10% last quarter, also?
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+No, I don't know the actual number. I don't know if it was 10%. It probably wasn't, but we're trying to grow them, you know, 10% a
+quarter.
+ 
+Christopher Caso SoundView Technology Group
+Okay. Thanks.
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+I'm embarrassed because I'm not aware of what you're talking about. I don't have -- I don't have that understanding. I mean, I don't know
+about what you're talking about.
+ 
+Joseph Osha Merrill Lynch
+I am being told -- obviously, you're very, very competitive, and especially the voltage core for notebooks, and that's been a great business
+for you, but lots of companies out there chasing it. Just wondering if it is an environment where pricing is of some concern or not.
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+Well, I think pricing, I mean, sure. You're not a player if you're not a low-cost producer in that market. We -- my editorial there in my
+prepared statements were trying to allude to that. A lot of the people that get into some of these markets, you know, using foundries or
+ 
+-- are typically not low-cost producers. They get their head handed to them. I mean, you've got to be able to be the low-cost producer,
+but we are that, and so we're not -- we don't really -- we didn't get into this business to get out. We didn't get in not knowing what the
+costs were. But on balance, the notebook market is a good market. I mean, there are a dozen microchips that an analog company
+supplies, at least, in the notebook, but most of them are not very -- there isn't a lot of competition.
+ 
+Joseph Osha Merrill Lynch
+Okay. That answers my question. Then, just a sort of straight old, simple question. What's utilization, or maybe a better way of putting it,
+given your existing fab base, how much revenue do you think you could support at this point without building more?
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+We bought the equipment, and almost all of the equipment, probably might have to spend another 50,  million, but we can produce
+just under a half billion dollars a quarter with what we've got now at Dallas and at [INAUDIBLE] in Santa Fe and in Beaverton, a quarter.
+So I'd say 480,  million, something like that.
+ 
+Joseph Osha Merrill Lynch
+Let's hope for that  million this quarter.
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+I think that you're going to see growth this year from us and other companies.
+ 
+Joseph Osha Merrill Lynch
+Okay. Thank you, Jack.
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+Not really. I think the year-over-year numbers are more telling than any quarter-to-quarter thing. I think Japan still is struggling in the
+throes of a recession, if that's what you want to call it. Manufacturing is leaving both the U.S. and Japan going into Taiwan and China. So
+a lot of purchasing is occurring, you know, in the Pac Rim. Europe is fundamentally starting to behave normally again, but the size of the
+European market was inflated by the telecom boom that went on in every country over there, so now that's stabilized, but it's down a lot
+from where it was at its peak. I think the most -- I mean, the thing you walk away with that's relevant is probably only that the Pac Rim is
+now reporting a lot of the revenue growth for all the companies, not necessarily because they are that productive, it's that the
+manufacturing for phones and notebooks are pretty much occurs in the Pac Rim and in China. So you're seeing those products being
+bought for over there and then shipped, exported throughout the world, brought back and shipped.
+ 
+Joseph To Lehman Brothers
+Fair enough. One housekeeping question. You mentioned that you wanted to transfer -- or you wanted to have something like 40% of
+your wafer starts at 8-inch by the end of next fiscal year. How much of your starts now are at 8-inch? Is anything being produced?
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+I said 45%, and I think -- let's see here. I can't remember. I think we're producing about  to 30% of ours on 8-inch now.
+ 
+Joseph To Lehman Brothers
+Great. Thanks a lot.
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+Third and fourth fiscal quarter? Yeah, hang on a minute. Dallas revenue in the third quarter was  million. In the fourth quarter it was 
+million.
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+Well, Dallas is just running very well. Their manufacturing yields are up. We've got all the off-shore -- onshore stuff, off-shore. The
+individual product yields are good. Their new products are -- like I said all along, they've got a lot of new products. We've put a lot into
+the market, and they're all very proprietary. They don't suffer much competition at all. So we've done -- I mean that's contributing a high
+margin. So the gross margins, you know, went up 6% year-over-year, and that's huge, you know. So that's what's happening. We're not --
+the below-the-line spending is still out of whack. It's 35% of sales below the line. So we're working to get that number down. We want
+that number to be down in the 26, 27% area, which it will get to.
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+I was talking about gross margin. I better check. The Dallas gross margin, yeah, they went -- that was a year-over-year number. I hope I
+gave you year-over-year. I meant that it was year-over-year. The quarter-to-quarter was only 1%, or half a percent.
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+You said gross margin, right? No, I'm sorry. Wait a minute. Hang on a minute. Carl is pointing something out to me. What am I looking at
+here? Gross margin? Hang on a minute. I've got two conflicting reports here. The Dallas gross margin, yeah, they went -- they were
+65.7% in Q3 and 6.4% in Q4. The year-over-year improvement is what we talked about when I talked about earlier, right? I'll go back.
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+Louis, did you get --
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+Operating margins. I was talking gross margins.
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+Okay. The operating margins, you know, did go from 24.4 to 30.7. I thought you said gross margin. No. And that came about, you know,
+primarily because we've been able to reduce below the line spending.
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+That assumes that we'll be -- this conversion to 8-inch will have occurred with the equipment we've got in place.
+ 
+Brian Wu Bear, Stearns & Company
+I think you said you were going to spend another  to  million. Is that all for 8-inch equipment?
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+Yeah, it would be.
+ 
+Brian Wu Bear, Stearns & Company
+Would the total cap ex, I guess -- the last couple of years you've been spending between  and  million. Would it be about the same,
+or would you expect that to go up?
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+I think, you know, it's a moving target, but it's in the  million area --  to  million is where it would be for the year.
+ 
+Brian Wu Bear, Stearns & Company
+Okay. Thank you very much.
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+When bookings increase.
+ 
+Tore Svanberg U.S. Bancorp Piper Jaffrey, Inc.
+Do you think we could see that as early as this calendar year?
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+Oh, I think we expect bookings to increase, you know, this next quarter. I think turns will flatten out at about  million. That's my
+opinion. I mean, I'm guessing. My feeling is that you won't -- turns won't continue to grow but bookings will.
+ 
+Tore Svanberg U.S. Bancorp Piper Jaffrey, Inc.
+Okay. Very well. And also looking at the high-speed microcontrollers coming out of the Dallas division, are these products targeted at
+new applications, or are we also looking at some potential replacement technology here?
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+They're mostly targeted at new applications. They're targeted -- they're very application-specific. They're doing things that weren't being
+done before by a microcontroller or a microcontroller-based, smart microchip. There's an evolution going on right now in equipment
+where a lot of functions now can be done intelligently, and that were not being done intelligently in the last generation of equipment.
+And it's coming about because we can now integrate very, very high-performance analog functions on the same chip with somewhat
+[INAUDIBLE] in microcontrollers but effective ones like  types and other risk-type controllers. So it's a new -- it's a -- there is some
+cannibalization, but it's not of our product, it's other discrete approaches to these things.
+ 
+ 
+Tore Svanberg U.S. Bancorp Piper Jaffrey, Inc.
+Understood. Finally, coming back to the notebook market, it's -- obviously, becoming more of wireless technology as well. You
+mentioned potential market share gains in the notebook market. Would that primarily be on the power management side or on the
+wireless side?
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+Well, we don't count the wireless -- we are now -- yeah, the notebooks are -- we are selling wireless circuits for notebook applications,
+there's no doubt, but we don't count that as notebook business. We only look at -- when we talk about battery management, power
+management, we don't have a category called notebooks, in general. We have portable -- products for portable equipment, and those
+include everything -- and then we have communications products. So when I talk about growth in our notebook business, I'm really
+talking about everything but the radio.
+ 
+Tore Svanberg U.S. Bancorp Piper Jaffrey, Inc.
+Great. Thank you for that clarification.
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+Yeah.
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+Well, you know, I think your analysis is right. First of all, it's not a majority of our business. Okay? It's -- we don't have any one thing that's
+that big a share of our market of our business. But it's important to us, but it's in the -- the wireless business is 15% of our business, or
+16%, something like that. We have growth in the wireless land area, we have growth in the terrestrial radio area, we have growth in the
+CDMA -- in the advanced CDMA phone areas. We have -- we provide a high level of integration, probably the highest level of integration
+in the world as far as no other company is providing radios with as much integration as Maxim has. We integrate passive compos; we
+integrate the power amplifier. So we are providing a level of product that people desire in terms of these next-generation phones. We
+have no business in the GSM area or these other areas. So we're just -- we're a CDM A -- fundamentally a CDMA company in the cell
+phone area.
+ 
+Clark Fuse Fulcrum Global Partners
+And I take it your exposure to Korea is less?
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+Well, I don't what that means. You mean exposure? You mean the North Koreans?
+ 
+Clark Fuse Fulcrum Global Partners
+No. Good. Touche. No, I meant Samsung, LG.
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+I don't consider them an enemy, no, they're customers of ours.
+ 
+Clark Fuse Fulcrum Global Partners
+Right, but are they less a portion of your business than other CDMA?
+ 
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+They're not less. They're major CDMA companies. So is -- there's a set of five or six of them. They're all customers.
+ 
+Clark Fuse Fulcrum Global Partners
+Okay. How about the ATE business? There's been some reports that the test equipment guys are starting to show some signs of life.
+What do you see there?
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+Would you have them call me?
+ 
+Clark Fuse Fulcrum Global Partners
+So you're suggesting that that's still kind of a dead market as it's been for you for awhile?
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+It's not -- it's not getting deader, but it isn't -- it hasn't started to improve yet. It's not -- no, it's not one of the markets that I would say is
+improved last quarter.
+ 
+Clark Fuse Fulcrum Global Partners
+Great. And you said your end market expectations for the first quarter was  million. Do you have a number for overall fiscal '04?
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+Yeah, I can share with you what our business units are planning on, and what they believe, and they believe that they are going to --
+there's a demand for about $1.5 billion of our product this year, in the next  months.
+ 
+Clark Fuse Fulcrum Global Partners
+Great. And one other housekeeping thing. What kind of depreciation are you expecting for next year?
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+About  million a quarter. Nothing changed. That's the depreciation expense.
+ 
+Clark Fuse Fulcrum Global Partners
+And tax rate is still 33%?
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+Yeah.
+ 
+Clark Fuse Fulcrum Global Partners
+Super. That's it for me.
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+Thank you.
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+Our -- you know, we have -- gosh. We introduce so many products a quarter in a year, but I'm going to have to generalize a bit. But on
+balance, the products we are introducing are of higher complexity than other companies. That, I'm sure is correct. And I think our -- you
+know, our ASP's are higher for each generation of product that we come out with simply because there's more integration. Having said
+that, there are areas that, you know -- prices are, on a per function basis, the cost of microchips, or the cost of function is going down,
+which is what's causing this amazing, this tremendous unit growth and the pervasiveness of what we do. But we're doing more of it now.
+And so, therefore, we're collecting more revenue, but the price per function on a component basis, on an amplifier basis or [comparator]
+basis or maybe even a data converter basis is down, but overall, on a per chip basis, it's not down.
+ 
+Doug Friedman UBS Investment Bank
+All right. Just sort of a follow-up to that. Do you foresee any change in your company's strategy regarding 802.11 type of circuits that
+we've seen by recently by others in the analog space due to heavy price pressure and standardization in that market? Do you see --
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+Were you on the last conference call?
+ 
+Doug Friedman UBS Investment Bank
+No, I was not.
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+Okay. Well, I think in the last two or three conference calls, at least, and for the last year I've said 802.11 is a valuable function and it's a
+valuable technology. It's providing -- it's benefiting mankind. But as far as a -- an important place to be, you know, a strategic place to be
+as a supplier of those, how strategic it is, it's not very. Anytime you're supplying a product to a standard or to a regulation, I mean, it's a
+commodity, or will soon be a commodity, and so, you know, you're not going to -- there's going to be a lot of people making those
+circuits. The guys that will make some money on it will be the low-cost producers. We're one of those, but, you know, it's not -- there's not
+a lot of after -- this next generation, there's not going to be a lot of value-added making -- designing new circuits. And so, you know,
+you're going to probably not design another one.
+ 
+Doug Friedman UBS Investment Bank
+All right. Thank you.
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+I think I've done that to the extent that I can on a conference call like this. I really would -- I don't want to really repeat myself.
+ 
+Krishna Shankar JMP Securities, LLC
+What about the industrial market and your orders from the distribution channel? Can you characterize sequential trends in those two
+areas?
+ 
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+Yeah, the industrial or general purpose -- not general purpose, but the mixed-signal analog product that tend to go into a broad variety
+of applications, we've had growth in the last two quarters in those areas. We have three business units in Dallas that serve those markets,
+those broad markets, and we have one large business unit at Maxim, and it's about 40% of our business when you combine the two. They
+are growing.
+ 
+Krishna Shankar JMP Securities, LLC
+Okay. Thank you.
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+No, I don't draw that conclusion. My conclusion is that, unfortunately, they have -- in many cases they've developed a function, maybe
+not unique to them, but a function that's useful, and what -- but they find themselves not able to supply it because of their cost
+limitations. And it's the customer is, you know, really requiring a different price, and there's other guys making it. So they find themselves
+not in a position to -- I don't see them as being a price leader. I see them actually getting run out of the market. I don't find that argument
+-- I mean, that scenario -- I mean, I would put broadcom in that position. I mean, everybody seems to be comfortable that they make
+40% gross margins, but if Maxim made 40% gross margins you wouldn't be comfortable with that, and I don't think you're really that
+viable if you're a  or 40% gross margin microchip company, because you're not going to give the customer, you know, the lowest cost
+possible. So they don't really lead -- these fabless companies do not lead prices down. They basically drop out of the markets, and I think
+you find, you know, a lot of them for sale right now, and they just -- you can acquire them if you want to acquire the products, but you are
+pretty much saddled with having to use their foundry processes, too. But the answer to your question, I don't see them as a price leader
+or as a driving -- or hurting the market
+ 
+Andrew Root Goldman Sachs
+Broadcom aside, are there any companies that you find attractive that are looking to sell themselves?
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+You know, the ones that are for sale -- there's several radio companies that are for sale, and for that reason, they can't compete. The
+problem is, if you -- we have most of the radio functions, but somebody who didn't, might buy them. But now, you're fundamentally --
+you've got to somehow -- if you don't have your own manufacturing, you're no sense in buying them, and if you do have your own
+manufacturing, you now have to convert their circuits into your own manufacturing, which is another redesign. So it's pretty cumbersome
+to acquire these things. I think in some cases there may be, you know, some design automation or software value to some IP that could
+be of use, but I'm not -- no, I'm not sitting here spending a lot of time evaluating these things right now.
+ 
+Andrew Root Goldman Sachs
+Then the last quick question on the dividend, as a percent of your earnings this quarter, it's in the mid-30's. Is that absent some other use
+of cash -- compelling use of cash? Is that the kind of pay-out you guys are settling on, or is that still evolving?
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+Would you start that over? I didn't follow you.
+ 
+ 
+Andrew Root Goldman Sachs
+Sure. Your dividend this quarter at  cents -- I'm just dividing the  cents into your earnings and looking at a dividend pay-out ratio, I
+think you're kind of answering the question. That's not necessarily a target ratio. It's just where you happen to be today.
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+I never even -- right. I had not even done that ratio, so I'm ignorant of that ratio. No, we do it -- I tried to explain, our Board, you know, is
+very conservative, and they, you know, and they're also shareholders, and they -- we feel we want to be as attractive a company as we can
+to our shareholders, and we want to demonstrate that we are a profitable cash generating company and that we can distribute a
+dividend that's interesting without it having any effect on our operating ability, and that's what we're doing here. I mean, that number is,
+you know, gee, we generate $400 million of cash a year, and, you know, we're -- we clearly can -- we've got 1.2 billion in the bank. We
+clearly can distribute $100 million without it having any effect. That's what it's all about.
+ 
+Andrew Root Goldman Sachs
+That makes sense. Thanks.
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+Jeff, I don't have the right break, the exact break-out, but I will tell you right now you will never see the number. It will not -- it won't
+make any difference. I mean, as far as an increase in expense. I know that the R&D increased about a half million a quarter, so it's about
+ million is the R&D number of the 20, and I guess the rest of it is pretty much above the line.
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+Excuse me?
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+Smaller than the R&D number.
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+Well, I mean, I will share with you, you know, the think -- which I tend to not do this, but first of all, I think we're talking, you know,
+probably, total below-the-line increase in salaries due to those two issues is going to be somewhere in the neighborhood of, you know,
+$10 million of the 20. Okay? 2.5 million.
+ 
+ 
+John Gifford Maxim Integrated Products - Chairman, President, CEO
+I'm sorry, four times -- yeah, two and a half -- that's not right. A half a million, 700,000 -- that's wrong. About  to  million of it is going
+to be below the line. The other  million,  million, is going to be above the line. Okay? So that doesn't have a lot to do with increasing
+our below-the-line spending as a percent. What I -- what we're going to do, as far as getting -- our goal is to get to 25% below-the-line
+spending. Obviously, you know, I've got to use good judgment as to how to do that. I'm not going to not grow our engineering
+organizations. In fact, you know, in the last two quarters, we're adding, you know,  people in engineering. But you have to realize that
+Dallas is operating at -- they have got an abundance of engineers. They have 35% below-the-line spending, and they really do -- we do
+have a huge headcount in Dallas below the line given their revenue. So we don't have to add anybody in Dallas. So our additions will
+occur in Maxim, and we will grow, you know, as fast as we can with regard to, you know, our technical people, as fast as we can find them
+at Maxim. We don't have any plan to not hire. We have no plan to control our -- to stifle our growth by refusing to spend below the line.
+I'm just saying that we aren't going to spend at Dallas, and we are going to spend at Maxim, and Dallas is going to have revenue growth,
+as is Maxim. And the result of that will get us -- I believe in the next  months, you know, close to 25%.
+ 
